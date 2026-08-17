@@ -1,1 +1,33 @@
+name: Radar MP
 
+on:
+  schedule:
+    - cron: '0 12-23 * * *'  # cada hora en punto, 08:00 a 19:00 hora Chile
+    - cron: '0 0 * * *'      # 20:00 hora Chile
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generar-reporte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generar reporte
+        env:
+          MP_TICKET: ${{ secrets.MP_TICKET }}
+        run: python3 mp_client.py am
+
+      - name: Guardar reporte.json en el repo
+        run: |
+          git config user.name "Radar MP bot"
+          git config user.email "actions@github.com"
+          git add reporte.json
+          git diff --staged --quiet || git commit -m "Reporte $(date -u +%F' '%H:%M)"
+          git push
