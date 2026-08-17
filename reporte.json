@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-17T14:59+00:00",
+  "generado": "2026-08-17T15:56+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -167,19 +167,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "2281-1439-COT26",
-      "org": "I MUNICIPALIDAD VALDIVIA",
-      "titulo": "COCTEL FIESTAS DE LAS TRADICIONES EN LA COSTA",
-      "monto": 1750000,
-      "dias": 2,
-      "cierre": "2026-08-19",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "1199-43-COT26",
       "org": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
       "titulo": "“ALOJAMIENTO CON DESAYUNO, PARA EQUIPO INTERDISCIPLINARIO PROMESAS CHILE REGIÓN DEL MAULE”",
@@ -193,19 +180,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "1750-60-COT26",
-      "org": "DIRECCION NACIONAL DEL SERVICIO CIVIL",
-      "titulo": "Servicio de coffee para actividad institucional ",
-      "monto": 500000,
-      "dias": 1,
-      "cierre": "2026-08-18",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "1233619-539-COT26",
       "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA MAULE COSTA",
       "titulo": "Servicio de Coffe Break para Liceo Antonio Varas perteneciente al SLEP Maule Costa",
@@ -215,19 +189,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1756-66-COT26",
-      "org": "MINEDUC ADMINISTRACION VIII REGION",
-      "titulo": "SERVICIO DE COFFE PARA COMUNA DE LOS ANGELES",
-      "monto": 1000000,
-      "dias": 1,
-      "cierre": "2026-08-18",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -271,19 +232,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "867990-419-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Contratación Servicio de Catering - Escuela de Terapia Ocupacional, Facultad de Ciencias Médicas (FACIMED), USACH",
-      "monto": 2000000,
-      "dias": 1,
-      "cierre": "2026-08-18",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "2675-282-COT26",
       "org": "I MUNICIPALIDAD DE MOSTAZAL",
       "titulo": "SERVICIOS DE CATERING, COFFEES Y COLACIONES PARA LA MUNICIPALIDAD ",
@@ -293,6 +241,19 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2057-267-COT26",
+      "org": "UNIVERSIDAD ARTURO PRAT",
+      "titulo": "Servicio de Coctel para el Día del Técnico en la Universidad Arturo Prat, Sede Victoria",
+      "monto": 2249710,
+      "dias": 1,
+      "cierre": "2026-08-19",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -323,6 +284,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "1077908-73-COT26",
+      "org": "CENTRO ONCOLOGICO DEL NORTE",
+      "titulo": "Adquisición de dulces para Coffee Break y otros: Curso de Capacitación de funcionarios del C.O.N.",
+      "monto": 2703110,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "1182705-152-COT26",
       "org": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
       "titulo": "Servicio de coffee break para Jornada CNED  ",
@@ -345,6 +319,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1750-60-COT26",
+      "org": "DIRECCION NACIONAL DEL SERVICIO CIVIL",
+      "titulo": "Servicio de coffee para actividad institucional ",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -375,19 +362,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2273-706-COT26",
-      "org": "I MUNICIPALIDAD DE LA PINTANA",
-      "titulo": "ADQUISICIÓN COLACIONES PARA USUARIOS PROGRAMA ABRIENDO CAMINOS, COFFEE, Memo 21740 mms",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3567-322-COT26",
       "org": "I MUNICIPALIDAD DE FLORIDA",
       "titulo": "SERVICIO DE CAPACITACIÓN Y SERVICIO DE COFFEE BREAK",
@@ -414,19 +388,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1306643-208-COT26",
-      "org": "I. MUNICIPALIDAD DE CERRO NAVIA",
-      "titulo": "MENAJE Y EQUIPAMIENTO PARA COFFEE BREAK EXP 8269/2026",
-      "monto": 711540,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2078-351-COT26",
       "org": "SUBSECRETARIA DE SALUD PUBLICA",
       "titulo": "Serv. Coffee break (90) 3° Escuela Formación Ciudadana Región del Bio Bio SC 353",
@@ -436,19 +397,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2026-427-COT26",
-      "org": "SERVICIO SALUD VINA DEL MAR QUILLOTA",
-      "titulo": " Servicio integral para jornada de capacitación PESPI para 25 participantes, que incluya salón VIÑA DEL MAR , equipamiento audiovisual, coffee break y almuerzo durante dos días",
-      "monto": 2500000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -557,6 +505,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1756-66-COT26",
+      "org": "MINEDUC ADMINISTRACION VIII REGION",
+      "titulo": "SERVICIO DE COFFE PARA COMUNA DE LOS ANGELES",
+      "monto": 1000000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2091-9-COT26",
       "org": "Departamento Provincial San Felipe-Los Andes",
       "titulo": "Coffe Break",
@@ -579,19 +540,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región Aysén del General Carlos Ibáñez del Campo",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2404-494-COT26",
-      "org": "I MUNICIPALIDAD DE IQUIQUE",
-      "titulo": "SERVICIO DE COFFE BREAK PROGRAMA PEQUEÑAS LOCALIDADES ",
-      "monto": 450000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -670,6 +618,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "957865-138-COT26",
+      "org": "SUBSECRETARIA DE DERECHOS HUMANOS",
+      "titulo": "CDP N°335 Servicio de café Comisión PAN - Morandé 107 piso 2  20 y 27 de agosto",
+      "monto": 595000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -804,6 +765,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "867990-419-COT26",
+      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+      "titulo": "Contratación Servicio de Catering - Escuela de Terapia Ocupacional, Facultad de Ciencias Médicas (FACIMED), USACH",
+      "monto": 2000000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "1043030-53-COT26",
       "org": "Secretaria Ministerial de Educación Región Ñuble",
       "titulo": "SERVICIO DE CATERING CUENTA PUBLICA PARTICIPATIVA 2026 - SEREMI ÑUBLE",
@@ -921,19 +895,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3482-128-COT26",
-      "org": "Ejercito de Chile",
-      "titulo": "ADQUISICIÓN DE ALIMENTOS Y BEBIDAS PARA  UN COCKTAIL PARA LA CELEBRACIÓN DEL DÍA DEL RESERVISTA EN ESTA UNIDAD REGIMENTARIA.",
-      "monto": 380000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "COCKTAIL",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3477-437-COT26",
       "org": "I MUNICIPALIDAD DE VILCUN",
       "titulo": "CONTRATACIÓN DE SERVICIO DE BANQUETERIA PARA CEREMONIA DE ENTREGA DE SUBVENCIONES 2026 - DIDECO",
@@ -943,19 +904,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "626529-49-COT26",
-      "org": "I MUNICIPALIDAD DE SAN PEDRO",
-      "titulo": "SERVICIO DE BANQUETERIA - PROGRAMA FOMIL (MEMO 1045 - DIDECO) ",
-      "monto": 700000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -982,19 +930,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4164-324-COT26",
-      "org": "I MUNICIPALIDAD DE DONIHUE",
-      "titulo": "Capacitación de técnicas de banqueteria y gestión de eventos para el programa MJH",
-      "monto": 1500000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1129,6 +1064,19 @@
       "probabilidad": 54
     },
     {
+      "codigo": "876-67-COT26",
+      "org": "SECRETARIA GENERAL DE GOBIERNO",
+      "titulo": "SC 3314 Servicio de coffee break, día 20 de agosto de 2026, Isla de Maipo 200 personas.",
+      "monto": 2000000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 1,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
       "codigo": "4371-259-COT26",
       "org": "I MUNICIPALIDAD DE SAN VICENTE",
       "titulo": "INSUMOS COFFEE BREAK",
@@ -1140,6 +1088,19 @@
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 50
+    },
+    {
+      "codigo": "4477-203-COT26",
+      "org": "Ilustre Municipalidad de Contulmo - Educación",
+      "titulo": "COCTEL ",
+      "monto": 215000,
+      "dias": 2,
+      "cierre": "2026-08-20",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 49
     },
     {
       "codigo": "918434-200-COT26",
@@ -1220,6 +1181,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "5609-139-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Insumos para coffee break ",
+      "monto": 50000,
+      "dias": 0,
+      "cierre": "2026-08-18",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "1082957-138-COT26",
       "org": "DIRECCION GENERAL DE PROMOCION DE EXPORTACIONES",
       "titulo": "SERVICIO DE ALIMENTACIÓN, CONSISTENTE EN COFFEE BREAK EN LA CIUDAD DE COPIAPÓ.",
@@ -1272,19 +1246,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "918434-198-COT26",
-      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
-      "titulo": "D3855 Adquisición de servicio de Coffee break para actividad con mujeres de organizaciones sociales para diálogo ciudadano, Seremi del Maule",
-      "monto": 250000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "4306-348-COT26",
       "org": "I MUNICIPALIDAD DE ERCILLA",
       "titulo": "ADQUISICION DE MERCADERIAS VARIAS PARA COFFE BREAK CON USUARIOS DEL PMJH, ERCILLA.-",
@@ -1311,32 +1272,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "1111432-320-COT26",
-      "org": "CONSULTORIO GENERAL URBANO SAN FELIPE",
-      "titulo": "Adquisición Coffe break curso duelo. ",
-      "monto": 264000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "2033-63-COT26",
-      "org": "Departamento Provincial de Educación Concepción",
-      "titulo": "SERVICIO COFFE BREAK - RED PROVINCIAL DE CONVIVENCIA",
-      "monto": 250000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "742-54-COT26",
       "org": "INSTITUTO DE DESARROLLO AGROPECUARIO",
       "titulo": "CATERING PARA 20 PERSONAS EN TALLER INDAP",
@@ -1359,19 +1294,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "4477-203-COT26",
-      "org": "Ilustre Municipalidad de Contulmo - Educación",
-      "titulo": "COCTEL ",
-      "monto": 215000,
-      "dias": 0,
-      "cierre": "2026-08-17",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 45
     },
