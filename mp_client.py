@@ -13,7 +13,7 @@ import urllib.parse
 import urllib.error
 from datetime import datetime, timezone, timedelta
 
-TICKET = os.environ.get("MP_TICKET", "")
+TICKET = os.environ.get("MP_TICKET", "").strip()
 DIAS_ATRAS = 7
 BASE_URL = "https://api2.mercadopublico.cl"
 
@@ -78,10 +78,6 @@ def buscar_licitaciones(momento, keywords):
     vistos = {}
     for kw in keywords:
         for item in buscar_por_keyword(kw, desde, hasta):
-            # La busqueda de la API es "difusa" y a veces trae resultados
-            # que no tienen relacion real con la keyword. Filtramos en
-            # nuestro lado: solo dejamos pasar si la palabra aparece
-            # literal en el titulo.
             nombre = item.get("nombre", "")
             if kw.lower() not in nombre.lower():
                 continue
