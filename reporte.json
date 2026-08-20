@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-20T20:03+00:00",
+  "generado": "2026-08-20T21:08+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -89,13 +89,13 @@
       "probabilidad": 59
     },
     {
-      "codigo": "3718-97-COT26",
-      "org": "I MUNICIPALIDAD DE PUMANQUE",
-      "titulo": "alimentacion saludable Programa Promocion de Salud ",
-      "monto": 500000,
+      "codigo": "889473-1583-COT26",
+      "org": "UNIVERSIDAD DE O'HIGGINS",
+      "titulo": "SC 8582 - Insumos de Cafetería",
+      "monto": 527999,
       "dias": 1,
-      "cierre": "2026-08-21",
-      "keyword": "SALUDABLE",
+      "cierre": "2026-08-22",
+      "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
@@ -141,6 +141,32 @@
       "probabilidad": 55
     },
     {
+      "codigo": "5586-2122-COT26",
+      "org": "UNIVERSIDAD DE LA FRONTERA",
+      "titulo": "J/T Servicio de coctel, Región de La Araucanía.",
+      "monto": 1800000,
+      "dias": 0,
+      "cierre": "2026-08-21",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3948-222-COT26",
+      "org": "I MUNICIPALIDAD DE NAVIDAD",
+      "titulo": "Coctel para autoridades, posterior al desfile de Fiestas Patrias 2026",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-08-21",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "4414-525-COT26",
       "org": "I MUNICIPALIDAD DE ARAUCO",
       "titulo": "SERVICIO DE COCTEL PARA 180 PERSONAS Actividad: CONMEMORACIÓN DÍA INTERNACIONAL DE LA MUJER INDIGINA",
@@ -180,19 +206,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2704-1462-COT26",
-      "org": "UNIVERSIDAD DEL BIO BIO",
-      "titulo": " SC 4232 SERVICIO DE COCTEL 27-08",
-      "monto": 450000,
-      "dias": 0,
-      "cierre": "2026-08-20",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3151-532-COT26",
       "org": "I MUNICIPALIDAD DE LONCOCHE",
       "titulo": "SERVICIO DE COCTEL PARA SEMINARIO DE BERRIES",
@@ -202,19 +215,6 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2177-73-COT26",
-      "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
-      "titulo": "SERVICIO DE COCKTAIL PARA ANIVERSARIO DE LA ILUSTRE CORTE DE APELACIONES DE TALCA",
-      "monto": 1000000,
-      "dias": 0,
-      "cierre": "2026-08-20",
-      "keyword": "COCKTAIL",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -267,6 +267,19 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3718-97-COT26",
+      "org": "I MUNICIPALIDAD DE PUMANQUE",
+      "titulo": "alimentacion saludable Programa Promocion de Salud ",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-08-21",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -336,19 +349,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2296-482-COT26",
-      "org": "I MUNICIPALIDAD DE CONCHALI",
-      "titulo": "Adquisición de Snack saludable, Guía de Pedido N°27075 G.R.D ",
-      "monto": 900000,
-      "dias": 0,
-      "cierre": "2026-08-20",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1624-119-COT26",
       "org": "SERVICIO DE SALUD HOSPITAL DE NANCAGUA",
       "titulo": "Once Saludable para Programa  Apoyo a la Gestion APS Segun Solicitud ",
@@ -388,6 +388,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "918434-210-COT26",
+      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+      "titulo": "D4075 Adquisición de Servicio de cafetería para los Diálogos con las Organizaciones de la Sociedad Civil para el Diseño de las Agendas Regionales de Género de la SEREMI del Ñuble",
+      "monto": 150000,
+      "dias": 3,
+      "cierre": "2026-08-24",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 51
+    },
+    {
       "codigo": "463-56-COT26",
       "org": "CENTRO DE INFORMACION DE RECURSOS NATURALES",
       "titulo": "Servicio de cafetería para 20 personas viernes 04/09/26 Providencia, Santiago.",
@@ -399,19 +412,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 51
-    },
-    {
-      "codigo": "5338-219-COT26",
-      "org": "UNIVERSIDAD DE MAGALLANES",
-      "titulo": "PROCESO DE COMPRA AGIL - ADQUISICION POR EL SERVICIO DE COCTEL FIESTAS PATRIAS PARA LA UNIVERSIDAD DE MAGALLANES",
-      "monto": 2763180,
-      "dias": 0,
-      "cierre": "2026-08-20",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 1,
-      "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 50
     },
     {
       "codigo": "5955-377-COT26",
