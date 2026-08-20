@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-20T21:08+00:00",
+  "generado": "2026-08-20T23:03+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -232,6 +232,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "754-75-COT26",
+      "org": "Secretaría Ministerial de Educación - RM",
+      "titulo": " Lbb-Servicios de amplificación, audio, transmisión e imagen y servicio de cafetería para Cuenta Pública",
+      "monto": 900000,
+      "dias": 0,
+      "cierre": "2026-08-21",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "889473-1577-COT26",
       "org": "UNIVERSIDAD DE O'HIGGINS",
       "titulo": "SC 8641 - Servicio de cafetería y brunch para Jornadas Territoriales PACE",
@@ -427,19 +440,6 @@
       "probabilidad": 50
     },
     {
-      "codigo": "2074-26-COT26",
-      "org": "Departamento Provincial de Educación de Magallanes",
-      "titulo": "Servicio de cafetería en Punta Arenas para el 31 de agosto, para 30 personas.",
-      "monto": 195000,
-      "dias": 2,
-      "cierre": "2026-08-22",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
       "codigo": "2333-557-COT26",
       "org": "I MUNICIPALIDAD DE LINARES",
       "titulo": "SERVICIO DE COCTEL",
@@ -449,6 +449,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "2074-26-COT26",
+      "org": "Departamento Provincial de Educación de Magallanes",
+      "titulo": "Servicio de cafetería en Punta Arenas para el 31 de agosto, para 30 personas.",
+      "monto": 195000,
+      "dias": 1,
+      "cierre": "2026-08-22",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
       "probabilidad": 47
     },
@@ -549,7 +562,7 @@
       "titulo": "ADQUISICIÓN DE INSUMOS PARA TALLER ALIMENTACIÓN SALUDABLE PROGRAMA CARDIOVASCULAR ",
       "monto": 240000,
       "dias": 0,
-      "cierre": "2026-08-20",
+      "cierre": "2026-08-21",
       "keyword": "SALUDABLE",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
@@ -568,6 +581,19 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "1368-25-COT26",
+      "org": "CORPORACIÓN DE FOMENTO DE LA PRODUCCIÓN - CORFO",
+      "titulo": "Servicio de café para Ceremonia de firma del APL Servicios Gastronómicos y Turísticos Barrio del Mar",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-08-21",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 2,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 35
     },
     {
       "codigo": "635-450-COT26",
