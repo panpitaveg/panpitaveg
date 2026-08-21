@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-21T21:57+00:00",
+  "generado": "2026-08-21T22:57+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -362,6 +362,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "1134432-604-COT26",
+      "org": "I MUNICIPALIDAD DE PUCHUNCAVI",
+      "titulo": "Servicio de coffe break para diagnostico nacional de calidad de la gestión municipal 2026",
+      "monto": 500000,
+      "dias": 2,
+      "cierre": "2026-08-24",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "2616-7-COT26",
       "org": "SECRETARIA GENERAL DE GOBIERNO",
       "titulo": "SERVICIO DE COFFE PARA 90 PERSONAS PARA LAS CEREMONIAS DE ENTREGA DE RECURSOS DEL FONDO DE FORTALECIMIENTO AÑO 2026 PARA SECRETARÍA REGIONAL MINISTERIAL DE GOBIERNO REGIÓN DEL MAULE",
@@ -590,6 +603,19 @@
       "dias": 2,
       "cierre": "2026-08-24",
       "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1224960-31-COT26",
+      "org": "CORPORACION MUNICIPAL DEL DEPORTE DE LAMPA",
+      "titulo": "Adquisición de servicio de Catering para eventos 2026",
+      "monto": 2100000,
+      "dias": 2,
+      "cierre": "2026-08-24",
+      "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
@@ -1038,6 +1064,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "1288512-40-COT26",
+      "org": "DIRECCIÓN REGIONAL DE TARAPACÁ",
+      "titulo": "SERVICIO DE ARRIENDO DE SALÓN, IMPLEMENTACIÓN Y COFFE BREAK PARA “III CONVERSATORIO MUJERES Y PATRIMONIO, REGIÓN DE TARAPACÁ”",
+      "monto": 1650000,
+      "dias": 1,
+      "cierre": "2026-08-23",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1485923-44-COT26",
       "org": "BAJ Los Lagos",
       "titulo": "Requerimiento servicio de banqueteria (colaciones) para comunidades escolares en BAJ Los Lagos",
@@ -1073,19 +1112,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "752-172-COT26",
-      "org": "GOBIERNO REGIONAL DECIMA REGION LOS LAGOS",
-      "titulo": "ADQUISICIÓN DE SERVICIO DE COFFEE BREAK - CHAITÉN",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1164,19 +1190,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1288512-40-COT26",
-      "org": "DIRECCIÓN REGIONAL DE TARAPACÁ",
-      "titulo": "SERVICIO DE ARRIENDO DE SALÓN, IMPLEMENTACIÓN Y COFFE BREAK PARA “III CONVERSATORIO MUJERES Y PATRIMONIO, REGIÓN DE TARAPACÁ”",
-      "monto": 1650000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1268,19 +1281,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "754-75-COT26",
-      "org": "Secretaría Ministerial de Educación - RM",
-      "titulo": " Lbb-Servicios de amplificación, audio, transmisión e imagen y servicio de cafetería para Cuenta Pública",
-      "monto": 900000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1706,7 +1706,7 @@
       "titulo": "Servicio de coffe break para 50 personas, 10 de septiembre, 3°Jornada \"Trayectoria educativa y revinculación\", Plan Regional, sol 03-70",
       "monto": 270000,
       "dias": 0,
-      "cierre": "2026-08-21",
+      "cierre": "2026-08-22",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
