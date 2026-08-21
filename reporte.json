@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-21T14:09+00:00",
+  "generado": "2026-08-21T16:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -50,17 +50,43 @@
       "probabilidad": 61
     },
     {
+      "codigo": "3791-863-COT26",
+      "org": "I MUNICIPALIDAD DE CISNES",
+      "titulo": "INSUMOS PARA COCTEL ",
+      "monto": 300000,
+      "dias": 2,
+      "cierre": "2026-08-24",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región Aysén del General Carlos Ibáñez del Campo",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "2020-157-COT26",
       "org": "Biblioteca del Congreso Nacional",
       "titulo": "SERVICIO DE BANQUETERIA PARA LA SEDE SANTIAGO DE ACUERDO A DETALLE ADJUNTO",
       "monto": 4300000,
-      "dias": 3,
+      "dias": 2,
       "cierre": "2026-08-24",
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 61
+      "probabilidad": 59
+    },
+    {
+      "codigo": "4474-306-COT26",
+      "org": "I MUNICIPALIDAD DE CONTULMO",
+      "titulo": "SERVICIO DE DESAYUNO",
+      "monto": 1130500,
+      "dias": 2,
+      "cierre": "2026-08-24",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 59
     },
     {
       "codigo": "1758-151-COT26",
@@ -85,6 +111,19 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1624-119-COT26",
+      "org": "SERVICIO DE SALUD HOSPITAL DE NANCAGUA",
+      "titulo": "Once Saludable para Programa  Apoyo a la Gestion APS Segun Solicitud ",
+      "monto": 450000,
+      "dias": 2,
+      "cierre": "2026-08-24",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 59
     },
@@ -193,15 +232,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3151-532-COT26",
-      "org": "I MUNICIPALIDAD DE LONCOCHE",
-      "titulo": "SERVICIO DE COCTEL PARA SEMINARIO DE BERRIES",
-      "monto": 1670000,
+      "codigo": "3508-611-COT26",
+      "org": "I MUNICIPALIDAD DE CHONCHI",
+      "titulo": "SERVICIO DE BANQUETERIA PARA 12 USUARIOS",
+      "monto": 500000,
       "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "COCTEL",
+      "cierre": "2026-08-22",
+      "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -249,58 +288,6 @@
       "org": "I MUNICIPALIDAD DE PUMANQUE",
       "titulo": "alimentacion saludable Programa Promocion de Salud ",
       "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "899-167-COT26",
-      "org": "Hospital San Jose - Casablanca",
-      "titulo": "ADQUISICIÓN DE MATERIALES PARA TALLER ALIMENTACIÓN SALUDABLE PROGRAMA CARDIOVASCULAR",
-      "monto": 380000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3949-203-COT26",
-      "org": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-      "titulo": "TALLER \"FORTALECIENDO AMBIENTES LABORALES SALUDABLES\" ",
-      "monto": 1000000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región Aysén del General Carlos Ibáñez del Campo",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2591-1815-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE POZO ALMONTE",
-      "titulo": "ADQUISICIÓN COLACIONES SALUDABLE ACTIVIDAD MASIVA MES DEL  CORAZON, PROGRAMA PROMOCIÓN DE LA SALUD. ",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1624-119-COT26",
-      "org": "SERVICIO DE SALUD HOSPITAL DE NANCAGUA",
-      "titulo": "Once Saludable para Programa  Apoyo a la Gestion APS Segun Solicitud ",
-      "monto": 450000,
       "dias": 0,
       "cierre": "2026-08-21",
       "keyword": "SALUDABLE",
@@ -362,6 +349,19 @@
       "probabilidad": 50
     },
     {
+      "codigo": "2335-335-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE LINARES",
+      "titulo": "SERVICIO DESAYUNO Y ALMUERZO JORNADA OP.442",
+      "monto": 250000,
+      "dias": 2,
+      "cierre": "2026-08-24",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
       "codigo": "918434-210-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4075 Adquisición de Servicio de cafetería para los Diálogos con las Organizaciones de la Sociedad Civil para el Diseño de las Agendas Regionales de Género de la SEREMI del Ñuble",
@@ -388,17 +388,17 @@
       "probabilidad": 49
     },
     {
-      "codigo": "2335-335-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE LINARES",
-      "titulo": "SERVICIO DESAYUNO Y ALMUERZO JORNADA OP.442",
+      "codigo": "1442808-151-COT26",
+      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+      "titulo": "BOX BRUNCH COFFEE PARA UN TALLER DE LEGUMINOSAS",
       "monto": 250000,
-      "dias": 1,
-      "cierre": "2026-08-23",
-      "keyword": "DESAYUNO",
+      "dias": 2,
+      "cierre": "2026-08-24",
+      "keyword": "BRUNCH",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
       "momento": "am",
-      "probabilidad": 47
+      "probabilidad": 49
     },
     {
       "codigo": "2074-26-COT26",
@@ -410,19 +410,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
-      "codigo": "1389488-481-COT26",
-      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE LOS ÁLAMOS",
-      "titulo": "COMIDA SALUDABLE - ESCUELA ROBERTO OPAZO GALVEZ",
-      "monto": 185000,
-      "dias": 1,
-      "cierre": "2026-08-22",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 47
     },
@@ -453,19 +440,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "4477-207-COT26",
-      "org": "Ilustre Municipalidad de Contulmo - Educación",
-      "titulo": " COCTEL",
-      "monto": 215000,
-      "dias": 0,
-      "cierre": "2026-08-21",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "4053-121-COT26",
       "org": "I MUNICIPALIDAD DE MARIQUINA",
       "titulo": "SERVICIO DE BANQUETERIA MARIQUINA",
@@ -475,6 +449,19 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "1389488-481-COT26",
+      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE LOS ÁLAMOS",
+      "titulo": "COMIDA SALUDABLE - ESCUELA ROBERTO OPAZO GALVEZ",
+      "monto": 185000,
+      "dias": 0,
+      "cierre": "2026-08-22",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
     },
@@ -505,17 +492,17 @@
       "probabilidad": 45
     },
     {
-      "codigo": "3287-365-COT26",
-      "org": "I MUNICIPALIDAD DE LICANTEN",
-      "titulo": "Taller  de cocina saludable, OLN.",
-      "monto": 200000,
+      "codigo": "545598-789-COT26",
+      "org": "CORP MUNICIPAL DE CASTRO PARA LA EDUCACION SALUD Y ATENCION AL MENOR",
+      "titulo": "COFFE BREAK SALUDABLE ",
+      "monto": 120000,
       "dias": 0,
-      "cierre": "2026-08-21",
+      "cierre": "2026-08-22",
       "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
+      "ofertas_actuales": 1,
+      "region": "Región de los Lagos ",
       "momento": "am",
-      "probabilidad": 45
+      "probabilidad": 40
     },
     {
       "codigo": "1368-25-COT26",
