@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-22T17:51+00:00",
+  "generado": "2026-08-22T19:04+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -843,19 +843,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3734-460-COT26",
-      "org": "I MUNICIPALIDAD DE LAJA",
-      "titulo": "SERVICIO COFFE BREAK",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-08-22",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1288512-40-COT26",
       "org": "DIRECCIÓN REGIONAL DE TARAPACÁ",
       "titulo": "SERVICIO DE ARRIENDO DE SALÓN, IMPLEMENTACIÓN Y COFFE BREAK PARA “III CONVERSATORIO MUJERES Y PATRIMONIO, REGIÓN DE TARAPACÁ”",
@@ -878,19 +865,6 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1079580-266-COT26",
-      "org": "SECCIÓN COMPRAS XVI ZONA",
-      "titulo": "ADQUSICION DE SERVICIO DE COCTEL PARA 80 PERSONAS PARA CONMEMORAR EL ANIVERSARIO  N°90 DE LA CREACION DE LA ESPECIALIDA DE ORDEN PÚBLICO",
-      "monto": 850000,
-      "dias": 0,
-      "cierre": "2026-08-22",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1307,19 +1281,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "2333-557-COT26",
-      "org": "I MUNICIPALIDAD DE LINARES",
-      "titulo": "SERVICIO DE COCTEL",
-      "monto": 154700,
-      "dias": 0,
-      "cierre": "2026-08-22",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
     },
