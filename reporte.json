@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-22T22:53+00:00",
+  "generado": "2026-08-22T23:45+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -752,19 +752,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "522-139-COT26",
-      "org": "HOSPITAL DE LITUECHE",
-      "titulo": "Adquisición de Catering para cuidados de equipo, Hospital de Litueche.",
-      "monto": 750000,
-      "dias": 1,
-      "cierre": "2026-08-23",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "2424-1450-COT26",
       "org": "I MUNICIPALIDAD DE VINA DEL MAR",
       "titulo": "SERVICIO DE CATERING/ NFO/ 3702/ PED N°13",
@@ -1112,6 +1099,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "522-139-COT26",
+      "org": "HOSPITAL DE LITUECHE",
+      "titulo": "Adquisición de Catering para cuidados de equipo, Hospital de Litueche.",
+      "monto": 750000,
+      "dias": 0,
+      "cierre": "2026-08-23",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
