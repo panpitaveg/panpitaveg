@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-22T14:54+00:00",
+  "generado": "2026-08-22T15:49+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -76,19 +76,6 @@
       "probabilidad": 61
     },
     {
-      "codigo": "2568-51-COT26",
-      "org": "CORP NACIONAL FORESTAL",
-      "titulo": "Servicio de Coffe AM Y PM + Almuerzo en Comuna de Las Cabras",
-      "monto": 2000000,
-      "dias": 3,
-      "cierre": "2026-08-25",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
       "codigo": "1658-1215-COT26",
       "org": "I MUNICIPALIDAD DE TEMUCO",
       "titulo": "S10-26/ DIDECO/ SERVICIO COFFE BREAK \"CEREMONIA CERTIFICACIÓN CURSO GRUA HORQUILLA\"",
@@ -98,19 +85,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
-      "codigo": "1867-75-COT26",
-      "org": "DIRECCION GENERAL DE MOVILIZACIONN NACIONAL",
-      "titulo": "SERVICIO DE CATERING PARA 80 PAX.",
-      "monto": 1200000,
-      "dias": 3,
-      "cierre": "2026-08-25",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 61
     },
@@ -167,19 +141,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "5155-132-COT26",
-      "org": "SERVICIO ELECTORAL",
-      "titulo": "Contratación de servicio de coffee break tipo brunch para Seminario Servel, para el día 28 de agosto 2026",
-      "monto": 2500000,
-      "dias": 2,
-      "cierre": "2026-08-24",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "1479-92-COT26",
       "org": "Departamento Provincial de Educación Osorno",
       "titulo": "ADQUISICION DEL SERVICIO DE COFFEE BREAK JORNADA CONVIVENCIA ESCOLAR EPJA, COLEGIO ABRAHAM LINCOLN",
@@ -202,19 +163,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "2445-275-COT26",
-      "org": "I MUNICIPALIDAD DE CURICO",
-      "titulo": "ADQUISICION INSUMOS COFFEE CONVENIO MAIS SP/573",
-      "monto": 2205000,
-      "dias": 2,
-      "cierre": "2026-08-24",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -245,19 +193,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "732-157-COT26",
-      "org": "SUBSECRETARIA DEL MINISTERIO DE MINERIA",
-      "titulo": "SERVICIO DE COFFE BREAK INSTITUCIONAL PARA ENCUENTRO MINISTERIAL SOBRE MINERALES ESTRATÉGICOS PARA LA INTEGRACIÓN REGIONAL",
-      "monto": 500000,
-      "dias": 2,
-      "cierre": "2026-08-24",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "1756-76-COT26",
       "org": "MINEDUC ADMINISTRACION VIII REGION",
       "titulo": "SERVICIO DE COFFE  Y ALMUERZO CON SALON",
@@ -267,6 +202,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2568-51-COT26",
+      "org": "CORP NACIONAL FORESTAL",
+      "titulo": "Servicio de Coffe AM Y PM + Almuerzo en Comuna de Las Cabras",
+      "monto": 2000000,
+      "dias": 2,
+      "cierre": "2026-08-25",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 59
     },
@@ -284,12 +232,12 @@
       "probabilidad": 59
     },
     {
-      "codigo": "5526-52-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de Catering para Jornada de Integración DIM - CMM",
-      "monto": 4000000,
+      "codigo": "1867-75-COT26",
+      "org": "DIRECCION GENERAL DE MOVILIZACIONN NACIONAL",
+      "titulo": "SERVICIO DE CATERING PARA 80 PAX.",
+      "monto": 1200000,
       "dias": 2,
-      "cierre": "2026-08-24",
+      "cierre": "2026-08-25",
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
@@ -349,19 +297,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "732-158-COT26",
-      "org": "SUBSECRETARIA DEL MINISTERIO DE MINERIA",
-      "titulo": "SERVICIO DE BRUNCH - ENCUENTRO MINISTERIAL SESIÓN COMISIÓN ADMINISTRADORA TTII",
-      "monto": 400000,
-      "dias": 2,
-      "cierre": "2026-08-24",
-      "keyword": "BRUNCH",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "2013-1279-COT26",
       "org": "UNIVERSIDAD ARTURO PRAT",
       "titulo": "SERVICIO DE BANQUETERIA COFFEE BREAK 45 PERSONAS - UNAP CAMPUS BAQUEDANO",
@@ -397,6 +332,32 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5155-132-COT26",
+      "org": "SERVICIO ELECTORAL",
+      "titulo": "Contratación de servicio de coffee break tipo brunch para Seminario Servel, para el día 28 de agosto 2026",
+      "monto": 2500000,
+      "dias": 1,
+      "cierre": "2026-08-24",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2445-275-COT26",
+      "org": "I MUNICIPALIDAD DE CURICO",
+      "titulo": "ADQUISICION INSUMOS COFFEE CONVENIO MAIS SP/573",
+      "monto": 2205000,
+      "dias": 1,
+      "cierre": "2026-08-24",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -488,6 +449,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "732-157-COT26",
+      "org": "SUBSECRETARIA DEL MINISTERIO DE MINERIA",
+      "titulo": "SERVICIO DE COFFE BREAK INSTITUCIONAL PARA ENCUENTRO MINISTERIAL SOBRE MINERALES ESTRATÉGICOS PARA LA INTEGRACIÓN REGIONAL",
+      "monto": 500000,
+      "dias": 1,
+      "cierre": "2026-08-24",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -648,19 +622,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1288512-40-COT26",
-      "org": "DIRECCIÓN REGIONAL DE TARAPACÁ",
-      "titulo": "SERVICIO DE ARRIENDO DE SALÓN, IMPLEMENTACIÓN Y COFFE BREAK PARA “III CONVERSATORIO MUJERES Y PATRIMONIO, REGIÓN DE TARAPACÁ”",
-      "monto": 1650000,
-      "dias": 1,
-      "cierre": "2026-08-23",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "4433-62-COT26",
       "org": "I MUNICIPALIDAD PAIHUANO",
       "titulo": "COFFE BREAK MAIS",
@@ -722,6 +683,19 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5526-52-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Servicio de Catering para Jornada de Integración DIM - CMM",
+      "monto": 4000000,
+      "dias": 1,
+      "cierre": "2026-08-24",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -1038,6 +1012,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "732-158-COT26",
+      "org": "SUBSECRETARIA DEL MINISTERIO DE MINERIA",
+      "titulo": "SERVICIO DE BRUNCH - ENCUENTRO MINISTERIAL SESIÓN COMISIÓN ADMINISTRADORA TTII",
+      "monto": 400000,
+      "dias": 1,
+      "cierre": "2026-08-24",
+      "keyword": "BRUNCH",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1624-119-COT26",
       "org": "SERVICIO DE SALUD HOSPITAL DE NANCAGUA",
       "titulo": "Once Saludable para Programa  Apoyo a la Gestion APS Segun Solicitud ",
@@ -1125,6 +1112,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1288512-40-COT26",
+      "org": "DIRECCIÓN REGIONAL DE TARAPACÁ",
+      "titulo": "SERVICIO DE ARRIENDO DE SALÓN, IMPLEMENTACIÓN Y COFFE BREAK PARA “III CONVERSATORIO MUJERES Y PATRIMONIO, REGIÓN DE TARAPACÁ”",
+      "monto": 1650000,
+      "dias": 0,
+      "cierre": "2026-08-23",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1285,19 +1285,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "1391-488-COT26",
-      "org": "Dirección Regional de Gendarmeria - Talca",
-      "titulo": "C.P. TALCA // ADQUISICIÓN DE INSUMOS COFFEE BREAK - PROGRAMA CRECIENDO JUNTOS TALLER DE PARENTALIDAD (ÁREA TÉCNICA)",
-      "monto": 43483,
-      "dias": 2,
-      "cierre": "2026-08-24",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
       "codigo": "918434-209-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4076 Adquisición de Servicio de Coffee Break para mesas; Maternidad y Mujer Afrodescendiente, Seremi de Arica y Parinacota",
@@ -1363,19 +1350,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "2703-183-COT26",
-      "org": "I MUNICIPALIDAD DE TALAGANTE",
-      "titulo": "INST. insumos de cafetería. Taller de Formación Facilitadores en IPG",
-      "monto": 280000,
-      "dias": 2,
-      "cierre": "2026-08-24",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
       "codigo": "2074-27-COT26",
       "org": "Departamento Provincial de Educación de Magallanes",
       "titulo": "Servicio de cafetería en Punta Arenas jueves 27 de Agosto, 25 personas.",
@@ -1387,6 +1361,19 @@
       "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
       "probabilidad": 49
+    },
+    {
+      "codigo": "1391-488-COT26",
+      "org": "Dirección Regional de Gendarmeria - Talca",
+      "titulo": "C.P. TALCA // ADQUISICIÓN DE INSUMOS COFFEE BREAK - PROGRAMA CRECIENDO JUNTOS TALLER DE PARENTALIDAD (ÁREA TÉCNICA)",
+      "monto": 43483,
+      "dias": 1,
+      "cierre": "2026-08-24",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 47
     },
     {
       "codigo": "4134-512-COT26",
@@ -1541,6 +1528,19 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "2703-183-COT26",
+      "org": "I MUNICIPALIDAD DE TALAGANTE",
+      "titulo": "INST. insumos de cafetería. Taller de Formación Facilitadores en IPG",
+      "monto": 280000,
+      "dias": 1,
+      "cierre": "2026-08-24",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1712,19 +1712,6 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
-    },
-    {
-      "codigo": "545598-789-COT26",
-      "org": "CORP MUNICIPAL DE CASTRO PARA LA EDUCACION SALUD Y ATENCION AL MENOR",
-      "titulo": "COFFE BREAK SALUDABLE ",
-      "monto": 120000,
-      "dias": 0,
-      "cierre": "2026-08-22",
-      "keyword": "COFFE",
-      "ofertas_actuales": 1,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 40
     },
     {
       "codigo": "307-40-COT26",
