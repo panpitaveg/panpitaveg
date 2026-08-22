@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-22T21:49+00:00",
+  "generado": "2026-08-22T22:53+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1129,19 +1129,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "889473-1583-COT26",
-      "org": "UNIVERSIDAD DE O'HIGGINS",
-      "titulo": "SC 8582 - Insumos de Cafetería",
-      "monto": 527999,
-      "dias": 0,
-      "cierre": "2026-08-22",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "564162-801-COT26",
       "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
       "titulo": "Servicio de catering para 50 personas día 4 de septiembre de 09:30 a 12 hrs.",
@@ -1478,32 +1465,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 47
-    },
-    {
-      "codigo": "1057506-210-COT26",
-      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COELEMU",
-      "titulo": "ALIMENTOS PARA COFFE Y ACTIVIDADES",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-08-22",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "867990-442-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Contratación de Servicio de Coffe Break 30 de septiembre",
-      "monto": 232050,
-      "dias": 0,
-      "cierre": "2026-08-22",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "949-94-COT26",
