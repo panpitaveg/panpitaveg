@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-23T15:51+00:00",
+  "generado": "2026-08-23T16:57+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -115,19 +115,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "1526274-7-COT26",
-      "org": "COMERCIALIZADORA DE TRIGO S A",
-      "titulo": " Servicio de coffee break para 40 personas y servicio técnico audiovisual en Planta COTRISA Parral",
-      "monto": 720000,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "551164-2-COT26",
       "org": "I MUNICIPALIDAD DE CASABLANCA",
       "titulo": "Servicios de coffee break y cóctel",
@@ -176,19 +163,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2616-7-COT26",
-      "org": "SECRETARIA GENERAL DE GOBIERNO",
-      "titulo": "SERVICIO DE COFFE PARA 90 PERSONAS PARA LAS CEREMONIAS DE ENTREGA DE RECURSOS DEL FONDO DE FORTALECIMIENTO AÑO 2026 PARA SECRETARÍA REGIONAL MINISTERIAL DE GOBIERNO REGIÓN DEL MAULE",
-      "monto": 457000,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -245,19 +219,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "3141-155-COT26",
-      "org": "I MUNICIPALIDAD DE LAGO RANCO",
-      "titulo": "SERVCIO DE CATERING",
-      "monto": 950000,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "2446-791-COT26",
       "org": "I MUNICIPALIDAD DE COQUIMBO",
       "titulo": "SERVICIO DE BANQUETERIA PARA 60 PERSONAS SECTOR BAQUEDANO COQUIMBO.",
@@ -284,19 +245,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "2020-157-COT26",
-      "org": "Biblioteca del Congreso Nacional",
-      "titulo": "SERVICIO DE BANQUETERIA PARA LA SEDE SANTIAGO DE ACUERDO A DETALLE ADJUNTO",
-      "monto": 4300000,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "2013-1279-COT26",
       "org": "UNIVERSIDAD ARTURO PRAT",
       "titulo": "SERVICIO DE BANQUETERIA COFFEE BREAK 45 PERSONAS - UNAP CAMPUS BAQUEDANO",
@@ -306,6 +254,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1526274-7-COT26",
+      "org": "COMERCIALIZADORA DE TRIGO S A",
+      "titulo": " Servicio de coffee break para 40 personas y servicio técnico audiovisual en Planta COTRISA Parral",
+      "monto": 720000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -475,6 +436,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2616-7-COT26",
+      "org": "SECRETARIA GENERAL DE GOBIERNO",
+      "titulo": "SERVICIO DE COFFE PARA 90 PERSONAS PARA LAS CEREMONIAS DE ENTREGA DE RECURSOS DEL FONDO DE FORTALECIMIENTO AÑO 2026 PARA SECRETARÍA REGIONAL MINISTERIAL DE GOBIERNO REGIÓN DEL MAULE",
+      "monto": 457000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -908,6 +882,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "3141-155-COT26",
+      "org": "I MUNICIPALIDAD DE LAGO RANCO",
+      "titulo": "SERVCIO DE CATERING",
+      "monto": 950000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "707425-88-COT26",
       "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
       "titulo": "SERV. CATERING JORNADA ENCUENTRO CON FAMILIAS PROV. LLANQUIHUE",
@@ -1008,6 +995,19 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2020-157-COT26",
+      "org": "Biblioteca del Congreso Nacional",
+      "titulo": "SERVICIO DE BANQUETERIA PARA LA SEDE SANTIAGO DE ACUERDO A DETALLE ADJUNTO",
+      "monto": 4300000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1168,19 +1168,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "1482-26-COT26",
-      "org": "Departamento Provincial Choapa",
-      "titulo": "COTIZA SERVICIOS DE COFFEE BREACK PARA 15 PARTICIPANTES PARA JORNADA DE RED PROVINCIAL DE JEFATURAS TÉCNICAS.",
-      "monto": 135000,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "918434-209-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4076 Adquisición de Servicio de Coffee Break para mesas; Maternidad y Mujer Afrodescendiente, Seremi de Arica y Parinacota",
@@ -1257,6 +1244,19 @@
       "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
       "probabilidad": 47
+    },
+    {
+      "codigo": "1482-26-COT26",
+      "org": "Departamento Provincial Choapa",
+      "titulo": "COTIZA SERVICIOS DE COFFEE BREACK PARA 15 PARTICIPANTES PARA JORNADA DE RED PROVINCIAL DE JEFATURAS TÉCNICAS.",
+      "monto": 135000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 45
     },
     {
       "codigo": "1391-488-COT26",
