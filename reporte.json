@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-23T19:03+00:00",
+  "generado": "2026-08-23T20:53+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -605,19 +605,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1288512-40-COT26",
-      "org": "DIRECCIÓN REGIONAL DE TARAPACÁ",
-      "titulo": "SERVICIO DE ARRIENDO DE SALÓN, IMPLEMENTACIÓN Y COFFE BREAK PARA “III CONVERSATORIO MUJERES Y PATRIMONIO, REGIÓN DE TARAPACÁ”",
-      "monto": 1650000,
-      "dias": 0,
-      "cierre": "2026-08-23",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 55
     },
