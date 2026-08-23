@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-23T16:57+00:00",
+  "generado": "2026-08-23T17:49+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -23,19 +23,6 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
-    {
-      "codigo": "2859-791-COT26",
-      "org": "UNIVERSIDAD DE ATACAMA",
-      "titulo": "Servicio de Coffee para 30 personas para Taller ",
-      "monto": 300000,
-      "dias": 2,
-      "cierre": "2026-08-25",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 59
-    },
     {
       "codigo": "1208104-15-COT26",
       "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
@@ -72,19 +59,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1658-1215-COT26",
-      "org": "I MUNICIPALIDAD DE TEMUCO",
-      "titulo": "S10-26/ DIDECO/ SERVICIO COFFE BREAK \"CEREMONIA CERTIFICACIÓN CURSO GRUA HORQUILLA\"",
-      "monto": 600000,
-      "dias": 2,
-      "cierre": "2026-08-25",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -154,15 +128,15 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1756-73-COT26",
-      "org": "MINEDUC ADMINISTRACION VIII REGION",
-      "titulo": "SERVICIO DE COFFEE BREAK PARA SEMINARIO TEA, COMUNA DE CURANILAHUE",
-      "monto": 1000000,
+      "codigo": "2859-791-COT26",
+      "org": "UNIVERSIDAD DE ATACAMA",
+      "titulo": "Servicio de Coffee para 30 personas para Taller ",
+      "monto": 300000,
       "dias": 1,
-      "cierre": "2026-08-24",
+      "cierre": "2026-08-25",
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
+      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -193,15 +167,15 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1756-72-COT26",
-      "org": "MINEDUC ADMINISTRACION VIII REGION",
-      "titulo": "SERVICIO DE COFFE BREAK PARA SEMINARIO TEA",
-      "monto": 1000000,
+      "codigo": "1658-1215-COT26",
+      "org": "I MUNICIPALIDAD DE TEMUCO",
+      "titulo": "S10-26/ DIDECO/ SERVICIO COFFE BREAK \"CEREMONIA CERTIFICACIÓN CURSO GRUA HORQUILLA\"",
+      "monto": 600000,
       "dias": 1,
-      "cierre": "2026-08-24",
+      "cierre": "2026-08-25",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -228,19 +202,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2020-158-COT26",
-      "org": "Biblioteca del Congreso Nacional",
-      "titulo": "SERVICIO DE BANQUETERIA PARA EL DÍA 09 DE SEPTIEMBRE DE 2026",
-      "monto": 2800000,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -397,6 +358,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1756-73-COT26",
+      "org": "MINEDUC ADMINISTRACION VIII REGION",
+      "titulo": "SERVICIO DE COFFEE BREAK PARA SEMINARIO TEA, COMUNA DE CURANILAHUE",
+      "monto": 1000000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -618,6 +592,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1756-72-COT26",
+      "org": "MINEDUC ADMINISTRACION VIII REGION",
+      "titulo": "SERVICIO DE COFFE BREAK PARA SEMINARIO TEA",
+      "monto": 1000000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -999,10 +986,10 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2020-157-COT26",
+      "codigo": "2020-158-COT26",
       "org": "Biblioteca del Congreso Nacional",
-      "titulo": "SERVICIO DE BANQUETERIA PARA LA SEDE SANTIAGO DE ACUERDO A DETALLE ADJUNTO",
-      "monto": 4300000,
+      "titulo": "SERVICIO DE BANQUETERIA PARA EL DÍA 09 DE SEPTIEMBRE DE 2026",
+      "monto": 2800000,
       "dias": 0,
       "cierre": "2026-08-24",
       "keyword": "BANQUETERIA",
@@ -1012,15 +999,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1485923-44-COT26",
-      "org": "BAJ Los Lagos",
-      "titulo": "Requerimiento servicio de banqueteria (colaciones) para comunidades escolares en BAJ Los Lagos",
-      "monto": 1080000,
+      "codigo": "2020-157-COT26",
+      "org": "Biblioteca del Congreso Nacional",
+      "titulo": "SERVICIO DE BANQUETERIA PARA LA SEDE SANTIAGO DE ACUERDO A DETALLE ADJUNTO",
+      "monto": 4300000,
       "dias": 0,
-      "cierre": "2026-08-23",
+      "cierre": "2026-08-24",
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1129,19 +1116,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2205-118-COT26",
-      "org": "SERVICIO DE SALUD HOSPITAL DE PICHIDEGUA",
-      "titulo": "COFFE BREAK AUTOCUIDADO",
-      "monto": 134764,
-      "dias": 3,
-      "cierre": "2026-08-26",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 51
-    },
-    {
       "codigo": "564162-801-COT26",
       "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
       "titulo": "Servicio de catering para 50 personas día 4 de septiembre de 09:30 a 12 hrs.",
@@ -1153,6 +1127,19 @@
       "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 50
+    },
+    {
+      "codigo": "2205-118-COT26",
+      "org": "SERVICIO DE SALUD HOSPITAL DE PICHIDEGUA",
+      "titulo": "COFFE BREAK AUTOCUIDADO",
+      "monto": 134764,
+      "dias": 2,
+      "cierre": "2026-08-26",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 49
     },
     {
       "codigo": "5602-204-COT26",
@@ -1203,19 +1190,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
-      "codigo": "426-129-COT26",
-      "org": "HOSPITAL DE PETORCA",
-      "titulo": "Coctel Programa Migrantes",
-      "monto": 210000,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1411,6 +1385,19 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "426-129-COT26",
+      "org": "HOSPITAL DE PETORCA",
+      "titulo": "Coctel Programa Migrantes",
+      "monto": 210000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 45
     },
