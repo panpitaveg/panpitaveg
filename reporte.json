@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-23T13:47+00:00",
+  "generado": "2026-08-23T14:56+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -232,19 +232,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1057432-314-COT26",
-      "org": "SERVICIO DE SALUD CONCEPCION",
-      "titulo": "SERVICIO COFFE, SALÓN/AUDITORIO, PARA 4 JORNADAS CAPACITACION - SALUD MENTAL -19284",
-      "monto": 7163800,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "2616-7-COT26",
       "org": "SECRETARIA GENERAL DE GOBIERNO",
       "titulo": "SERVICIO DE COFFE PARA 90 PERSONAS PARA LAS CEREMONIAS DE ENTREGA DE RECURSOS DEL FONDO DE FORTALECIMIENTO AÑO 2026 PARA SECRETARÍA REGIONAL MINISTERIAL DE GOBIERNO REGIÓN DEL MAULE",
@@ -277,19 +264,6 @@
       "monto": 800000,
       "dias": 1,
       "cierre": "2026-08-25",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2033-68-COT26",
-      "org": "Departamento Provincial de Educación Concepción",
-      "titulo": "SERVICIO COFFE BREAK - JORNADA PROVINCIAL ETE",
-      "monto": 375000,
-      "dias": 1,
-      "cierre": "2026-08-24",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
@@ -332,32 +306,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "707425-88-COT26",
-      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
-      "titulo": "SERV. CATERING JORNADA ENCUENTRO CON FAMILIAS PROV. LLANQUIHUE",
-      "monto": 684265,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "707425-87-COT26",
-      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
-      "titulo": "SERV. CATERING JORNADA ENCUENTRO CON FAMILIAS PROV. OSORNO",
-      "monto": 351210,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -544,6 +492,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1057432-314-COT26",
+      "org": "SERVICIO DE SALUD CONCEPCION",
+      "titulo": "SERVICIO COFFE, SALÓN/AUDITORIO, PARA 4 JORNADAS CAPACITACION - SALUD MENTAL -19284",
+      "monto": 7163800,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "1134432-604-COT26",
       "org": "I MUNICIPALIDAD DE PUCHUNCAVI",
       "titulo": "Servicio de coffe break para diagnostico nacional de calidad de la gestión municipal 2026",
@@ -657,6 +618,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2033-68-COT26",
+      "org": "Departamento Provincial de Educación Concepción",
+      "titulo": "SERVICIO COFFE BREAK - JORNADA PROVINCIAL ETE",
+      "monto": 375000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -947,6 +921,32 @@
       "probabilidad": 55
     },
     {
+      "codigo": "707425-88-COT26",
+      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
+      "titulo": "SERV. CATERING JORNADA ENCUENTRO CON FAMILIAS PROV. LLANQUIHUE",
+      "monto": 684265,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "707425-87-COT26",
+      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
+      "titulo": "SERV. CATERING JORNADA ENCUENTRO CON FAMILIAS PROV. OSORNO",
+      "monto": 351210,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "1057500-123-COT26",
       "org": "SERVICIO DE SALUD METROPOLITANO SUR ORIENTE",
       "titulo": "SERVICIO DE CATERING CON PERTINENCIA CULTURAL",
@@ -1220,19 +1220,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "4123-235-COT26",
-      "org": "Departamento de Salud",
-      "titulo": "SERVICIO DE COFFE BREACK PARA CAPACITACIÓN INCENTIVO AL RETIRO LEY Nº20.919, CESFAM NINHUE",
-      "monto": 200000,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "1339542-47-COT26",
       "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
       "titulo": "SERVICIO DE CATERING PARA JORNADA DE VINCULACIÓN Y ENCUENTROS PROVINCIALES",
@@ -1242,19 +1229,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
-      "codigo": "707425-89-COT26",
-      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
-      "titulo": "SERV. CATERING JORNADA ENCUENTROCON FAMILIAS PROV. DE CHILOÉ",
-      "monto": 274860,
-      "dias": 1,
-      "cierre": "2026-08-24",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1389,6 +1363,19 @@
       "probabilidad": 45
     },
     {
+      "codigo": "4123-235-COT26",
+      "org": "Departamento de Salud",
+      "titulo": "SERVICIO DE COFFE BREACK PARA CAPACITACIÓN INCENTIVO AL RETIRO LEY Nº20.919, CESFAM NINHUE",
+      "monto": 200000,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "4922-301-COT26",
       "org": "I MUNICIPALIDAD DE FUTRONO",
       "titulo": "SERVICIO DE COFFE BREAK PROGRAMA HABITABILIDAD ",
@@ -1424,6 +1411,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "707425-89-COT26",
+      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
+      "titulo": "SERV. CATERING JORNADA ENCUENTROCON FAMILIAS PROV. DE CHILOÉ",
+      "monto": 274860,
+      "dias": 0,
+      "cierre": "2026-08-24",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 45
     },
