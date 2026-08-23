@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-23T20:53+00:00",
+  "generado": "2026-08-23T21:46+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -23,19 +23,6 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
-    {
-      "codigo": "1208104-15-COT26",
-      "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
-      "titulo": "Servicio de Coffee Break y 40 Colaciones Frías para Jornada de Implementación y Transferencia de Metodologías de Mediación para Fortalecer la Participación de Niños y Niñas",
-      "monto": 740000,
-      "dias": 2,
-      "cierre": "2026-08-25",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 59
-    },
     {
       "codigo": "1449668-41-COT26",
       "org": "ASOCIACION DE MUNICIPALIDADES DE CHILE",
@@ -137,6 +124,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "1208104-15-COT26",
+      "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
+      "titulo": "Servicio de Coffee Break y 40 Colaciones Frías para Jornada de Implementación y Transferencia de Metodologías de Mediación para Fortalecer la Participación de Niños y Niñas",
+      "monto": 740000,
+      "dias": 1,
+      "cierre": "2026-08-25",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 57
     },
