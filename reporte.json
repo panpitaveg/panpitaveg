@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-23T23:45+00:00",
+  "generado": "2026-08-24T03:34+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -752,19 +752,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "522-139-COT26",
-      "org": "HOSPITAL DE LITUECHE",
-      "titulo": "Adquisición de Catering para cuidados de equipo, Hospital de Litueche.",
-      "monto": 750000,
-      "dias": 0,
-      "cierre": "2026-08-23",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2424-1450-COT26",
       "org": "I MUNICIPALIDAD DE VINA DEL MAR",
       "titulo": "SERVICIO DE CATERING/ NFO/ 3702/ PED N°13",
@@ -1437,19 +1424,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1389488-481-COT26",
-      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE LOS ÁLAMOS",
-      "titulo": "COMIDA SALUDABLE - ESCUELA ROBERTO OPAZO GALVEZ",
-      "monto": 185000,
-      "dias": 0,
-      "cierre": "2026-08-23",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
     }
