@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-25T19:48+00:00",
+  "generado": "2026-08-25T21:04+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -50,15 +50,15 @@
       "probabilidad": 59
     },
     {
-      "codigo": "696704-84-COT26",
-      "org": "MINISTERIO PUBLICO",
-      "titulo": "SERVICIO DE COFFE PROTOCOLAR Y ESTACIÓN DE CAFÉ PARA CEREMONIA INSTITUCIONAL FISCALÍA REGIONAL DE MAULE",
-      "monto": 1200000,
+      "codigo": "4563-29-COT26",
+      "org": "I MUNICIPALIDAD DE GRANEROS",
+      "titulo": "COCTEL PROGRAMA HABILIDADES PARA LA VIDA N°1 Y N°2 ",
+      "monto": 2000000,
       "dias": 2,
-      "cierre": "2026-08-27",
-      "keyword": "CAFÉ",
+      "cierre": "2026-08-28",
+      "keyword": "COCTEL",
       "ofertas_actuales": 0,
-      "region": "Región del Maule ",
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 59
     },
@@ -102,6 +102,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "696704-84-COT26",
+      "org": "MINISTERIO PUBLICO",
+      "titulo": "SERVICIO DE COFFE PROTOCOLAR Y ESTACIÓN DE CAFÉ PARA CEREMONIA INSTITUCIONAL FISCALÍA REGIONAL DE MAULE",
+      "monto": 1200000,
+      "dias": 1,
+      "cierre": "2026-08-27",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1077908-74-COT26",
       "org": "CENTRO ONCOLOGICO DEL NORTE",
       "titulo": "2° LLAMADO INSUMOS PARA COCTEL CEREMONIA INCENTIVO AL RETIRO 2026 DEL CENTRO ONCOLOGICO DEL NORTE",
@@ -124,19 +137,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1398-443-COT26",
-      "org": "SERVICIO DE SALUD LIBERTADOR BDO OHIGGINS",
-      "titulo": "SERVICIO DE CAFETERÍA PARA CAPACITACIONES A HOSPITALES DE BASES COMUNITARIAS",
-      "monto": 2634500,
-      "dias": 1,
-      "cierre": "2026-08-27",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 57
     },
@@ -336,15 +336,28 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3833-502-COT26",
-      "org": "I MUNICIPALIDAD DE RIO BUENO",
-      "titulo": "SERVICIO DE COCKTAIL-CENTRO DE NEGOCIO",
-      "monto": 348000,
+      "codigo": "1161266-557-COT26",
+      "org": "I MUNICIPALIDAD DE TUCAPEL",
+      "titulo": "SERVICIO DE BANQUETERIA \"DESAYUNO\" PARA 30 PERSONAS - DIA 04/09/2026 - ACTIVIDAD CONMEMORACIÓN DIA INTERNACIONAL DE LA MUJER INDÍGENA 2026",
+      "monto": 450000,
       "dias": 0,
-      "cierre": "2026-08-25",
-      "keyword": "COCKTAIL",
+      "cierre": "2026-08-26",
+      "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1057468-70-COT26",
+      "org": "SERVICIO DE SALUD METROPOLITANO CENTRAL",
+      "titulo": "Banqueteria evento institucional SSMC",
+      "monto": 1100000,
+      "dias": 0,
+      "cierre": "2026-08-26",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -414,45 +427,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2214-51-COT26",
-      "org": "DEPARTAMENTO PROVINCIAL DE EDUCACION CAUTIN NORTE",
-      "titulo": "Servicio de Cafetería para Concurso GOT TALENT EPJA 2026",
-      "monto": 350000,
-      "dias": 0,
-      "cierre": "2026-08-26",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2123-315-COT26",
-      "org": "SUBSECRETARIA DE SALUD PUBLICA",
-      "titulo": "E1O2RT8 DAS cso SERVICIOS DE CAFETERÍA SALUD PUBLICA Y GABINETE - SAR 1152 / 1153",
-      "monto": 690000,
-      "dias": 0,
-      "cierre": "2026-08-26",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2074-28-COT26",
-      "org": "Departamento Provincial de Educación de Magallanes",
-      "titulo": "Requerimiento servicios cafetería para dias 4, 7  y 14 septiembre en Punta Arenas.",
-      "monto": 791000,
-      "dias": 0,
-      "cierre": "2026-08-26",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2013-1398-COT26",
       "org": "UNIVERSIDAD ARTURO PRAT",
       "titulo": "Servicio de alimentación tipo brunch para 180 participantes",
@@ -475,6 +449,19 @@
       "keyword": "BRUNCH",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4337-307-COT26",
+      "org": "I MUNICIPALIDAD DE RENAICO",
+      "titulo": "Coffe Saludable ",
+      "monto": 600000,
+      "dias": 0,
+      "cierre": "2026-08-26",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -570,45 +557,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "918434-217-COT26",
-      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
-      "titulo": "D4156 Servicio de Cafetería; Diálogo participativo sobre la Agenda Regional de Igualdad de Derechos y Equidad de Género 2026- 2030, Seremi de Magallanes",
-      "monto": 150000,
-      "dias": 2,
-      "cierre": "2026-08-28",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
-      "codigo": "918434-215-COT26",
-      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
-      "titulo": "D4093 Servicio de cafetería para los Diálogos con las Organizaciones de la Sociedad Civil para el Diseño de las Agendas Regionales de Género de la SEREMI de Valparaíso",
-      "monto": 150000,
-      "dias": 2,
-      "cierre": "2026-08-28",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
-      "codigo": "1057486-124-COT26",
-      "org": "DIRECCION SERVICIO SALUD METROPOLITANO O",
-      "titulo": "Insumos de Cafetería",
-      "monto": 257952,
-      "dias": 1,
-      "cierre": "2026-08-27",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "2658-1065-COT26",
       "org": "I MUNICIPALIDAD DE ANCUD",
       "titulo": "CAFÉ Y OTROS",
@@ -648,15 +596,15 @@
       "probabilidad": 45
     },
     {
-      "codigo": "2703-187-COT26",
-      "org": "I MUNICIPALIDAD DE TALAGANTE",
-      "titulo": "INST. Servicio cafetería. Cert. Líderes comunitarios. Promoción de Salud",
-      "monto": 250000,
+      "codigo": "4157-659-COT26",
+      "org": "I.Municipalidad de El Carmen",
+      "titulo": " Alimentos para taller de cocina saludable dirigidos a tutoras del PRFE Req. 960101-2(702)",
+      "monto": 30132,
       "dias": 0,
       "cierre": "2026-08-26",
-      "keyword": "CAFETERÍA",
+      "keyword": "SALUDABLE",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 45
     },
@@ -683,19 +631,6 @@
       "keyword": "SALUDABLE",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "4157-654-COT26",
-      "org": "I.Municipalidad de El Carmen",
-      "titulo": "Alimentos  para taller de cocina saludable dirigidos a tutoras del PRFE Req. 960101-2(702) ",
-      "monto": 30132,
-      "dias": 0,
-      "cierre": "2026-08-25",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 45
     }
