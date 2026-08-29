@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-29T17:07+00:00",
+  "generado": "2026-08-29T18:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -241,19 +241,6 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "792909-13-COT26",
-      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
-      "titulo": "Adquisición de  Servicio de Café para  Jornada de Cierre PANEP Superintendencia De Educación Región De Los Lagos ",
-      "monto": 400000,
-      "dias": 2,
-      "cierre": "2026-08-31",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -726,6 +713,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "792909-13-COT26",
+      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
+      "titulo": "Adquisición de  Servicio de Café para  Jornada de Cierre PANEP Superintendencia De Educación Región De Los Lagos ",
+      "monto": 400000,
+      "dias": 1,
+      "cierre": "2026-08-31",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "5067-2080-COT26",
       "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
       "titulo": "Contratación del servicio de catering (30-09-2026)",
@@ -1116,19 +1116,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1057468-73-COT26",
-      "org": "SERVICIO DE SALUD METROPOLITANO CENTRAL",
-      "titulo": "SERVICIO DE CATERING PARA 130 PERSONAS",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2380-1851-COT26",
       "org": "I MUNICIPALIDAD DE COPIAPO",
       "titulo": "SERVICIO DE CATERING, SOLICITADO POR LA OFICINA DEL ADULTO MAYOR (DIDECO), SEGÚN OS N°154114, (R.M.M.).",
@@ -1168,19 +1155,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "889473-1667-COT26",
-      "org": "UNIVERSIDAD DE O'HIGGINS",
-      "titulo": "sc 8739 - Servicio de Catering",
-      "monto": 804440,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1283719-165-COT26",
       "org": "CORPORACION CULTURAL DE LA ILUSTRE MUNICIPALIDAD DE VALDIVIA",
       "titulo": "Adquisición Servicio de Catering para Escritores, Invitados y Artistas de Actividad “Feria del Libro”",
@@ -1203,19 +1177,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3904-778-COT26",
-      "org": "I MUNICIPALIDAD DE BULNES",
-      "titulo": "OP26-1147 COCTEL BECA DEPORTIVA 2026",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1671,19 +1632,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "3747-253-COT26",
-      "org": "I MUNICIPALIDAD DE SAN IGNACIO",
-      "titulo": "INSUMOS PARA COFFE BREAK CAPACITACION DE LIDERES COMUNITARIOS POR PROGRAMA MAS ADULTOS MAYORES AUTOVALENTES. PRODUCTOS DEBEN SER ENTREGADOS EN DEPTO. DE SALUD EL DIA LUNES 31 DE AGOSTO A LAS 09:00 AM",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 45
     },
