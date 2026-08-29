@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-29T16:07+00:00",
+  "generado": "2026-08-29T17:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -501,6 +501,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2380-1869-COT26",
+      "org": "I MUNICIPALIDAD DE COPIAPO",
+      "titulo": "SERVICIO DE COFFE BREAK DESTINADO A LAS SESIONES DEL CONCEJO MUNICIPAL Y CONSEJO COMUNAL DE ORG. DE LA SOC. CIVIL, SECRETARIA MUNICIPAL, SEGUN OS 154333 (A.T.A)",
+      "monto": 7164900,
+      "dias": 1,
+      "cierre": "2026-08-31",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -1129,19 +1142,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2705-1258-COT26",
-      "org": "UNIVERSIDAD DEL BIO BIO",
-      "titulo": "“CONTRATACIÓN DE SERVICIO DE CATERING – SC 3796”",
-      "monto": 371000,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "889473-1677-COT26",
       "org": "UNIVERSIDAD DE O'HIGGINS",
       "titulo": "SC 8765 - Servicio de Catering",
@@ -1229,19 +1229,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3486-319-COT26",
-      "org": "I MUNICIPALIDAD DE NUEVA IMPERIAL",
-      "titulo": "SERVICIO BANQUETERIA",
-      "monto": 2000000,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1363,19 +1350,6 @@
       "probabilidad": 51
     },
     {
-      "codigo": "4353-123-COT26",
-      "org": "I MUNICIPALIDAD DE FREIRINA",
-      "titulo": "CONTRATACIÓN DE SERVICIO DE COFFE BREAK ",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "COFFE",
-      "ofertas_actuales": 1,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 50
-    },
-    {
       "codigo": "5350-375-COT26",
       "org": "I MUNICIPALIDAD DE VALLENAR",
       "titulo": "02 servicio de catering para 20 personas Cesfam Estacion.",
@@ -1389,19 +1363,6 @@
       "probabilidad": 50
     },
     {
-      "codigo": "1591-119-COT26",
-      "org": "Servicio Nacional de Turismo",
-      "titulo": "Coffee Break para PILOTAJE DE PLATAFORMA APRENDE TURISMO",
-      "monto": 250000,
-      "dias": 2,
-      "cierre": "2026-08-31",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
       "codigo": "918434-227-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4249 Adquisición de Servicio de café break para 20 personas. Mesa Nacional de Mujeres Cuidadoras, Cuarta Sesión año 2026, Políticas de Igualdad",
@@ -1413,6 +1374,19 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 49
+    },
+    {
+      "codigo": "1591-119-COT26",
+      "org": "Servicio Nacional de Turismo",
+      "titulo": "Coffee Break para PILOTAJE DE PLATAFORMA APRENDE TURISMO",
+      "monto": 250000,
+      "dias": 1,
+      "cierre": "2026-08-31",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 47
     },
     {
       "codigo": "3287-386-COT26",
