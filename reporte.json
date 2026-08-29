@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-29T21:07+00:00",
+  "generado": "2026-08-29T22:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1504,32 +1504,6 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 47
-    },
-    {
-      "codigo": "5067-2085-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Adquisición de Insumos para Coffee - Departamento de Innovación Educativa, Vicerrectoría Académica (VRA) USACH",
-      "monto": 225832,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "5423-145-COT26",
-      "org": "UNIVERSIDAD DE LOS LAGOS",
-      "titulo": "Servicio de Coffee Breack para 17 personas: día 03 de Septiembre de 2026, desde las 09:00 hrs hasta las 12:45 hrs. (SASERVI 83919)",
-      "monto": 141984,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "3141-159-COT26",
