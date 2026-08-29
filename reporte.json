@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-29T20:07+00:00",
+  "generado": "2026-08-29T21:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1082,21 +1082,8 @@
       "titulo": "SERVICIO DE ARRIENDO DE SALON PARA REALIZACION DE TALLER  Y SERVICIO DE COFFE BREAK PARA 60 PERSONAS, CAPACITACION PERSONAL DOM, DIRECCION DE OBRAS MUNICIPALES, SEGUN OS 154242 (A.T.A)",
       "monto": 1000000,
       "dias": 0,
-      "cierre": "2026-08-29",
+      "cierre": "2026-08-30",
       "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2380-1851-COT26",
-      "org": "I MUNICIPALIDAD DE COPIAPO",
-      "titulo": "SERVICIO DE CATERING, SOLICITADO POR LA OFICINA DEL ADULTO MAYOR (DIDECO), SEGÚN OS N°154114, (R.M.M.).",
-      "monto": 5000000,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
       "momento": "am",
@@ -1112,19 +1099,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3678-421-COT26",
-      "org": "I MUNICIPALIDAD DE PETORCA",
-      "titulo": " CONTRATACIÓN DE SERVICIO DE CATERING PARA CENTRO COMUNITARIO DE CUIDADOS; CIERRE CURSO TEXTIL",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-08-29",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
