@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-30T22:07+00:00",
+  "generado": "2026-08-30T23:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1359,19 +1359,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "2288-587-COT26",
-      "org": "I MUNICIPALIDAD DE CANELA",
-      "titulo": "SERVICIO COCTEL ACTIVIDAD DIA 31 DE AGOSTO 2026",
-      "monto": 250000,
-      "dias": 0,
-      "cierre": "2026-08-30",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 45
     },
