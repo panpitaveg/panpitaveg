@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-30T12:07+00:00",
+  "generado": "2026-08-30T13:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1272,19 +1272,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "316-417-COT26",
-      "org": "I MUNICIPALIDAD DE VILLA ALEMANA",
-      "titulo": "PEDIDO N°1175/EVENTOS/DESAYUNO PARA ACTIVIDAD/ ADJUDICACIÓN SUJETA A DISPONIBILIDAD PRESUPUESTARIA",
-      "monto": 1,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "918434-219-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4198 Servicio de Cafetería para actividad; Diálogos con las Organizaciones de la Sociedad Civil, Seremi de Los Ríos",
@@ -1441,19 +1428,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "889473-1676-COT26",
-      "org": "UNIVERSIDAD DE O'HIGGINS",
-      "titulo": "sc 8748 - catering",
-      "monto": 285600,
-      "dias": 0,
-      "cierre": "2026-08-30",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "613925-13-COT26",
       "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
       "titulo": "Contratación de servicio de catering para una reunión del CRCA 2026. 1° septiembre para 15 personas , en carlos Anwandter 0466, Valdivia.",
@@ -1487,6 +1461,19 @@
       "dias": 0,
       "cierre": "2026-08-31",
       "keyword": "COCKTAIL",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "316-417-COT26",
+      "org": "I MUNICIPALIDAD DE VILLA ALEMANA",
+      "titulo": "PEDIDO N°1175/EVENTOS/DESAYUNO PARA ACTIVIDAD/ ADJUDICACIÓN SUJETA A DISPONIBILIDAD PRESUPUESTARIA",
+      "monto": 1,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
       "momento": "am",
