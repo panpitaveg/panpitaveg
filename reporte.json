@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-29T23:06+00:00",
+  "generado": "2026-08-30T00:09+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -41,13 +41,13 @@
       "org": "MINISTERIO PUBLICO",
       "titulo": "SERVICIO DE CAFÉ – CURSO FORMACIÓN INICIAL PARA FISCALES Y ABOGADOS/AS ASISTENTES",
       "monto": 7160000,
-      "dias": 5,
+      "dias": 4,
       "cierre": "2026-09-03",
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 65
+      "probabilidad": 63
     },
     {
       "codigo": "1300-142-COT26",
