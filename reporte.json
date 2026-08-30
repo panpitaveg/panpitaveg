@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-30T15:07+00:00",
+  "generado": "2026-08-30T16:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -193,19 +193,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "2445-283-COT26",
-      "org": "I MUNICIPALIDAD DE CURICO",
-      "titulo": "ADQUISICION COFFEE CEREMONIA DIA DEL APS 2026 SP/258",
-      "monto": 2500000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "1430396-85-COT26",
       "org": "CORPORACIÓN CULTURAL DE ÑUÑOA",
       "titulo": "Contratación de servicios de Coffe Break para la Casa de la Cultura de Ñuñoa",
@@ -303,19 +290,6 @@
       "monto": 650000,
       "dias": 1,
       "cierre": "2026-09-01",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1320308-20-COT26",
-      "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-      "titulo": "SERVICIO DE PRODUCCIÓN CATERING Y COLACIONES, PARA LAS ACTIVIDADES DE CAPACITACIÓN, QUE SE ENMARCAN EN LA POLÍTICA DE EDUCACIÓN PATRIMONIAL 2024 – 2029  E1O2RT9",
-      "monto": 3000000,
-      "dias": 1,
-      "cierre": "2026-08-31",
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
@@ -436,6 +410,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2445-283-COT26",
+      "org": "I MUNICIPALIDAD DE CURICO",
+      "titulo": "ADQUISICION COFFEE CEREMONIA DIA DEL APS 2026 SP/258",
+      "monto": 2500000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -787,6 +774,19 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1320308-20-COT26",
+      "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+      "titulo": "SERVICIO DE PRODUCCIÓN CATERING Y COLACIONES, PARA LAS ACTIVIDADES DE CAPACITACIÓN, QUE SE ENMARCAN EN LA POLÍTICA DE EDUCACIÓN PATRIMONIAL 2024 – 2029  E1O2RT9",
+      "monto": 3000000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1194,32 +1194,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "918434-225-COT26",
-      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
-      "titulo": "D4227 Adquisición servicio de Coffee break para actividad con mujeres de organizaciones sociales para conversatorio 74 años del voto femenino en Chile, Maule",
-      "monto": 175000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
-      "codigo": "1876-31-COT26",
-      "org": "DEFENSORIA PENAL PUBLICA",
-      "titulo": "SERVICIO DE COFFE BREAK",
-      "monto": 1,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "918434-227-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4249 Adquisición de Servicio de café break para 20 personas. Mesa Nacional de Mujeres Cuidadoras, Cuarta Sesión año 2026, Políticas de Igualdad",
@@ -1233,36 +1207,23 @@
       "probabilidad": 47
     },
     {
-      "codigo": "520487-18-COT26",
-      "org": "Servicio Nacional de Turismo",
-      "titulo": "CONTRATACIÓN DE SERVICIO DE CATERING MEDIANTE BOX LUNCH",
-      "monto": 250000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
-      "codigo": "1462-115-COT26",
-      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE HUALANE",
-      "titulo": "ADQUISICION TALLER COCINA SALUDABLE PROYECTOS PARTICIPATIVOS",
-      "monto": 167750,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "3287-386-COT26",
       "org": "I MUNICIPALIDAD DE LICANTEN",
       "titulo": "Servicio de coffee break, OLN.",
       "monto": 238000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "918434-225-COT26",
+      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+      "titulo": "D4227 Adquisición servicio de Coffee break para actividad con mujeres de organizaciones sociales para conversatorio 74 años del voto femenino en Chile, Maule",
+      "monto": 175000,
       "dias": 0,
       "cierre": "2026-08-31",
       "keyword": "COFFEE",
@@ -1350,15 +1311,15 @@
       "probabilidad": 45
     },
     {
-      "codigo": "3141-159-COT26",
-      "org": "I MUNICIPALIDAD DE LAGO RANCO",
-      "titulo": "INSUMOS PARA COFFE",
-      "monto": 163277,
+      "codigo": "1876-31-COT26",
+      "org": "DEFENSORIA PENAL PUBLICA",
+      "titulo": "SERVICIO DE COFFE BREAK",
+      "monto": 1,
       "dias": 0,
-      "cierre": "2026-08-30",
+      "cierre": "2026-08-31",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 45
     },
@@ -1398,6 +1359,19 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "520487-18-COT26",
+      "org": "Servicio Nacional de Turismo",
+      "titulo": "CONTRATACIÓN DE SERVICIO DE CATERING MEDIANTE BOX LUNCH",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 45
     },
@@ -1476,6 +1450,19 @@
       "keyword": "SALUDABLE",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "1462-115-COT26",
+      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE HUALANE",
+      "titulo": "ADQUISICION TALLER COCINA SALUDABLE PROYECTOS PARTICIPATIVOS",
+      "monto": 167750,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
     },
