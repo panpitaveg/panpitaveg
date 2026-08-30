@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-30T19:07+00:00",
+  "generado": "2026-08-30T20:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -206,19 +206,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1347870-208-COT26",
-      "org": "I MUNICIPALIDAD DE ARICA",
-      "titulo": "TERCERA PUBLICACION 2 SERVICIO COFFE BREAK EN EL PUEBLO DE PUTRE CONVENIO PROG.ESP. INDIGENAS RES 3136,SDM MEMO 550",
-      "monto": 480000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "949-95-COT26",
       "org": "Mineduc Administración III Región",
       "titulo": "Secreduc Atacama Necesita la Contratacion de un Servicio de Coffe Break en la Ciudad de Copiapo. Sol 03 55",
@@ -355,19 +342,6 @@
       "monto": 500000,
       "dias": 0,
       "cierre": "2026-08-31",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5067-2067-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Sol. 92909 cc 71, Escuela de Periodismo, Servicios de coffee diferentes fechas  ",
-      "monto": 780000,
-      "dias": 0,
-      "cierre": "2026-08-30",
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
@@ -605,6 +579,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1347870-208-COT26",
+      "org": "I MUNICIPALIDAD DE ARICA",
+      "titulo": "TERCERA PUBLICACION 2 SERVICIO COFFE BREAK EN EL PUEBLO DE PUTRE CONVENIO PROG.ESP. INDIGENAS RES 3136,SDM MEMO 550",
+      "monto": 480000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 55
     },
