@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-30T16:07+00:00",
+  "generado": "2026-08-30T17:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1181,19 +1181,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "1591-119-COT26",
-      "org": "Servicio Nacional de Turismo",
-      "titulo": "Coffee Break para PILOTAJE DE PLATAFORMA APRENDE TURISMO",
-      "monto": 250000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "918434-227-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4249 Adquisición de Servicio de café break para 20 personas. Mesa Nacional de Mujeres Cuidadoras, Cuarta Sesión año 2026, Políticas de Igualdad",
@@ -1205,6 +1192,19 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 47
+    },
+    {
+      "codigo": "1591-119-COT26",
+      "org": "Servicio Nacional de Turismo",
+      "titulo": "Coffee Break para PILOTAJE DE PLATAFORMA APRENDE TURISMO",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
     },
     {
       "codigo": "3287-386-COT26",
