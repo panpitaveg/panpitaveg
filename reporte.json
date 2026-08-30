@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-30T20:07+00:00",
+  "generado": "2026-08-30T21:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -485,19 +485,6 @@
       "monto": 7164900,
       "dias": 0,
       "cierre": "2026-08-31",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2380-1863-COT26",
-      "org": "I MUNICIPALIDAD DE COPIAPO",
-      "titulo": "SERVICIO DE ARRIENDO DE SALON PARA REALIZACION DE TALLER  Y SERVICIO DE COFFE BREAK PARA 60 PERSONAS, CAPACITACION PERSONAL DOM, DIRECCION DE OBRAS MUNICIPALES, SEGUN OS 154242 (A.T.A)",
-      "monto": 1000000,
-      "dias": 0,
-      "cierre": "2026-08-30",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
