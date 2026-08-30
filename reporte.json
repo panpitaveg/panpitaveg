@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-30T18:07+00:00",
+  "generado": "2026-08-30T19:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1471,13 +1471,13 @@
       "org": "I MUNICIPALIDAD DE BUIN",
       "titulo": "INSUMOS PARA COFFE BREAK DEL PROGRAMA OMIL",
       "monto": 100000,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-08-31",
       "keyword": "COFFE",
       "ofertas_actuales": 1,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 42
+      "probabilidad": 40
     }
   ]
 }
