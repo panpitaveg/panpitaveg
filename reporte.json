@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-30T14:07+00:00",
+  "generado": "2026-08-30T15:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -63,19 +63,6 @@
       "probabilidad": 61
     },
     {
-      "codigo": "1077908-75-COT26",
-      "org": "CENTRO ONCOLOGICO DEL NORTE",
-      "titulo": "COCTEL CEREMONIA INCENTIVO AL RETIRO 2026 DEL CENTRO ONCOLOGICO DEL NORTE",
-      "monto": 330000,
-      "dias": 3,
-      "cierre": "2026-09-02",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
       "codigo": "1201-144-COT26",
       "org": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
       "titulo": "PARA SERVICIO DE ALOJAMIENTO CON DESAYUNO PARA DEPORTISTA EN LA CIUDAD DE SANTIAGO",
@@ -85,19 +72,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región Aysén del General Carlos Ibáñez del Campo",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
-      "codigo": "2074-32-COT26",
-      "org": "Departamento Provincial de Educación de Magallanes",
-      "titulo": "PROVEER UN SERVICIO DE CAFETERÍA PARA EL 11 DE SEPTIEMBRE A LAS 14:15, EN SECREDUC PARA 60 PERSONAS ",
-      "monto": 378000,
-      "dias": 3,
-      "cierre": "2026-09-02",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
       "probabilidad": 61
     },
@@ -167,19 +141,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "1045-12-COT26",
-      "org": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-      "titulo": "Contratación servicio de catering para seminario",
-      "monto": 7000000,
-      "dias": 2,
-      "cierre": "2026-09-01",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "744835-522-COT26",
       "org": "I MUNICIPALIDAD DE LO ESPEJO",
       "titulo": "2 PRODUCCION DE PRESENTACION ARTISTICA Y SERVICIO DE CATERING",
@@ -189,6 +150,19 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1077908-75-COT26",
+      "org": "CENTRO ONCOLOGICO DEL NORTE",
+      "titulo": "COCTEL CEREMONIA INCENTIVO AL RETIRO 2026 DEL CENTRO ONCOLOGICO DEL NORTE",
+      "monto": 330000,
+      "dias": 2,
+      "cierre": "2026-09-02",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -206,17 +180,17 @@
       "probabilidad": 59
     },
     {
-      "codigo": "4414-564-COT26",
-      "org": "I MUNICIPALIDAD DE ARAUCO",
-      "titulo": " “SERVICIO DE COFFEE BREAK PARA 50 PERSONAS  PROGRAMA DE LA MUJER/DIDECO”.",
-      "monto": 350000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "COFFEE",
+      "codigo": "2074-32-COT26",
+      "org": "Departamento Provincial de Educación de Magallanes",
+      "titulo": "PROVEER UN SERVICIO DE CAFETERÍA PARA EL 11 DE SEPTIEMBRE A LAS 14:15, EN SECREDUC PARA 60 PERSONAS ",
+      "monto": 378000,
+      "dias": 2,
+      "cierre": "2026-09-02",
+      "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
+      "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
-      "probabilidad": 57
+      "probabilidad": 59
     },
     {
       "codigo": "2445-283-COT26",
@@ -228,32 +202,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1005498-60-COT26",
-      "org": "COMISION PARA EL MERCADO FINANCIERO",
-      "titulo": "Servicio Coffee Break",
-      "monto": 300000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2462-156-COT26",
-      "org": "I MUNICIPALIDAD DE PROVIDENCIA",
-      "titulo": "COFFEE BREAK PARA CAPACITACIÓN DE PRIMEROS AUXILIOS",
-      "monto": 350000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -323,6 +271,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "1045-12-COT26",
+      "org": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+      "titulo": "Contratación servicio de catering para seminario",
+      "monto": 7000000,
+      "dias": 1,
+      "cierre": "2026-09-01",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "608897-98-COT26",
       "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
       "titulo": "Servicio de catering para la Ceremonia de Reconocimiento HuellaChile 2026 y actividades presenciales de capacitación y difusión del Programa HuellaChile – Programa de Desarrollo Productivo Sostenible",
@@ -388,17 +349,17 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1673-246-COT26",
-      "org": "SERVICIO DE SALUD COQUIMBO HOSPITAL VICUNA",
-      "titulo": "Servicio de cafetería",
-      "monto": 300000,
-      "dias": 1,
+      "codigo": "4414-564-COT26",
+      "org": "I MUNICIPALIDAD DE ARAUCO",
+      "titulo": " “SERVICIO DE COFFEE BREAK PARA 50 PERSONAS  PROGRAMA DE LA MUJER/DIDECO”.",
+      "monto": 350000,
+      "dias": 0,
       "cierre": "2026-08-31",
-      "keyword": "CAFETERÍA",
+      "keyword": "COFFEE",
       "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
+      "region": "Región del Biobío ",
       "momento": "am",
-      "probabilidad": 57
+      "probabilidad": 55
     },
     {
       "codigo": "2297-1168-COT26",
@@ -518,6 +479,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1005498-60-COT26",
+      "org": "COMISION PARA EL MERCADO FINANCIERO",
+      "titulo": "Servicio Coffee Break",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "4887-40-COT26",
       "org": "Subsecretaria de las Culturas y las Artes Region de la Araucania",
       "titulo": "Servicio de Coffee actividad denominada \"Oralidad y Multiculturalidad en la Fiesta del Libro\"",
@@ -527,6 +501,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2462-156-COT26",
+      "org": "I MUNICIPALIDAD DE PROVIDENCIA",
+      "titulo": "COFFEE BREAK PARA CAPACITACIÓN DE PRIMEROS AUXILIOS",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -960,6 +947,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1673-246-COT26",
+      "org": "SERVICIO DE SALUD COQUIMBO HOSPITAL VICUNA",
+      "titulo": "Servicio de cafetería",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2123-328-COT26",
       "org": "SUBSECRETARIA DE SALUD PUBLICA",
       "titulo": "E1O2RT8 GABINETE cso SERVICIO DE CAFETERÍA ",
@@ -1207,19 +1207,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "4609-217-COT26",
-      "org": "I MUNICIPALIDAD DE CHILE CHICO",
-      "titulo": "SERVICIO DE COFFE BREAK",
-      "monto": 127000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región Aysén del General Carlos Ibáñez del Campo",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "1876-31-COT26",
       "org": "DEFENSORIA PENAL PUBLICA",
       "titulo": "SERVICIO DE COFFE BREAK",
@@ -1255,19 +1242,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
-      "codigo": "918434-219-COT26",
-      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
-      "titulo": "D4198 Servicio de Cafetería para actividad; Diálogos con las Organizaciones de la Sociedad Civil, Seremi de Los Ríos",
-      "monto": 150000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1320,6 +1294,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4609-217-COT26",
+      "org": "I MUNICIPALIDAD DE CHILE CHICO",
+      "titulo": "SERVICIO DE COFFE BREAK",
+      "monto": 127000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región Aysén del General Carlos Ibáñez del Campo",
       "momento": "am",
       "probabilidad": 45
     },
@@ -1463,6 +1450,19 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "918434-219-COT26",
+      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+      "titulo": "D4198 Servicio de Cafetería para actividad; Diálogos con las Organizaciones de la Sociedad Civil, Seremi de Los Ríos",
+      "monto": 150000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
     },
