@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-30T17:07+00:00",
+  "generado": "2026-08-30T18:07+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -241,19 +241,6 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "792909-13-COT26",
-      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
-      "titulo": "Adquisición de  Servicio de Café para  Jornada de Cierre PANEP Superintendencia De Educación Región De Los Lagos ",
-      "monto": 400000,
-      "dias": 1,
-      "cierre": "2026-08-31",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -748,6 +735,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Aysén del General Carlos Ibáñez del Campo",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "792909-13-COT26",
+      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
+      "titulo": "Adquisición de  Servicio de Café para  Jornada de Cierre PANEP Superintendencia De Educación Región De Los Lagos ",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-08-31",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
