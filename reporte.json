@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-31T19:10+00:00",
+  "generado": "2026-08-31T20:09+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -193,6 +193,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1082957-156-COT26",
+      "org": "DIRECCION GENERAL DE PROMOCION DE EXPORTACIONES",
+      "titulo": "SERVICIO DE ALIMENTACIÓN CONSISTENTE EN DESAYUNO Y BRUNCH. LUGAR: SANTIAGO, REGIÓN METROPOLITANA",
+      "monto": 2900000,
+      "dias": 0,
+      "cierre": "2026-09-01",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "3505-185-COT26",
       "org": "I MUNICIPALIDAD DE PENCAHUE",
       "titulo": "Contratacion Servicios de alimentacion y produccion de eventos \"Desayuno para personas - Bienvenida Primavera, el Malon de los 60\"",
@@ -319,19 +332,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1462-115-COT26",
-      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE HUALANE",
-      "titulo": "ADQUISICION TALLER COCINA SALUDABLE PROYECTOS PARTICIPATIVOS",
-      "monto": 167750,
-      "dias": 0,
-      "cierre": "2026-08-31",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 45
     },
