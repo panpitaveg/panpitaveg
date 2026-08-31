@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-31T20:09+00:00",
+  "generado": "2026-08-31T21:09+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -150,6 +150,19 @@
       "keyword": "COCKTAIL",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2986-281-COT26",
+      "org": "I MUNICIPALIDAD DE LOS LAGOS",
+      "titulo": " Servicio Cena y Banqueteria para 150 Personas Aniversario APS",
+      "monto": 3970000,
+      "dias": 0,
+      "cierre": "2026-09-01",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 55
     },
