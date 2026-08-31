@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-08-31T12:08+00:00",
+  "generado": "2026-08-31T13:08+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -89,6 +89,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "2658-1083-COT26",
+      "org": "I MUNICIPALIDAD DE ANCUD",
+      "titulo": "SERVICIO DE DESAYUNO Y ALMUERZO",
+      "monto": 700000,
+      "dias": 2,
+      "cierre": "2026-09-03",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "2074-32-COT26",
       "org": "Departamento Provincial de Educación de Magallanes",
       "titulo": "PROVEER UN SERVICIO DE CAFETERÍA PARA EL 11 DE SEPTIEMBRE A LAS 14:15, EN SECREDUC PARA 60 PERSONAS ",
@@ -137,6 +150,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "889473-1691-COT26",
+      "org": "UNIVERSIDAD DE O'HIGGINS",
+      "titulo": "SC 8616 - Servicio de Catering",
+      "monto": 1411890,
+      "dias": 1,
+      "cierre": "2026-09-01",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 57
     },
@@ -284,19 +310,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "4027-264-COT26",
-      "org": "I MUNICIPALIDAD DE ANTUCO",
-      "titulo": "Adquisición de Insumos para Coffee Break – Taller de Lengua de Señas",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-08-31",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1005498-60-COT26",
       "org": "COMISION PARA EL MERCADO FINANCIERO",
       "titulo": "Servicio Coffee Break",
@@ -332,6 +345,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "644-44-COT26",
+      "org": "Ministerio de Vivienda y Urbanismo",
+      "titulo": "COFFE BREAK PARA PARA 30 PERSONAS EN LA CIUDAD DE OSORNO",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-09-01",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -479,19 +505,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1483-46-COT26",
-      "org": "DEPARTAMENTO PROVINCIAL DE EDUCACION EL LOA",
-      "titulo": "COFFE  BREAK, RED DE CONVIVENCIA ",
-      "monto": 450000,
-      "dias": 0,
-      "cierre": "2026-08-31",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "949-95-COT26",
       "org": "Mineduc Administración III Región",
       "titulo": "Secreduc Atacama Necesita la Contratacion de un Servicio de Coffe Break en la Ciudad de Copiapo. Sol 03 55",
@@ -579,6 +592,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2453-447-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE QUINTA NORMAL",
+      "titulo": "PM-737 O/C N°737 (DIDECO - CULTURA) SERVICIO DE CATERING Y ALIMENTACIÓN PARA QUINTA FONDA, SEGUN ARCHIVO ADJUNTO",
+      "monto": 2000000,
+      "dias": 0,
+      "cierre": "2026-09-01",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -739,28 +765,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3603-459-COT26",
-      "org": "I MUNICIPALIDAD DE MULCHEN",
-      "titulo": "SERVICIO COCTEL PARA AUTORIDADES E INVITADOS INAUGURACION FONDA FAMILIAR DIA 17/9, SEGÚN SP N° 1578",
-      "monto": 595000,
+      "codigo": "3335-1072-COT26",
+      "org": "I MUNICIPALIDAD DE LA UNION",
+      "titulo": "COCTEL DE COMIDA TRADICIONAL MAPUCHE PARA CENTRO PEDAGÓGICO INTERCULTURAL DE NÁPOLES ORD. N°11 SUBV. REGULAR",
+      "monto": 400000,
       "dias": 0,
-      "cierre": "2026-08-31",
+      "cierre": "2026-09-01",
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1718-967-COT26",
-      "org": "I MUNICIPALIDAD DE SAN RAMON",
-      "titulo": "AREA SALUD/SIC N°20651/SALUD DE LA MUJER/COCTEL MAPUCHE",
-      "monto": 390000,
-      "dias": 0,
-      "cierre": "2026-08-31",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 55
     },
@@ -934,19 +947,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5613-403-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": " SERVICIO DE CATERING / COFFEE BREAK - 3 DE SEPTIEMBRE - CC2012",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-08-31",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 1,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 50
-    },
-    {
       "codigo": "4057-708-COT26",
       "org": "I MUNICIPALIDAD DE LONQUIMAY",
       "titulo": "ADQ. DE INSUMOS DE RECONOCIMIENTO (CAFÉ DE LAS ARTES ENTRE OTROS) LICEO BICENTENARIO PRO-RETENCIÓN.-",
@@ -969,19 +969,6 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 1,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 50
-    },
-    {
-      "codigo": "1431841-978-COT26",
-      "org": "MUNICIPALIDAD DE RECOLETA",
-      "titulo": "SM 6998 - SERVICO DE BANQUETERIA DIA DEL APS",
-      "monto": 3405000,
-      "dias": 0,
-      "cierre": "2026-08-31",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 1,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 50
     },
@@ -1073,6 +1060,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "1218393-180-COT26",
+      "org": "CONSULTORIO EXTERNO VALDIVIA",
+      "titulo": "Insumos para coffe break taller de cuidadores CESFAM Externo Valdivia",
+      "monto": 26860,
+      "dias": 0,
+      "cierre": "2026-09-01",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
     },
