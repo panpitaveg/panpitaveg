@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-01T15:13+00:00",
+  "generado": "2026-09-01T16:40+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -50,6 +50,32 @@
       "probabilidad": 59
     },
     {
+      "codigo": "1107276-360-COT26",
+      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+      "titulo": "SERVICIO COFFEE - BRUNCH / REGIÓN DE COQUIMBO",
+      "monto": 550000,
+      "dias": 2,
+      "cierre": "2026-09-04",
+      "keyword": "BRUNCH",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1889-17-COT26",
+      "org": "SERVICIO NACIONAL DE LA MUJER Y LA EQUIDAD DE GENERO",
+      "titulo": "SERVICIO DE CAFÉ PARA ACTIVIDADES REGIONALES DE ÁREA MUJER Y TRABAJO SERNAMEG BIOBÍO",
+      "monto": 2000000,
+      "dias": 1,
+      "cierre": "2026-09-03",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "792909-14-COT26",
       "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
       "titulo": "Servicio de Café para  Jornada de Cierre PANEP Superintendencia De Educación Región De Los Lagos ",
@@ -59,19 +85,6 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2585-1109-COT26",
-      "org": "I MUNICIPALIDAD DE ARICA",
-      "titulo": "CONTRATACIÓN SERVICIO DE BANQUETERIA, BARRIO TIERRAS BLANCAS, ORD N°1219, DIDECO, CBA IMA",
-      "monto": 2000000,
-      "dias": 1,
-      "cierre": "2026-09-03",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 57
     },
@@ -89,6 +102,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "2701-599-COT26",
+      "org": "I MUNICIPALIDAD DE TALAGANTE",
+      "titulo": "Insumos de cafetería requeridos por Depto. Prensa y Relaciones Públicas, según Anexo 0286 (Inst. 248, anexo278) Fiesta de la Chilenidad de Lonquén",
+      "monto": 800000,
+      "dias": 1,
+      "cierre": "2026-09-03",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "3492-83-COT26",
       "org": "I MUNICIPALIDAD DE RINCONADA",
       "titulo": "ADQUISICIÓN DE PREMIOS PARA PARTICIPANTES DE CONCURSOS DE PROMOCIÓN DE HÁBITOS SALUDABLES",
@@ -96,6 +122,19 @@
       "dias": 1,
       "cierre": "2026-09-03",
       "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "3661-392-COT26",
+      "org": "I MUNICIPALIDAD DE SAN ESTEBAN",
+      "titulo": "SERVICIOS DE COFFE BREACK PARA TALLERES DE PROGRAMA VINCULO ",
+      "monto": 1120000,
+      "dias": 1,
+      "cierre": "2026-09-03",
+      "keyword": "BREACK",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
       "momento": "am",
@@ -113,6 +152,19 @@
       "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 57
+    },
+    {
+      "codigo": "4700-13-COT26",
+      "org": "BIENESTAR DEL CONSEJO DE DEFENSA DEL ESTADO",
+      "titulo": "El Servicio de Bienestar del Consejo de Defensa del Estado, necesita adquirir productos para la Cafetería del CDE.",
+      "monto": 3975000,
+      "dias": 3,
+      "cierre": "2026-09-05",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 1,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 56
     },
     {
       "codigo": "654478-60-COT26",
@@ -180,6 +232,32 @@
       "probabilidad": 55
     },
     {
+      "codigo": "3140-347-COT26",
+      "org": "I MUNICIPALIDAD DE LAGO RANCO",
+      "titulo": "COCTEL DIECIOCHERO",
+      "monto": 1100000,
+      "dias": 0,
+      "cierre": "2026-09-02",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3611-181-COT26",
+      "org": "I MUNICIPALIDAD DE SAAVEDRA",
+      "titulo": "Servicio de Coctel para actividad Dia de Atención Primaria de Salud",
+      "monto": 2000000,
+      "dias": 0,
+      "cierre": "2026-09-02",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "3588-433-COT26",
       "org": "I MUNICIPALIDAD DE YUNGAY",
       "titulo": "Servicio de coctel para 50 personas",
@@ -232,28 +310,28 @@
       "probabilidad": 55
     },
     {
-      "codigo": "608123-11-COT26",
-      "org": "MOP-BIENESTAR- IX REGION",
-      "titulo": "EMPANADAS, COCTEL, SERVICIO DE BIENESTAR MOP ARAUCANÍA ",
-      "monto": 1600000,
+      "codigo": "5178-4557-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "REACTIVO PROTEASE INHIBITOR COCKTAIL/SP 1067489 KS",
+      "monto": 473000,
       "dias": 0,
       "cierre": "2026-09-02",
-      "keyword": "COCTEL",
+      "keyword": "COCKTAIL",
       "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
     {
-      "codigo": "3888-811-COT26",
-      "org": "Ilustre Municipalidad de San Juan de la Costa",
-      "titulo": "Servicio de Cocktail para Desfile de Fiestas Patrias",
-      "monto": 1500000,
+      "codigo": "1057678-24-COT26",
+      "org": "SERVICIO SALUD METROPOLITANO OCCIDENTE",
+      "titulo": "SERVICIO DE BANQUETERIA: DIRECCIÓN DE SERVICIO– FIESTAS PATRIAS ",
+      "monto": 4500000,
       "dias": 0,
-      "cierre": "2026-09-01",
-      "keyword": "COCKTAIL",
+      "cierre": "2026-09-02",
+      "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -384,6 +462,19 @@
       "keyword": "BRUNCH",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1251183-158-COT26",
+      "org": "Corporación Municipal de Des.Social C de Tango",
+      "titulo": "ALIMENTOS SALUDABLE PROGRAMA PROMOCION",
+      "monto": 900000,
+      "dias": 0,
+      "cierre": "2026-09-02",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -575,7 +666,7 @@
       "titulo": "SC 8672 - Insumos de cafetería",
       "monto": 71400,
       "dias": 0,
-      "cierre": "2026-09-01",
+      "cierre": "2026-09-02",
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
