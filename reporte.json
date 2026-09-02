@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-02T14:14+00:00",
+  "generado": "2026-09-02T15:19+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -50,15 +50,15 @@
       "probabilidad": 65
     },
     {
-      "codigo": "2790-183-COT26",
-      "org": "I MUNICIPALIDAD DE PAINE",
-      "titulo": "SERVICIO DE COFFE BREAK- PROGRAMA EQUIDAD RURAL",
-      "monto": 1310956,
+      "codigo": "5251-867-COT26",
+      "org": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
+      "titulo": "SERVICIO ARRIENDO DE SALÓN Y SERVICIO DE COFFE – 6 JORNADAS - RANCAGUA",
+      "monto": 3200000,
       "dias": 1,
-      "cierre": "2026-09-03",
+      "cierre": "2026-09-04",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 57
     },
@@ -163,6 +163,32 @@
       "keyword": "BRUNCH",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2766-179-COT26",
+      "org": "I MUNICIPALIDAD DE LA CISTERNA",
+      "titulo": "LETREROS METALICOS PAR RUTA SALUDABLE / COLACIONES SALUDABLES POB 5-300",
+      "monto": 1700000,
+      "dias": 1,
+      "cierre": "2026-09-04",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "1457776-11-COT26",
+      "org": "Plan Buen Vivir",
+      "titulo": "PBV - SERVICIO DE COFFEE BREAK (E1O2RT9)",
+      "monto": 7164900,
+      "dias": 1,
+      "cierre": "2026-09-04",
+      "keyword": "BREAK",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -323,6 +349,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2790-183-COT26",
+      "org": "I MUNICIPALIDAD DE PAINE",
+      "titulo": "SERVICIO DE COFFE BREAK- PROGRAMA EQUIDAD RURAL",
+      "monto": 1310956,
+      "dias": 0,
+      "cierre": "2026-09-03",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2595-321-COT26",
       "org": "I MUNICIPALIDAD DE PARRAL",
       "titulo": "CONTRATACION DE TRES SERVICIOS DE COFFE BREAK PARA DIFERENTES PROGRAMAS O DEPARTAMENTO DE LA MUNICIPALIDAD DE PARRAL",
@@ -345,32 +384,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2324-878-COT26",
-      "org": "I MUNICIPALIDAD DE PUERTO MONTT",
-      "titulo": "SERVCIO DE COFFE BREAK PARA JORNADA ESTRATEGICA DE DIRECTORES - ADMINISTRACIÓN MUNICIPAL",
-      "monto": 4142000,
-      "dias": 0,
-      "cierre": "2026-09-02",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2366-455-COT26",
-      "org": "I MUNICIPALIDAD DE ARICA",
-      "titulo": "COFFE BREAK CON ARRIENDO DE SALÓN CURSO PRESENCIAL DENOMINADO PROGRAMACIÓN NEUROLINGUISTICA DEL 21 AL 24 DE SEPTIEMBRE PARA 36 FUNCIONARIOS.",
-      "monto": 2150000,
-      "dias": 0,
-      "cierre": "2026-09-02",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 55
     },
@@ -505,19 +518,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3588-433-COT26",
-      "org": "I MUNICIPALIDAD DE YUNGAY",
-      "titulo": "Servicio de coctel para 50 personas",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-09-02",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1077908-75-COT26",
       "org": "CENTRO ONCOLOGICO DEL NORTE",
       "titulo": "COCTEL CEREMONIA INCENTIVO AL RETIRO 2026 DEL CENTRO ONCOLOGICO DEL NORTE",
@@ -544,6 +544,45 @@
       "probabilidad": 55
     },
     {
+      "codigo": "5067-2128-COT26",
+      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+      "titulo": "Sol. 92923 cc 78, Depto. de Relaciones Internacionales e Interuniversitarias, Servicio de banqueteria y catering",
+      "monto": 1800000,
+      "dias": 0,
+      "cierre": "2026-09-03",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3953-200-COT26",
+      "org": "I MUNICIPALIDAD DE PERALILLO",
+      "titulo": "SERVICIO DE BANQUETERIA PARA ENCUENTRO COMUNAL DEL PMJH ",
+      "monto": 1000000,
+      "dias": 0,
+      "cierre": "2026-09-03",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3508-656-COT26",
+      "org": "I MUNICIPALIDAD DE CHONCHI",
+      "titulo": "SERVICIO DE BANQUETERIA PARA 70 PERSONAS",
+      "monto": 800000,
+      "dias": 0,
+      "cierre": "2026-09-03",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "3594-838-COT26",
       "org": "I MUNICIPALIDAD DE PORTEZUELO",
       "titulo": "SERVICIO DE BANQUETERIA PARA CEREMONIA DE RECONOCIMIENTO A PRODUCTORES VITIVINÍCOLAS LOCALES",
@@ -566,19 +605,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3477-466-COT26",
-      "org": "I MUNICIPALIDAD DE VILCUN",
-      "titulo": "SERVICIO DE BANQUETERIA PARA LLEVAR A CABO EL PROGRAMA \"CEREMONIA RECONOCIMIENTO ATENCIÓN PRIMARIA SALUD\" - ADMINISTRACIÓN MUNICIPAL",
-      "monto": 2000000,
-      "dias": 0,
-      "cierre": "2026-09-02",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -644,19 +670,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1057389-1914-COT26",
-      "org": "SERVICIO SALUD ARAUCANIA NORTE HOSPITAL VICTORIA",
-      "titulo": "Ayudas Sociales Desayuno y Almuerzo para Pacientes de Alta Ruralidad ",
-      "monto": 2000000,
-      "dias": 0,
-      "cierre": "2026-09-02",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -791,15 +804,41 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1057389-1912-COT26",
-      "org": "SERVICIO SALUD ARAUCANIA NORTE HOSPITAL VICTORIA",
-      "titulo": "Actividad de Promoción de Estilos de Vida Saludable con Adultos Mayores ",
-      "monto": 700000,
+      "codigo": "1457902-5-COT26",
+      "org": "Oficina de Seguimiento ",
+      "titulo": "OFS - SERVICIO DE COFFEE BREAK (E1O2RT9)",
+      "monto": 500000,
       "dias": 0,
-      "cierre": "2026-09-02",
-      "keyword": "SALUDABLE",
+      "cierre": "2026-09-03",
+      "keyword": "BREAK",
       "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "568658-1331-COT26",
+      "org": "CORPORACION MUNICIPAL VINA DEL MAR PARA EL DESARROLLO SOCIAL",
+      "titulo": "COFFEE BREAK, FUC 2-591-1385-26, MAIS, (22-08-011) SERVICIOS DE RPODUCCIÓN Y DESARROLLO DE EVENTOS, DIRECC. SALUD, CC: 591-6 (COF)",
+      "monto": 541450,
+      "dias": 0,
+      "cierre": "2026-09-03",
+      "keyword": "BREAK",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5677-12-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "COFFEE BREAK PARA 80 PERSONAS - ANTOFAGASTA",
+      "monto": 380000,
+      "dias": 0,
+      "cierre": "2026-09-03",
+      "keyword": "BREAK",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1012,6 +1051,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "2805-484-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE LLANQUIHUE-DEPTO. DE SALUD",
+      "titulo": "COMPRA DE SERVICIO DE COFFE BREAK PARA  RBC ",
+      "monto": 180000,
+      "dias": 0,
+      "cierre": "2026-09-03",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "3141-162-COT26",
       "org": "I MUNICIPALIDAD DE LAGO RANCO",
       "titulo": "INSUMOS PARA COFFE",
@@ -1038,6 +1090,19 @@
       "probabilidad": 45
     },
     {
+      "codigo": "2297-1173-COT26",
+      "org": "I MUNICIPALIDAD DE OSORNO",
+      "titulo": " SERVICIO DE COFFE BREAK",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-09-03",
+      "keyword": "COFFE",
+      "ofertas_actuales": 2,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "2013-1424-COT26",
       "org": "UNIVERSIDAD ARTURO PRAT",
       "titulo": "SERVICIO DE COFFEE BREAK 04/09",
@@ -1047,19 +1112,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1218393-180-COT26",
-      "org": "CONSULTORIO EXTERNO VALDIVIA",
-      "titulo": "Insumos para coffe break taller de cuidadores CESFAM Externo Valdivia",
-      "monto": 26860,
-      "dias": 0,
-      "cierre": "2026-09-02",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
     },
@@ -1150,19 +1202,6 @@
       "cierre": "2026-09-03",
       "keyword": "BREAK",
       "ofertas_actuales": 2,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "4907-11-COT26",
-      "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-      "titulo": "COFFEE BREAK (CATERING) PARA ENCUENTRO DE COMUNICADORES RM DEL SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-      "monto": 220000,
-      "dias": 0,
-      "cierre": "2026-09-02",
-      "keyword": "BREAK",
-      "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 45
