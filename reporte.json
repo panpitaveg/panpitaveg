@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-05T14:11+00:00",
+  "generado": "2026-09-05T15:11+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -37,19 +37,6 @@
       "probabilidad": 65
     },
     {
-      "codigo": "622-111-COT26",
-      "org": "TESORERIA GENERAL DE LA REPUBLICA",
-      "titulo": "Contratación de servicio de café para “Seminario para Fiscalizadores”.",
-      "monto": 800000,
-      "dias": 5,
-      "cierre": "2026-09-10",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 65
-    },
-    {
       "codigo": "791756-5-COT26",
       "org": "SERVICIO DE IMPUESTOS INTERNOS DIRECCION",
       "titulo": "Coffee Break Octubre",
@@ -72,6 +59,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
+      "codigo": "622-111-COT26",
+      "org": "TESORERIA GENERAL DE LA REPUBLICA",
+      "titulo": "Contratación de servicio de café para “Seminario para Fiscalizadores”.",
+      "monto": 800000,
+      "dias": 4,
+      "cierre": "2026-09-10",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 63
     },
@@ -713,19 +713,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "2568-58-COT26",
-      "org": "CORP NACIONAL FORESTAL",
-      "titulo": "2 Coffee (AM y PM) + Almuerzo En Palmilla ",
-      "monto": 1500000,
-      "dias": 3,
-      "cierre": "2026-09-08",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 1,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 56
-    },
-    {
       "codigo": "4195-806-COT26",
       "org": "I MUNICIPALIDAD DE QUEMCHI",
       "titulo": "COFFEE Y COCTEL PARA SEMINARIO DE TURISMO 2026",
@@ -934,6 +921,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2568-58-COT26",
+      "org": "CORP NACIONAL FORESTAL",
+      "titulo": "2 Coffee (AM y PM) + Almuerzo En Palmilla ",
+      "monto": 1500000,
+      "dias": 2,
+      "cierre": "2026-09-08",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 1,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 54
+    },
+    {
       "codigo": "918434-230-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4354 Adquisición de Servicio de Cafetería; Diálogo participativo sobre la Agenda Regional de Igualdad de Derechos y Equidad de Género 2026- 2030, Seremi de Aysen",
@@ -969,19 +969,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
-      "codigo": "2790-183-COT26",
-      "org": "I MUNICIPALIDAD DE PAINE",
-      "titulo": "SERVICIO DE COFFE BREAK- PROGRAMA EQUIDAD RURAL",
-      "monto": 1310956,
-      "dias": 2,
-      "cierre": "2026-09-07",
-      "keyword": "COFFE",
-      "ofertas_actuales": 2,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 49
     },
@@ -1155,6 +1142,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "2790-183-COT26",
+      "org": "I MUNICIPALIDAD DE PAINE",
+      "titulo": "SERVICIO DE COFFE BREAK- PROGRAMA EQUIDAD RURAL",
+      "monto": 1310956,
+      "dias": 1,
+      "cierre": "2026-09-07",
+      "keyword": "COFFE",
+      "ofertas_actuales": 2,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
       "codigo": "4083-475-COT26",
       "org": "I MUNICIPALIDAD DE CABRERO DEPARTAMENTO DE SALUD",
       "titulo": " Servicio de Banqueteria Saludable Fiestas patrias Programa Mas Salud en Comunidad",
@@ -1216,19 +1216,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "3869-724-COT26",
-      "org": "I MUNICIPALIDAD DE GORBEA",
-      "titulo": "SERVICIO DE CATERING",
-      "monto": 280000,
-      "dias": 0,
-      "cierre": "2026-09-05",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 45
     },
@@ -1309,32 +1296,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 37
-    },
-    {
-      "codigo": "4777-691-COT26",
-      "org": "I MUNICIPALIDAD DE LA UNION",
-      "titulo": "CONTENEDORES COLOR CAFÉ PARA DEPARTAMENTO DE MEDIO AMBIENTE, ASEO Y ORNATO",
-      "monto": 829750,
-      "dias": 0,
-      "cierre": "2026-09-05",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 5,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 30
-    },
-    {
-      "codigo": "2731-981-COT26",
-      "org": "I MUNICIPALIDAD DE PENAFLOR",
-      "titulo": " SC N°14-061_DIDEL_OMIL_COFFE BREAK ANUAL",
-      "monto": 1300000,
-      "dias": 0,
-      "cierre": "2026-09-05",
-      "keyword": "COFFE",
-      "ofertas_actuales": 6,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 25
     }
   ]
 }
