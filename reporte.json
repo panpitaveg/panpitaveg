@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-05T13:10+00:00",
+  "generado": "2026-09-05T14:11+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -89,19 +89,6 @@
       "probabilidad": 63
     },
     {
-      "codigo": "1626-146-COT26",
-      "org": "Hospital de Lolol",
-      "titulo": " Cofeee break curso RCP y ECICEP",
-      "monto": 367500,
-      "dias": 4,
-      "cierre": "2026-09-09",
-      "keyword": "BREAK",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 63
-    },
-    {
       "codigo": "3834-170-COT26",
       "org": "I MUNICIPALIDAD DE MEJILLONES",
       "titulo": "SERVICIO DE COCTEL CON ALIMENTOS TRADICIONALES Y PRODUCCION DE EVENTOS ( musica chilena y baile),  200 invitados.",
@@ -111,6 +98,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "1626-146-COT26",
+      "org": "Hospital de Lolol",
+      "titulo": " Cofeee break curso RCP y ECICEP",
+      "monto": 367500,
+      "dias": 3,
+      "cierre": "2026-09-09",
+      "keyword": "BREAK",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 61
     },
@@ -202,19 +202,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "5067-2160-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Sol.93050 CC64 / 3 Servicios de Catering (mes de octubre)",
-      "monto": 2200000,
-      "dias": 2,
-      "cierre": "2026-09-07",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 59
     },
@@ -488,6 +475,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5067-2160-COT26",
+      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+      "titulo": "Sol.93050 CC64 / 3 Servicios de Catering (mes de octubre)",
+      "monto": 2200000,
+      "dias": 1,
+      "cierre": "2026-09-07",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -791,19 +791,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2202-331-COT26",
-      "org": "SERVICIO SALUD ARAUCANIA NORTE HOSPITAL CURACAUTIN",
-      "titulo": "Servicio de coffe para pertinencia cultural, Hospital de Curacautín.",
-      "monto": 380000,
-      "dias": 0,
-      "cierre": "2026-09-05",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2731-996-COT26",
       "org": "I MUNICIPALIDAD DE PENAFLOR",
       "titulo": "SERV. BIENESTAR_SERVICIO DE CATERING",
@@ -869,19 +856,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5603-149-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "DEC/ DEC/ Servicio de Catering Decanato 07 de Septiembre",
-      "monto": 1500000,
-      "dias": 0,
-      "cierre": "2026-09-05",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "5067-2151-COT26",
       "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
       "titulo": "Contratación del servicio de catering en 3 fechas",
@@ -934,19 +908,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1058339-547-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE HUARA",
-      "titulo": "COTIZACIONES SERVICIO COCTEL-OF FOMENTO ",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-09-05",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3697-120-COT26",
       "org": "I MUNICIPALIDAD DE VICTORIA",
       "titulo": "Cont Serv. de desayuno con local incluido, para “Jornada de autocuidado”, debe incluir alimentación, salón con equipamiento, PROG HAB PARA LA VIDA II",
@@ -969,19 +930,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1057491-1703-COT26",
-      "org": "SERVICIO DE SALUD ORIENTE HOSPITAL LUIS CALVO MACKENNA",
-      "titulo": "ADQUISICIÓN DE SONDA PARA FISH KMT2 BREAK APART",
-      "monto": 1400000,
-      "dias": 0,
-      "cierre": "2026-09-05",
-      "keyword": "BREAK",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1034,19 +982,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 2,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
-      "codigo": "4083-475-COT26",
-      "org": "I MUNICIPALIDAD DE CABRERO DEPARTAMENTO DE SALUD",
-      "titulo": " Servicio de Banqueteria Saludable Fiestas patrias Programa Mas Salud en Comunidad",
-      "monto": 200000,
-      "dias": 2,
-      "cierre": "2026-09-07",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 49
     },
@@ -1214,6 +1149,19 @@
       "dias": 1,
       "cierre": "2026-09-07",
       "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "4083-475-COT26",
+      "org": "I MUNICIPALIDAD DE CABRERO DEPARTAMENTO DE SALUD",
+      "titulo": " Servicio de Banqueteria Saludable Fiestas patrias Programa Mas Salud en Comunidad",
+      "monto": 200000,
+      "dias": 1,
+      "cierre": "2026-09-07",
+      "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
       "momento": "am",
