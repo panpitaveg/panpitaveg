@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-05T12:13+00:00",
+  "generado": "2026-09-05T13:10+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -137,19 +137,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "2078-395-COT26",
-      "org": "SUBSECRETARIA DE SALUD PUBLICA",
-      "titulo": "Serv. Coffee break (60) Seminario sobre manejo de residuos no peligrosos. Residuos Bio Bio SC 421",
-      "monto": 360000,
-      "dias": 2,
-      "cierre": "2026-09-07",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -358,6 +345,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2078-395-COT26",
+      "org": "SUBSECRETARIA DE SALUD PUBLICA",
+      "titulo": "Serv. Coffee break (60) Seminario sobre manejo de residuos no peligrosos. Residuos Bio Bio SC 421",
+      "monto": 360000,
+      "dias": 1,
+      "cierre": "2026-09-07",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 57
     },
