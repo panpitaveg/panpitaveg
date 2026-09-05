@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-05T19:10+00:00",
+  "generado": "2026-09-05T20:11+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -744,7 +744,7 @@
       "titulo": "COFFEE Y COCTEL PARA SEMINARIO DE TURISMO 2026",
       "monto": 600000,
       "dias": 0,
-      "cierre": "2026-09-05",
+      "cierre": "2026-09-06",
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
@@ -761,19 +761,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1274907-138-COT26",
-      "org": "CORPORACIÓN MUNICIPAL DE EDUCACIÓN, SALUD Y ATENCIÓN DE MENORES CHONCHI",
-      "titulo": "Coffe break para la actividad de Adulto Mayor.",
-      "monto": 587800,
-      "dias": 0,
-      "cierre": "2026-09-05",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -795,19 +782,6 @@
       "org": "ILUSTRE MUNICIPALIDAD DE MELIPILLA",
       "titulo": "SERVICIO DE CATERING",
       "monto": 1785000,
-      "dias": 0,
-      "cierre": "2026-09-05",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5067-2151-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Contratación del servicio de catering en 3 fechas",
-      "monto": 400000,
       "dias": 0,
       "cierre": "2026-09-05",
       "keyword": "CATERING",
