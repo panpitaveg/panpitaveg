@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-06T16:11+00:00",
+  "generado": "2026-09-06T17:10+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -63,19 +63,6 @@
       "probabilidad": 61
     },
     {
-      "codigo": "1658-1305-COT26",
-      "org": "I MUNICIPALIDAD DE TEMUCO",
-      "titulo": "S6-26/ DIRECCION DE PERSONAS MAYORES/ ADQ. SERVICIO COFFE BREAK",
-      "monto": 750000,
-      "dias": 3,
-      "cierre": "2026-09-09",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
       "codigo": "622-111-COT26",
       "org": "TESORERIA GENERAL DE LA REPUBLICA",
       "titulo": "Contratación de servicio de café para “Seminario para Fiscalizadores”.",
@@ -108,6 +95,19 @@
       "monto": 400000,
       "dias": 2,
       "cierre": "2026-09-08",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1658-1305-COT26",
+      "org": "I MUNICIPALIDAD DE TEMUCO",
+      "titulo": "S6-26/ DIRECCION DE PERSONAS MAYORES/ ADQ. SERVICIO COFFE BREAK",
+      "monto": 750000,
+      "dias": 2,
+      "cierre": "2026-09-09",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
@@ -241,19 +241,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "696011-54-COT26",
-      "org": "MINISTERIO PUBLICO",
-      "titulo": "Servicio de cafetería",
-      "monto": 560000,
-      "dias": 1,
-      "cierre": "2026-09-07",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -748,6 +735,19 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "696011-54-COT26",
+      "org": "MINISTERIO PUBLICO",
+      "titulo": "Servicio de cafetería",
+      "monto": 560000,
+      "dias": 0,
+      "cierre": "2026-09-07",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 55
     },
