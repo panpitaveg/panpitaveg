@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-07T20:13+00:00",
+  "generado": "2026-09-07T21:13+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -48,6 +48,19 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 61
+    },
+    {
+      "codigo": "1479-103-COT26",
+      "org": "Departamento Provincial de Educación Osorno",
+      "titulo": "SERVICIO DE COFFEE BREAK, JORNADA PINCELADAS DE CUENTO DE VIAJE 1ER LIENZO",
+      "monto": 640000,
+      "dias": 2,
+      "cierre": "2026-09-10",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 59
     },
     {
       "codigo": "758-440-COT26",
@@ -219,6 +232,45 @@
       "probabilidad": 59
     },
     {
+      "codigo": "895072-114-COT26",
+      "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
+      "titulo": " Servicio de Cafetería - Jornada Macrozonal  Sur y Grupos Focales DPE - Temuco",
+      "monto": 450000,
+      "dias": 2,
+      "cierre": "2026-09-10",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "895072-113-COT26",
+      "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
+      "titulo": " Servicio de Cafetería - Jornada Macrozonal Austral y Grupos Focales DPE - Punta Arenas",
+      "monto": 800000,
+      "dias": 2,
+      "cierre": "2026-09-10",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Magallanes y de la Antártica",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "895072-112-COT26",
+      "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
+      "titulo": " Servicio de Cafetería - Jornada Macrozonal Centro y Grupos Focales DPE - Rancagua",
+      "monto": 450000,
+      "dias": 2,
+      "cierre": "2026-09-10",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "895072-111-COT26",
       "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
       "titulo": "Servicio de Cafetería - Jornada Macrozonal Norte - Iquique - Grupos Focales DPE",
@@ -258,6 +310,32 @@
       "probabilidad": 57
     },
     {
+      "codigo": "4306-398-COT26",
+      "org": "I MUNICIPALIDAD DE ERCILLA",
+      "titulo": "SERVICIO COFFE BREAK Y ALMUERZOS PARA ACTIVIDAD TRAFKINTU, USUARIOS PPL, PAILAHUEQIE ERCILLA.-",
+      "monto": 2175000,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2608-54-COT26",
+      "org": "Departamento Provincial de Educación Huasco",
+      "titulo": "ADQUISICION DE COFFE BREAK, APOYO JORNADA PLAN REGIONAL ETE PROGRAMADO PARA EL DIA 29 DE SEPTIEMBRE 2026 ",
+      "monto": 450000,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1057390-219-COT26",
       "org": "SERVICIO DE SALUD ARAUCANIA NORTE",
       "titulo": "Insumos de Coffe Break DSSAN",
@@ -280,6 +358,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5621-311-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": " Café en grano tostado",
+      "monto": 1000000,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -345,6 +436,19 @@
       "keyword": "SALUDABLE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "1626-146-COT26",
+      "org": "Hospital de Lolol",
+      "titulo": " Cofeee break curso RCP y ECICEP",
+      "monto": 367500,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "BREAK",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 57
     },
@@ -488,6 +592,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5965-140-COT26",
+      "org": "UNIVERSIDAD DE TARAPACA",
+      "titulo": "Servicio de 4 Coffe Break para 30 personas, Postgrado Matemática.",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-09-08",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 55
     },
@@ -843,13 +960,13 @@
       "probabilidad": 55
     },
     {
-      "codigo": "507428-335-COT26",
-      "org": "SERVICIO DE SALUD CHILOE",
-      "titulo": "Servicio de cafetería para jornadas de buen trato para funcionarios/as Dirección Servicio de Salud Chiloé",
-      "monto": 450000,
+      "codigo": "545598-907-COT26",
+      "org": "CORP MUNICIPAL DE CASTRO PARA LA EDUCACION SALUD Y ATENCION AL MENOR",
+      "titulo": "SERVICIO DE COFFES BREAK PARA EL DIA 09 Y 10 DE SEPTIEMBRE",
+      "monto": 549000,
       "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "CAFETERÍA",
+      "cierre": "2026-09-08",
+      "keyword": "BREAK",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
       "momento": "am",
@@ -919,6 +1036,19 @@
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 50
+    },
+    {
+      "codigo": "1479-104-COT26",
+      "org": "Departamento Provincial de Educación Osorno",
+      "titulo": "SERVICIO DE COFFEE BREAK, COMITE LOCAL D.P.D. PROVINCIAL",
+      "monto": 90000,
+      "dias": 2,
+      "cierre": "2026-09-10",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 49
     },
     {
       "codigo": "1665-133-COT26",
