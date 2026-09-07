@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-07T13:14+00:00",
+  "generado": "2026-09-07T14:14+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -141,6 +141,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "1283719-176-COT26",
+      "org": "CORPORACION CULTURAL DE LA ILUSTRE MUNICIPALIDAD DE VALDIVIA",
+      "titulo": "Adquisición Servicio de Catering para actividad de Finalización Plan de Gestión",
+      "monto": 750000,
+      "dias": 2,
+      "cierre": "2026-09-10",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "769-195-COT26",
       "org": "SERVICIO DE SALUD ANTOFAGASTA DIRECCION",
       "titulo": "Servicio de alojamiento con desayuno SC 546",
@@ -150,19 +163,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1626-146-COT26",
-      "org": "Hospital de Lolol",
-      "titulo": " Cofeee break curso RCP y ECICEP",
-      "monto": 367500,
-      "dias": 2,
-      "cierre": "2026-09-09",
-      "keyword": "BREAK",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 59
     },
@@ -219,6 +219,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "2057-312-COT26",
+      "org": "UNIVERSIDAD ARTURO PRAT",
+      "titulo": "Se requiere contratar servicio integral de transporte, alimentación/catering y apoyo logístico para la realización de dos (2) pasantías ",
+      "monto": 3000000,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "3834-170-COT26",
       "org": "I MUNICIPALIDAD DE MEJILLONES",
       "titulo": "SERVICIO DE COCTEL CON ALIMENTOS TRADICIONALES Y PRODUCCION DE EVENTOS ( musica chilena y baile),  200 invitados.",
@@ -230,6 +243,71 @@
       "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 57
+    },
+    {
+      "codigo": "609-96-COT26",
+      "org": "INSTITUTO DE DESARROLLO AGROPECUARIO",
+      "titulo": "ADQUISICIÓN DEL SERVICIOS DE  ALOJAMIENTO C/DESAYUNO, TRASLADOS TERRESTRES INTERREGIONALES Y ALIMENTACIÓN PARA LA ASISTENCIA DE USUARIOS ARTESANOS TRADICIONALES DE INDAP INVITADOS A FERIA EL CATEO ",
+      "monto": 3800000,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "744835-544-COT26",
+      "org": "I MUNICIPALIDAD DE LO ESPEJO",
+      "titulo": "UN SERVICIO DE DESAYUNO",
+      "monto": 500000,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "1626-146-COT26",
+      "org": "Hospital de Lolol",
+      "titulo": " Cofeee break curso RCP y ECICEP",
+      "monto": 367500,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "BREAK",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2292-744-COT26",
+      "org": "I MUNICIPALIDAD DE TALCA",
+      "titulo": " SERVICIO DE COFFEE BREAK CONV CECOSF BRILLA EL SOL-NUEVO HORIZONTE (PEDIDO 2093)(SMV)",
+      "monto": 425000,
+      "dias": 0,
+      "cierre": "2026-09-08",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4134-570-COT26",
+      "org": "I. Municipalidad Sagrada Familia",
+      "titulo": "SERVICIO DE COFFEE BREAK PARA ACTIVIDAD \"MALÓN DE BIENVENIDA\" DEL PROGRAMA VÍNCULOS 2024 Y 2025",
+      "monto": 603000,
+      "dias": 0,
+      "cierre": "2026-09-08",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
     },
     {
       "codigo": "643553-498-COT26",
@@ -293,19 +371,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "769-200-COT26",
-      "org": "SERVICIO DE SALUD ANTOFAGASTA DIRECCION",
-      "titulo": "SERVICIO COFFE BREAK SAMU",
-      "monto": 357000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -375,19 +440,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2771-514-COT26",
-      "org": "I MUNICIPALIDAD DE CHIGUAYANTE",
-      "titulo": "SOPI 664 SERVICIO DE COFFE PARA ENCUENTRO EMPRESARIAL, BAJO EL PROGRAMA SOCIAL \"FOMENTO PRODUCTIVO Y EMPRENDIMIENTO LOCAL\"",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "5420-88-COT26",
       "org": "GOBIERNO REGIONAL DE ARICA-PARINACOTA",
       "titulo": "Adquisición Servicio Coffe Break para 120 personas, Jornada de Autocuidado en el marco del Plan de Calidad de Vida, aprobado mediante Resolución N.° 3496/2026",
@@ -423,6 +475,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4371-288-COT26",
+      "org": "I MUNICIPALIDAD DE SAN VICENTE",
+      "titulo": "ADQUISICIÓN DE SERVICIO DE CATERING -BIENESTAR",
+      "monto": 1400000,
+      "dias": 0,
+      "cierre": "2026-09-08",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -492,32 +557,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2057-312-COT26",
-      "org": "UNIVERSIDAD ARTURO PRAT",
-      "titulo": "Se requiere contratar servicio integral de transporte, alimentación/catering y apoyo logístico para la realización de dos (2) pasantías ",
-      "monto": 3000000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5951-92-COT26",
-      "org": "UNIVERSIDAD DE TARAPACA",
-      "titulo": "Servicios de cafeteria y catering",
-      "monto": 750000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "4314-244-COT26",
       "org": "ILUSTRE MUNICIPALIDAD DE CUREPTO",
       "titulo": "PROVISIÓN DE SERVICIO DE CATERING Y ENTREGA DE INSUMOS PARA ACTIVIDADES DE FIESTA DE LA CHILENIDAD",
@@ -553,6 +592,19 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "545598-903-COT26",
+      "org": "CORP MUNICIPAL DE CASTRO PARA LA EDUCACION SALUD Y ATENCION AL MENOR",
+      "titulo": "COCTEL PARA CONMEMORAR DIA APS ",
+      "monto": 2000000,
+      "dias": 0,
+      "cierre": "2026-09-08",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -648,6 +700,19 @@
       "probabilidad": 52
     },
     {
+      "codigo": "613925-15-COT26",
+      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
+      "titulo": "Servicio de Coffe para para 15 personas para el Consejo Regional de Los Ríos. Los Robles #04 (Interior), Isla Teja, Valdivia. 10.09.2026 a las 10.30 AM a 12.30 PM",
+      "monto": 120000,
+      "dias": 3,
+      "cierre": "2026-09-11",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 51
+    },
+    {
       "codigo": "3678-432-COT26",
       "org": "I MUNICIPALIDAD DE PETORCA",
       "titulo": "SERVICIO DE ALIMENTACIÓN CÓCTEL Y CAFETERÍA CERTIFICACIÓN TALLERES EMPODERADAS Y CURSO DE MANIPULACIÓN DE ALIMENTOS 2026 MUNICIPALIDAD PETORCA-FUNDACIÓN PRODEMU PROVINCIA DE PETORCA.",
@@ -700,32 +765,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "5609-148-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Insumos para coffee y aseo",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1422557-14-COT26",
-      "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-      "titulo": "SERVICIO DE COFFEE BREAK ",
-      "monto": 250000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "697057-111-COT26",
       "org": "MINISTERIO PUBLICO",
       "titulo": "Coffe break 09/Septiembre Fiscalía Regional de O'Higgins",
@@ -739,19 +778,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "1577-165-COT26",
-      "org": "DELEGACIÓN PRESIDENCIAL REGIONAL DE LOS LAGOS",
-      "titulo": "Adquisición productos para coffe Programa Gobierno en Terreno DPR Los Lagos",
-      "monto": 250000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "3778-231-COT26",
       "org": "I MUNICIPALIDAD DE HIJUELAS",
       "titulo": "COFFE BREAK 2026000276",
@@ -761,32 +787,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "613925-15-COT26",
-      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
-      "titulo": "Servicio de Coffe para para 15 personas para el Consejo Regional de Los Ríos. Los Robles #04 (Interior), Isla Teja, Valdivia. 10.09.2026 a las 10.30 AM a 12.30 PM",
-      "monto": 120000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "450-245-COT26",
-      "org": "I MUNICIPALIDAD DE RIO NEGRO",
-      "titulo": "ALIMENTOS COFFE CURSO MANEJO DE SITUACIONES AGRESIVAS EN EL AMBITO LABORAL",
-      "monto": 150000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 45
     },
@@ -817,6 +817,19 @@
       "probabilidad": 45
     },
     {
+      "codigo": "5433-65-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Adquisición de servicio de cocktail continuo para Alumni Uchile 09 DE SEPTIEMBRE",
+      "monto": 200000,
+      "dias": 0,
+      "cierre": "2026-09-08",
+      "keyword": "COCKTAIL",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "4083-475-COT26",
       "org": "I MUNICIPALIDAD DE CABRERO DEPARTAMENTO DE SALUD",
       "titulo": " Servicio de Banqueteria Saludable Fiestas patrias Programa Mas Salud en Comunidad",
@@ -826,19 +839,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1736-536-COT26",
-      "org": "I MUNICIPALIDAD DE LA COMUNA DE EL BOSQUE",
-      "titulo": "Adquisición de insumos de cafetería desechables, según FUSC N°548 OBRAS - DPTO DE EMERGENCIAS.",
-      "monto": 536860,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 2,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 45
     },
