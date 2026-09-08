@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-07T23:13+00:00",
+  "generado": "2026-09-08T00:23+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -323,6 +323,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "2460-884-COT26",
+      "org": "I MUNICIPALIDAD DE PROVIDENCIA",
+      "titulo": "Servicio de Coffe Break Ciclo Talleres DAOM",
+      "monto": 700000,
+      "dias": 1,
+      "cierre": "2026-09-09",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1655-150-COT26",
       "org": "SERVICIO DE SALUD METROPOLI CENTRAL DIRECCION DE ATENCION PRIMARIA",
       "titulo": "FOLIO 263 - COFFE ACT. COMUNITARIAS FORTALECIMIENTO DE LA PARTICIPACION + LRP",
@@ -609,19 +622,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1626-146-COT26",
-      "org": "Hospital de Lolol",
-      "titulo": " Cofeee break curso RCP y ECICEP",
-      "monto": 367500,
-      "dias": 1,
-      "cierre": "2026-09-09",
-      "keyword": "BREAK",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "4195-812-COT26",
       "org": "I MUNICIPALIDAD DE QUEMCHI",
       "titulo": "COFFEE Y COCTEL PARA SEMINARIO DE TURISMO 2026",
@@ -891,19 +891,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5251-886-COT26",
-      "org": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
-      "titulo": "SERVICIO DE ARRIENDO SALON Y PATIO AL AIRE LIBRE PARA TALLER DE CAPACITACIÓN, Y COFFE, COMUNA MELIPILLA",
-      "monto": 3984000,
-      "dias": 0,
-      "cierre": "2026-09-07",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1320,19 +1307,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "545598-907-COT26",
-      "org": "CORP MUNICIPAL DE CASTRO PARA LA EDUCACION SALUD Y ATENCION AL MENOR",
-      "titulo": "SERVICIO DE COFFES BREAK PARA EL DIA 09 Y 10 DE SEPTIEMBRE",
-      "monto": 549000,
-      "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "BREAK",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
