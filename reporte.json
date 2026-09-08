@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-08T19:14+00:00",
+  "generado": "2026-09-08T20:14+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -23,6 +23,32 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "3544-253-COT26",
+      "org": "Ejercito de Chile",
+      "titulo": "ADQ DE COCTEL (CASINO DE SOF)",
+      "monto": 685000,
+      "dias": 2,
+      "cierre": "2026-09-11",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "788110-187-COT26",
+      "org": "I MUNICIPALIDAD DE SAN VICENTE",
+      "titulo": "CONTRATACIÓN DE SERVICIOS PARA LA REALIZACIÓN DE TALLERES DE ALIMENTACIÓN SALUDABLE, PARA PROGRAMA MÁS SALUD EN COMUNIDAD",
+      "monto": 1291000,
+      "dias": 2,
+      "cierre": "2026-09-11",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 59
+    },
     {
       "codigo": "895072-114-COT26",
       "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
@@ -154,32 +180,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2366-467-COT26",
-      "org": "I MUNICIPALIDAD DE ARICA",
-      "titulo": "3era PUBLICACION  SERVICIO DE COCTEL PARA 80 PERSONAS, MEMO N°449. IVH",
-      "monto": 357000,
-      "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4195-812-COT26",
-      "org": "I MUNICIPALIDAD DE QUEMCHI",
-      "titulo": "COFFEE Y COCTEL PARA SEMINARIO DE TURISMO 2026",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3834-170-COT26",
       "org": "I MUNICIPALIDAD DE MEJILLONES",
       "titulo": "SERVICIO DE COCTEL CON ALIMENTOS TRADICIONALES Y PRODUCCION DE EVENTOS ( musica chilena y baile),  200 invitados.",
@@ -258,19 +258,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1078326-9-COT26",
-      "org": "INSTITUTO ANTARTICO CHILENO",
-      "titulo": "Servicios de Cafetería ",
-      "monto": 350000,
-      "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "696011-58-COT26",
       "org": "MINISTERIO PUBLICO",
       "titulo": "Servicio de Cafetería",
@@ -280,19 +267,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1738-341-COT26",
-      "org": "I MUNICIPALIDAD DE VILLA ALEGRE",
-      "titulo": "SERVICIO DE COFFE BREAK PARA 80 PERSONAS ESTILO BRUNCH PARA CAMPEONATO COMUNAL DE CUECA ESCOLAR",
-      "monto": 700000,
-      "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "BRUNCH",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -362,6 +336,19 @@
       "probabilidad": 50
     },
     {
+      "codigo": "918434-235-COT26",
+      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+      "titulo": "D4504 servicio de cafetería para los Diálogos con las Organizaciones de la Sociedad Civil para el Diseño de las Agendas Regionales de Género, Seremi de O'Higgins",
+      "monto": 150000,
+      "dias": 2,
+      "cierre": "2026-09-11",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
       "codigo": "4769-65-COT26",
       "org": "I MUNICIPALIDAD DE LA ESTRELLA",
       "titulo": "Adquisición de insumos de cafetería para la ejecución de talleres comunitarios y sesiones educativas del programa Chile Crece Contigo",
@@ -414,6 +401,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "4247-560-COT26",
+      "org": "I MUNICIPALIDAD DE PUNITAQUI",
+      "titulo": "INSUMOS PARA FONDA SALUDABLE EN EL MARCO DEL HITO DE SENDA, PARA ENTREGAR",
+      "monto": 20000,
+      "dias": 1,
+      "cierre": "2026-09-10",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
       "codigo": "5433-65-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "Adquisición de servicio de cocktail continuo para Alumni Uchile 09 DE SEPTIEMBRE",
@@ -440,17 +440,17 @@
       "probabilidad": 45
     },
     {
-      "codigo": "2710-444-COT26",
-      "org": "MUNICIPALIDAD DE OVALLE",
-      "titulo": "JUEGOS ALIMENTACION SALUDABLE",
-      "monto": 127500,
+      "codigo": "2724-740-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE SAN CARLOS",
+      "titulo": "COCTEL PARA TERCER DIALOGO CIUDADANO DE MUJERES DIVERSAS AÑO 2026",
+      "monto": 170000,
       "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
+      "cierre": "2026-09-09",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 1,
+      "region": "Región del Ñuble",
       "momento": "am",
-      "probabilidad": 45
+      "probabilidad": 40
     }
   ]
 }
