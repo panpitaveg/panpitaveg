@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-08T12:18+00:00",
+  "generado": "2026-09-08T13:16+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -72,19 +72,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "769-195-COT26",
-      "org": "SERVICIO DE SALUD ANTOFAGASTA DIRECCION",
-      "titulo": "Servicio de alojamiento con desayuno SC 546",
-      "monto": 400000,
-      "dias": 1,
-      "cierre": "2026-09-10",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -284,19 +271,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1058339-561-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE HUARA",
-      "titulo": "Servicio coctel para 35 personas ",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3834-170-COT26",
       "org": "I MUNICIPALIDAD DE MEJILLONES",
       "titulo": "SERVICIO DE COCTEL CON ALIMENTOS TRADICIONALES Y PRODUCCION DE EVENTOS ( musica chilena y baile),  200 invitados.",
@@ -492,6 +466,19 @@
       "probabilidad": 45
     },
     {
+      "codigo": "3884-484-COT26",
+      "org": "I MUNICIPALIDAD PAIHUANO",
+      "titulo": "ADQUISICION DE SERVICIO DE DESAYUNO PARA DELEGACION DE ATLETISMO, SE REQUIERE PARA EL DIA LUNES 14 DE SEPTIEMBRE A LAS 09.00 HRS. ESCUELA MONTE GRANDE.",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-09-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "2710-444-COT26",
       "org": "MUNICIPALIDAD DE OVALLE",
       "titulo": "JUEGOS ALIMENTACION SALUDABLE",
@@ -503,19 +490,6 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 45
-    },
-    {
-      "codigo": "2731-989-COT26",
-      "org": "I MUNICIPALIDAD DE PENAFLOR",
-      "titulo": "SC. N°14.050-DIRECCIÓN DE DESARROLLO ECONÓMICO LOCAL-DIDEL-INSUMOS CAFETERÍA",
-      "monto": 242000,
-      "dias": 0,
-      "cierre": "2026-09-08",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 1,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 40
     }
   ]
 }
