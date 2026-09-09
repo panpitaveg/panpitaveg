@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-09T15:14+00:00",
+  "generado": "2026-09-09T16:15+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -89,6 +89,97 @@
       "probabilidad": 57
     },
     {
+      "codigo": "5670-16-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Servicio de Café",
+      "monto": 1700000,
+      "dias": 0,
+      "cierre": "2026-09-09",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "568963-62-COT26",
+      "org": "COMISION DEL SISTEMA NACIONAL DE CERTIFICACION DE COMPETENCIAS LABORALES",
+      "titulo": "Servicio de café",
+      "monto": 750000,
+      "dias": 0,
+      "cierre": "2026-09-09",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2658-1129-COT26",
+      "org": "I MUNICIPALIDAD DE ANCUD",
+      "titulo": "VASOS DE POLIPAPEL, KUCHEN, CAFÉ, OTROS",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2658-1123-COT26",
+      "org": "I MUNICIPALIDAD DE ANCUD",
+      "titulo": "FELPA CAFÉ HABANO, LAMINA DE ESPONJA, OTROS",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "622-111-COT26",
+      "org": "TESORERIA GENERAL DE LA REPUBLICA",
+      "titulo": "Contratación de servicio de café para “Seminario para Fiscalizadores”.",
+      "monto": 800000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4328-1001-COT26",
+      "org": "I MUNICIPALIDAD DE NIQUEN",
+      "titulo": "LA MUNICIPALIDAD DE ÑIQUEN REQUIERE LA COMPRA DE INSUMOS DE ALIMENTACION PARA COCTEL",
+      "monto": 5397000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4179-186-COT26",
+      "org": "I MUNICIPALIDAD DE LAUTARO",
+      "titulo": "COCTEL FIESTAS PATRIAS LAUTARO Y PILLANLELBUN",
+      "monto": 6170000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2179-187-COT26",
       "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
       "titulo": "SERVICIO DE COCTEL PARA I. CORTE DE APELACIONES DE TEMUCO",
@@ -150,19 +241,6 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2297-1233-COT26",
-      "org": "I MUNICIPALIDAD DE OSORNO",
-      "titulo": "SERVICIO COCTEL PARA FONDA DE FIESTAS PATRIAS OFICINA DE BIENESTAR 2026",
-      "monto": 7150000,
-      "dias": 0,
-      "cierre": "2026-09-09",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -254,19 +332,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5485-714-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de cafetería ",
-      "monto": 1100000,
-      "dias": 0,
-      "cierre": "2026-09-09",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 55
     },
@@ -388,6 +453,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "1590-87-COT26",
+      "org": "SUBSECRETARIA DEL MINISTERIO DE AGRICULT",
+      "titulo": "CAFETERA ELÉCTRICA DE GOTEO, APTA PARA CAFÉ MOLIDO CON FILTRO REUTILIZABLE ",
+      "monto": 45000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "5190-151-COT26",
       "org": "JEFATURA DE BIENESTAR (I.P)",
       "titulo": "ÁREA COMUNICACIONES - SERVICIO DE COCTEL",
@@ -397,6 +475,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2140-175-COT26",
+      "org": "Servicio de Salud del Reloncaví",
+      "titulo": "Servicio de Cafetería, Hospital Futaleufú",
+      "monto": 47600,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 45
     },
