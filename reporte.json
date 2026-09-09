@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-09T16:15+00:00",
+  "generado": "2026-09-09T17:13+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -23,19 +23,6 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
-    {
-      "codigo": "792962-11-COT26",
-      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
-      "titulo": "Servicio de Cafetería Jornada Normativa EP",
-      "monto": 400000,
-      "dias": 2,
-      "cierre": "2026-09-11",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 59
-    },
     {
       "codigo": "3544-253-COT26",
       "org": "Ejercito de Chile",
@@ -72,6 +59,32 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5741-9-COT26",
+      "org": "Servicio de Bienestar Subsecretaría de Hacienda",
+      "titulo": "Adquisición de Insumos o materiales para Cafetería 1er piso",
+      "monto": 500000,
+      "dias": 1,
+      "cierre": "2026-09-11",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "792962-11-COT26",
+      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
+      "titulo": "Servicio de Cafetería Jornada Normativa EP",
+      "monto": 400000,
+      "dias": 1,
+      "cierre": "2026-09-11",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 57
     },
@@ -154,6 +167,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "3699-153-COT26",
+      "org": "I MUNICIPALIDAD DE PUMANQUE",
+      "titulo": "Adquisición de Coctel para recepción de autoridades regionales, comunales y vecinos en Ceremonia Aniversario Comunal N° 125",
+      "monto": 700000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "4328-1001-COT26",
       "org": "I MUNICIPALIDAD DE NIQUEN",
       "titulo": "LA MUNICIPALIDAD DE ÑIQUEN REQUIERE LA COMPRA DE INSUMOS DE ALIMENTACION PARA COCTEL",
@@ -232,19 +258,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2594-693-COT26",
-      "org": "I MUNICIPALIDAD DE CONCON",
-      "titulo": "SERVICIO DE COCTEL PARA 80 PERSONAS DESFILE FIESTAS PATRIAS CONCON 2026. (OFICINA DIDECO).",
-      "monto": 750000,
-      "dias": 0,
-      "cierre": "2026-09-09",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3710-115-COT26",
       "org": "I MUNICIPALIDAD DE VICTORIA",
       "titulo": "SERVICIOS DE BANQUETERIA DEL CONVENIO MAS AMA",
@@ -306,19 +319,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "609-96-COT26",
-      "org": "INSTITUTO DE DESARROLLO AGROPECUARIO",
-      "titulo": "ADQUISICIÓN DEL SERVICIOS DE  ALOJAMIENTO C/DESAYUNO, TRASLADOS TERRESTRES INTERREGIONALES Y ALIMENTACIÓN PARA LA ASISTENCIA DE USUARIOS ARTESANOS TRADICIONALES DE INDAP INVITADOS A FERIA EL CATEO ",
-      "monto": 3800000,
-      "dias": 0,
-      "cierre": "2026-09-09",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
