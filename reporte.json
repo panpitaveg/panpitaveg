@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-09T13:15+00:00",
+  "generado": "2026-09-09T14:14+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -35,6 +35,19 @@
       "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 59
+    },
+    {
+      "codigo": "622-111-COT26",
+      "org": "TESORERIA GENERAL DE LA REPUBLICA",
+      "titulo": "Contratación de servicio de café para “Seminario para Fiscalizadores”.",
+      "monto": 800000,
+      "dias": 1,
+      "cierre": "2026-09-10",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
     },
     {
       "codigo": "3544-253-COT26",
@@ -87,6 +100,58 @@
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 57
+    },
+    {
+      "codigo": "5670-16-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Servicio de Café",
+      "monto": 1700000,
+      "dias": 0,
+      "cierre": "2026-09-09",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "568963-62-COT26",
+      "org": "COMISION DEL SISTEMA NACIONAL DE CERTIFICACION DE COMPETENCIAS LABORALES",
+      "titulo": "Servicio de café",
+      "monto": 750000,
+      "dias": 0,
+      "cierre": "2026-09-09",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2658-1129-COT26",
+      "org": "I MUNICIPALIDAD DE ANCUD",
+      "titulo": "VASOS DE POLIPAPEL, KUCHEN, CAFÉ, OTROS",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2658-1123-COT26",
+      "org": "I MUNICIPALIDAD DE ANCUD",
+      "titulo": "FELPA CAFÉ HABANO, LAMINA DE ESPONJA, OTROS",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
     },
     {
       "codigo": "2179-187-COT26",
@@ -176,6 +241,19 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3884-488-COT26",
+      "org": "I MUNICIPALIDAD PAIHUANO",
+      "titulo": "ADQUISICION DE DESAYUNO PARA DELAGACIÓN DE ATLETISMO COMUNAL",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -349,19 +427,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "4769-65-COT26",
-      "org": "I MUNICIPALIDAD DE LA ESTRELLA",
-      "titulo": "Adquisición de insumos de cafetería para la ejecución de talleres comunitarios y sesiones educativas del programa Chile Crece Contigo",
-      "monto": 110000,
-      "dias": 1,
-      "cierre": "2026-09-10",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "5190-151-COT26",
       "org": "JEFATURA DE BIENESTAR (I.P)",
       "titulo": "ÁREA COMUNICACIONES - SERVICIO DE COCTEL",
@@ -384,6 +449,19 @@
       "keyword": "COCKTAIL",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4769-65-COT26",
+      "org": "I MUNICIPALIDAD DE LA ESTRELLA",
+      "titulo": "Adquisición de insumos de cafetería para la ejecución de talleres comunitarios y sesiones educativas del programa Chile Crece Contigo",
+      "monto": 110000,
+      "dias": 0,
+      "cierre": "2026-09-10",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 45
     },
