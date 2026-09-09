@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-09T19:13+00:00",
+  "generado": "2026-09-09T20:14+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -35,6 +35,19 @@
       "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
       "probabilidad": 63
+    },
+    {
+      "codigo": "696011-58-COT26",
+      "org": "MINISTERIO PUBLICO",
+      "titulo": "Servicio de Cafetería",
+      "monto": 325000,
+      "dias": 2,
+      "cierre": "2026-09-11",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 59
     },
     {
       "codigo": "3544-253-COT26",
@@ -219,19 +232,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3705-387-COT26",
-      "org": "I MUNICIPALIDAD DE LOS SAUCES",
-      "titulo": "SERVICIO DE ALIMENTACIÓN PARA COCTEL SEMINARIO BERRIES, SP 23958",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-09-09",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3710-115-COT26",
       "org": "I MUNICIPALIDAD DE VICTORIA",
       "titulo": "SERVICIOS DE BANQUETERIA DEL CONVENIO MAS AMA",
@@ -358,19 +358,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "696011-58-COT26",
-      "org": "MINISTERIO PUBLICO",
-      "titulo": "Servicio de Cafetería",
-      "monto": 325000,
-      "dias": 0,
-      "cierre": "2026-09-09",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 55
     },
