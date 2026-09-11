@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-11T17:12+00:00",
+  "generado": "2026-09-11T18:16+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -245,6 +245,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2730-290-COT26",
+      "org": "I MUNICIPALIDAD DE CASTRO",
+      "titulo": "Servicio de banqueteria.  (Todo lo requerido segun documento adjunto), solicitado por Previene. DIDECO. ",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-09-12",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "3699-155-COT26",
       "org": "I MUNICIPALIDAD DE PUMANQUE",
       "titulo": "Servicio de Banqueteria para actividad Hito de cierre Proyecto Cuidemos a Nuestras Mascotas Pumanque",
@@ -297,19 +310,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5741-10-COT26",
-      "org": "Servicio de Bienestar Subsecretaría de Hacienda",
-      "titulo": "Adquisición de mobiliario para implementación de cafetería en el primer piso",
-      "monto": 2500000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "792962-11-COT26",
       "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
       "titulo": "Servicio de Cafetería Jornada Normativa EP",
@@ -341,7 +341,7 @@
       "titulo": "ADQUISICION TALLER COCINA SALUDABLE. PROGRAMA PRESUPUESTOS PARTICIPATIVOS",
       "monto": 1100000,
       "dias": 0,
-      "cierre": "2026-09-11",
+      "cierre": "2026-09-12",
       "keyword": "SALUDABLE",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
