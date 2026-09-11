@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-11T16:15+00:00",
+  "generado": "2026-09-11T17:12+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -37,19 +37,6 @@
       "probabilidad": 75
     },
     {
-      "codigo": "5543-40-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de Coffee 4° Encuentro Red Eloísa Díaz Proyecto Ciencia e Innovación para el 2030 UCH 25/09/2026",
-      "monto": 155000,
-      "dias": 9,
-      "cierre": "2026-09-21",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 63
-    },
-    {
       "codigo": "1725-192-COT26",
       "org": "SUBSECRETARÍA DE LAS CULTURAS Y LAS ARTES",
       "titulo": "Servicio de catering para almuerzo y cafetería",
@@ -63,6 +50,19 @@
       "probabilidad": 63
     },
     {
+      "codigo": "1028897-560-COT26",
+      "org": "SERVICIO LOCAL DE EDUCACION COSTA ARAUCANIA",
+      "titulo": "SP 1036 SERVICIO DE COCTEL PARA ACTIVIDAD RECONOCIMIENTO A LA TRAYECTORIA EDUCATIVA 2026",
+      "monto": 3250000,
+      "dias": 3,
+      "cierre": "2026-09-15",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "4922-360-COT26",
       "org": "I MUNICIPALIDAD DE FUTRONO",
       "titulo": "SERVICIO DE COCTEL FINALIZACIÓN TALLERES CULTURA - PGM 2026",
@@ -74,45 +74,6 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 61
-    },
-    {
-      "codigo": "2297-1253-COT26",
-      "org": "I MUNICIPALIDAD DE OSORNO",
-      "titulo": "ADQUISICION DE INSUMOS PARA COFFEE SEGUN LISTADO ",
-      "monto": 300000,
-      "dias": 2,
-      "cierre": "2026-09-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1107276-376-COT26",
-      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-      "titulo": "Servio de Coffee Break en dependencias de la Universidad de La Serena, Campus Limarí, Ovalle; el 23 de septiembre de 2026, en horario AM.",
-      "monto": 300000,
-      "dias": 2,
-      "cierre": "2026-09-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1107279-226-COT26",
-      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-      "titulo": "coffee break para 60 personas, a realizarse el 07 de octubre de 2026 de 8 am a 14 pm en el Auditorio de INIA Quilamapu, Vicente Méndez 515, Chillán. SEGUN TERMINOS Y REFERENCIAS ADJUNTO",
-      "monto": 892500,
-      "dias": 2,
-      "cierre": "2026-09-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 59
     },
     {
       "codigo": "1211992-231-COT26",
@@ -245,58 +206,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "5455-118-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de coffee, 50 personas",
-      "monto": 250000,
-      "dias": 5,
-      "cierre": "2026-09-17",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4239-445-COT26",
-      "org": "Ilustre Municipalidad De Curanilahue - Educación",
-      "titulo": "SE SOLICITAN 2 SERVICIOS DE COFFEE BREAK  SEGUN ANEXO ADJUNTO",
-      "monto": 1904000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2591-2002-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE POZO ALMONTE",
-      "titulo": "Solicitud de compra de insumos de Coffee break para cierre de  capacitación de Líderes Comunitarios.",
-      "monto": 450000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5485-721-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "ARRIENDO DE SALÓN CON SERVICIO DE COFFEE BREAK.",
-      "monto": 2900000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3791-916-COT26",
       "org": "I MUNICIPALIDAD DE CISNES",
       "titulo": "COCTEL ",
@@ -388,36 +297,10 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5067-2208-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Adquisición de Insumos de cafetería",
-      "monto": 994850,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "5741-10-COT26",
       "org": "Servicio de Bienestar Subsecretaría de Hacienda",
       "titulo": "Adquisición de mobiliario para implementación de cafetería en el primer piso",
       "monto": 2500000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5741-9-COT26",
-      "org": "Servicio de Bienestar Subsecretaría de Hacienda",
-      "titulo": "Adquisición de Insumos o materiales para Cafetería 1er piso",
-      "monto": 500000,
       "dias": 0,
       "cierre": "2026-09-11",
       "keyword": "CAFETERÍA",
@@ -479,19 +362,6 @@
       "probabilidad": 54
     },
     {
-      "codigo": "918434-234-COT26",
-      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
-      "titulo": "D4478 Adquisición de Coffee Break para Actividad “Dialogo Ciudadano Agenda Regional de Genero”, Seremi de Antofagasta",
-      "monto": 150000,
-      "dias": 3,
-      "cierre": "2026-09-15",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 51
-    },
-    {
       "codigo": "1955-22-COT26",
       "org": "Departamento Provincial de Educación Poniente",
       "titulo": "SERVICIO DE CAFÉ PARA 18 PERSONAS EL 28-09-26 EN SEREMI DE EDUCACIÓN RM.",
@@ -518,28 +388,15 @@
       "probabilidad": 51
     },
     {
-      "codigo": "1375746-67-COT26",
-      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA ACONCAGUA",
-      "titulo": " INSUMOS COFFEE",
-      "monto": 388551,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 1,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 50
-    },
-    {
-      "codigo": "1099402-189-COT26",
-      "org": "CENTRO DE SALUD FAMILIAR CESFAM LLAY LLAY",
-      "titulo": "CESFAM REQUIERE SERVICIO COFFEE BREAK PARA CURSO",
-      "monto": 180000,
+      "codigo": "635-505-COT26",
+      "org": "SERVICIO DE SALUD DE ARICA Y PARINACOTA",
+      "titulo": "COTIZACION DE CAFÉ OT N°5695 CC:MEL",
+      "monto": 24960,
       "dias": 2,
       "cierre": "2026-09-14",
-      "keyword": "COFFEE",
+      "keyword": "CAFÉ",
       "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
+      "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 49
     },
@@ -583,19 +440,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "1208102-52-COT26",
-      "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
-      "titulo": "COFFEE BREAK ACTIVIDAD DE PROGRAMACION DE LOS CONSEJOS CONSULTIVOS. ",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-09-11",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "4157-709-COT26",
       "org": "I.Municipalidad de El Carmen",
       "titulo": "INSUMOS PREPARACION DE COCTEL \"RURAL ENGLISH SONG FESTIVAL 2026\" ESCUELA BALSA ZAPALLAR REQ° 960227-7<760>",
@@ -614,7 +458,7 @@
       "titulo": "EMPANADAS FRITAS DE PINO DESAYUNO ESTUDIANTES ESCUELAS RURALES DESFILE FIESTAS PATRIAS ",
       "monto": 90000,
       "dias": 0,
-      "cierre": "2026-09-11",
+      "cierre": "2026-09-12",
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
@@ -646,19 +490,6 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 44
-    },
-    {
-      "codigo": "1479-104-COT26",
-      "org": "Departamento Provincial de Educación Osorno",
-      "titulo": "SERVICIO DE COFFEE BREAK, COMITE LOCAL D.P.D. PROVINCIAL",
-      "monto": 90000,
-      "dias": 1,
-      "cierre": "2026-09-13",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 1,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 42
     },
     {
       "codigo": "4769-65-COT26",
