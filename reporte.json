@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-12T16:12+00:00",
+  "generado": "2026-09-12T17:11+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -687,6 +687,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "3882-306-COT26",
+      "org": "I MUNICIPALIDAD DE LLAY LLAY",
+      "titulo": "SERVICIO DE COCTEL PARA 63 PERSONAS",
+      "monto": 349890,
+      "dias": 1,
+      "cierre": "2026-09-14",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "868-78-COT26",
       "org": "GOBIERNO REGIONAL DE AYSEN",
       "titulo": "Adquisición de “Insumos de Cafetería para actividades propias del Gobierno Regional de Aysén”.",
@@ -744,7 +757,7 @@
       "titulo": "SC 5850  SERVICIO DE COFFE 15-09",
       "monto": 300000,
       "dias": 0,
-      "cierre": "2026-09-12",
+      "cierre": "2026-09-13",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
@@ -839,19 +852,6 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3882-306-COT26",
-      "org": "I MUNICIPALIDAD DE LLAY LLAY",
-      "titulo": "SERVICIO DE COCTEL PARA 63 PERSONAS",
-      "monto": 349890,
-      "dias": 0,
-      "cierre": "2026-09-12",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1203,19 +1203,6 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "2930-129-COT26",
-      "org": "I MUNICIPALIDAD DE PALENA",
-      "titulo": "EMPANADAS FRITAS DE PINO DESAYUNO ESTUDIANTES ESCUELAS RURALES DESFILE FIESTAS PATRIAS ",
-      "monto": 90000,
-      "dias": 0,
-      "cierre": "2026-09-12",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 45
     },
