@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-13T15:11+00:00",
+  "generado": "2026-09-13T16:12+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -839,19 +839,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 1,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 50
-    },
-    {
-      "codigo": "1457282-117-COT26",
-      "org": "CORPORACION CENTRO CULTURAL GABRIELA MISTRAL",
-      "titulo": " Servicio de Catering 2ndo semestre - Dirección de Producción",
-      "monto": 950000,
-      "dias": 0,
-      "cierre": "2026-09-13",
-      "keyword": "CATERING",
-      "ofertas_actuales": 1,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 50
     },
