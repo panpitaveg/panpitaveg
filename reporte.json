@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-13T13:11+00:00",
+  "generado": "2026-09-13T14:11+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -89,19 +89,6 @@
       "probabilidad": 61
     },
     {
-      "codigo": "923842-57-COT26",
-      "org": "Universidad de Chile",
-      "titulo": "RM.5223 Servicio de catering y uso de salón para jornadas",
-      "monto": 1200000,
-      "dias": 3,
-      "cierre": "2026-09-16",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
       "codigo": "5543-40-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "Servicio de Coffee 4° Encuentro Red Eloísa Díaz Proyecto Ciencia e Innovación para el 2030 UCH 25/09/2026",
@@ -163,6 +150,19 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "923842-57-COT26",
+      "org": "Universidad de Chile",
+      "titulo": "RM.5223 Servicio de catering y uso de salón para jornadas",
+      "monto": 1200000,
+      "dias": 2,
+      "cierre": "2026-09-16",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 59
     },
@@ -436,19 +436,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1943-125-COT26",
-      "org": "CORP NACIONAL FORESTAL",
-      "titulo": "Servicio de coffe break para 50 personas en el sector Granizo del Parque Nacional La Campana",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-09-13",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1086,19 +1073,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 3,
       "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 40
-    },
-    {
-      "codigo": "4769-65-COT26",
-      "org": "I MUNICIPALIDAD DE LA ESTRELLA",
-      "titulo": "Adquisición de insumos de cafetería para la ejecución de talleres comunitarios y sesiones educativas del programa Chile Crece Contigo",
-      "monto": 110000,
-      "dias": 0,
-      "cierre": "2026-09-13",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 1,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 40
     }
