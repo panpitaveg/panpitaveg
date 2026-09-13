@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-13T19:09+00:00",
+  "generado": "2026-09-13T20:12+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -271,19 +271,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "2269-38-COT26",
-      "org": "DEPARTAMENTO PROVINCIAL EDUCACION CAUTIN SUR",
-      "titulo": "Se solicitan cotizaciones para servicio de salón, desayuno y almuerzo para Segunda Jornada Construyendo Comunidad Educativa Intercultural con fecha 15/10/2026 en Temuco.",
-      "monto": 1850000,
-      "dias": 1,
-      "cierre": "2026-09-14",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "5537-265-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "Servicio de coffee break Seminario “Cómo movilizamos la evidencia para impactar\" ",
@@ -397,19 +384,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2704-1633-COT26",
-      "org": "UNIVERSIDAD DEL BIO BIO",
-      "titulo": "SC 5850  SERVICIO DE COFFE 15-09",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-09-13",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -696,6 +670,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2269-38-COT26",
+      "org": "DEPARTAMENTO PROVINCIAL EDUCACION CAUTIN SUR",
+      "titulo": "Se solicitan cotizaciones para servicio de salón, desayuno y almuerzo para Segunda Jornada Construyendo Comunidad Educativa Intercultural con fecha 15/10/2026 en Temuco.",
+      "monto": 1850000,
+      "dias": 0,
+      "cierre": "2026-09-14",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
