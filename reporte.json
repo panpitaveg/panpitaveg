@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-14T22:14+00:00",
+  "generado": "2026-09-14T23:13+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -382,19 +382,6 @@
       "dias": 0,
       "cierre": "2026-09-15",
       "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2269-38-COT26",
-      "org": "DEPARTAMENTO PROVINCIAL EDUCACION CAUTIN SUR",
-      "titulo": "Se solicitan cotizaciones para servicio de salón, desayuno y almuerzo para Segunda Jornada Construyendo Comunidad Educativa Intercultural con fecha 15/10/2026 en Temuco.",
-      "monto": 1850000,
-      "dias": 0,
-      "cierre": "2026-09-14",
-      "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
       "momento": "am",
