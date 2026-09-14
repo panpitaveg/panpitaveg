@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-14T20:15+00:00",
+  "generado": "2026-09-14T21:14+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -35,6 +35,19 @@
       "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 73
+    },
+    {
+      "codigo": "1422039-259-COT26",
+      "org": "CORPORACION DE DESARROLLO TERRITORIAL Y TURISMO DE LA REGION METROPOLITANA",
+      "titulo": "ADQUISICIÓN DEL SERVICIO: COFFEE BREAKS Y BOX LUNCH   PARA “MONTAÑAS DEL FUTURO: ECOSISTEMA, COMUNIDAD E INNOVACIÓN”",
+      "monto": 4800000,
+      "dias": 8,
+      "cierre": "2026-09-23",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 71
     },
     {
       "codigo": "5543-39-COT26",
@@ -76,6 +89,19 @@
       "probabilidad": 67
     },
     {
+      "codigo": "1447929-36-COT26",
+      "org": "CORP CULTURAL BALMACEDA DOCE QUINCE",
+      "titulo": "SERVICIO DE COFFEE BREAK PARA 60 PERSONAS - BALMACEDA ARTE JOVEN",
+      "monto": 600000,
+      "dias": 2,
+      "cierre": "2026-09-17",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "1227338-139-COT26",
       "org": "CORPORACION CULTURAL DE PENALOLEN",
       "titulo": "Catering Coros Ciudadanos",
@@ -100,6 +126,45 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 59
+    },
+    {
+      "codigo": "918434-242-COT26",
+      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+      "titulo": "D4660 servicio de Coffee break para actividad seminario Conciliación, trabajo y cuidado, Seremi del Maule",
+      "monto": 270000,
+      "dias": 6,
+      "cierre": "2026-09-21",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "1756-90-COT26",
+      "org": "MINEDUC ADMINISTRACION VIII REGION",
+      "titulo": "SERVICIO DE COFFEE BREAK PARA 40 PERSONAS",
+      "monto": 800000,
+      "dias": 1,
+      "cierre": "2026-09-16",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5543-40-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Servicio de Coffee 4° Encuentro Red Eloísa Díaz Proyecto Ciencia e Innovación para el 2030 UCH 25/09/2026",
+      "monto": 155000,
+      "dias": 6,
+      "cierre": "2026-09-21",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
     },
     {
       "codigo": "2360-294-COT26",
@@ -232,6 +297,84 @@
       "probabilidad": 57
     },
     {
+      "codigo": "1606-171-COT26",
+      "org": "AGENCIA CHILENA DE COOPERACION INTERNACIONAL PARA EL DESARROLLO",
+      "titulo": "E1O2RT9 / SIC: 15-184-2026: ARRIENDO DE SALÓN, COFFEE BREAK, CATERING Y APOYO TÉCNICO ACTIVIDADES– PMI.",
+      "monto": 7100000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4293-18-COT26",
+      "org": "INNOVA CHILE",
+      "titulo": "Servicio de alimentación tipo coffee para el desarrollo del Demo Day del instrumento Consolida y Expande",
+      "monto": 1000000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5529-101-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Servicio de coffee break ",
+      "monto": 7000000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1606-170-COT26",
+      "org": "AGENCIA CHILENA DE COOPERACION INTERNACIONAL PARA EL DESARROLLO",
+      "titulo": "E1O2RT9 / SIC: 15-184-2026: Servicio de Coffee para el 22 de septiembre - PMI",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5586-2388-COT26",
+      "org": "UNIVERSIDAD DE LA FRONTERA",
+      "titulo": "J/T Servicio de alimentación (Coffee Break)",
+      "monto": 530000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2680-227-COT26",
+      "org": "I MUNICIPALIDAD DE INDEPENDENCIA",
+      "titulo": "ADQUSICION SERVICIO COFFEE BREAK, SUBV GENERAL, CEREMONIA CARRERA DOCENTE Y DÍA DEL PROFESOR, ENMARCADA EN PADEM 2026 Y PLAN DE ACTIVIDADESDE EJECUCION DECRETO ALCALDICIO EXENTO N° 934",
+      "monto": 3700000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "1447930-378-COT26",
       "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
       "titulo": "SSP - Servicio de café para 40 personas en el marco de la presentación “Diagnostico sobre el ausentismo laboral en Carabinero de Chile”",
@@ -241,6 +384,45 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1738-354-COT26",
+      "org": "I MUNICIPALIDAD DE VILLA ALEGRE",
+      "titulo": "SERVICIO DE CATERING ARTISTAS FIESTA DE LA CHICHA Y EL VINO  VILLA ALEGRE 2026",
+      "monto": 2000000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1316747-125-COT26",
+      "org": "CORPORACION CULTURAL MUNICIPAL DE LOS ANGELES",
+      "titulo": "Servicio de catering para 40 personas Actividad Institucional de Fiestas Patrias – Corporación Cultural Municipal de Los Ángeles.",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "889473-1813-COT26",
+      "org": "UNIVERSIDAD DE O'HIGGINS",
+      "titulo": "SC 8923 - Servicio de Catering",
+      "monto": 425000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -531,6 +713,19 @@
       "probabilidad": 52
     },
     {
+      "codigo": "1442808-166-COT26",
+      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+      "titulo": "BRUNCH COFFEE PARA TALLERES DE LEGUMINOSAS EN VARIAS COMUNAS",
+      "monto": 800000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 1,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
       "codigo": "3479-1172-COT26",
       "org": "I MUNICIPALIDAD DE CALBUCO",
       "titulo": "Servicio de Coctel",
@@ -544,17 +739,30 @@
       "probabilidad": 50
     },
     {
-      "codigo": "1442808-166-COT26",
-      "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-      "titulo": "BRUNCH COFFEE PARA TALLERES DE LEGUMINOSAS EN VARIAS COMUNAS",
-      "monto": 800000,
-      "dias": 0,
-      "cierre": "2026-09-15",
-      "keyword": "BRUNCH",
-      "ofertas_actuales": 1,
-      "region": "Región del Maule ",
+      "codigo": "5455-118-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Servicio de coffee, 50 personas",
+      "monto": 250000,
+      "dias": 2,
+      "cierre": "2026-09-17",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 50
+      "probabilidad": 49
+    },
+    {
+      "codigo": "1099402-189-COT26",
+      "org": "CENTRO DE SALUD FAMILIAR CESFAM LLAY LLAY",
+      "titulo": "CESFAM REQUIERE SERVICIO COFFEE BREAK PARA CURSO",
+      "monto": 180000,
+      "dias": 2,
+      "cierre": "2026-09-17",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 49
     },
     {
       "codigo": "5518-93-COT26",
@@ -596,6 +804,32 @@
       "probabilidad": 49
     },
     {
+      "codigo": "4931-90-COT26",
+      "org": "COMISION ADMINISTRADORA DEL SISTEMA DE CREDITOS P. ESTUDIOS SUPERIORES",
+      "titulo": "Cafetería",
+      "monto": 165000,
+      "dias": 1,
+      "cierre": "2026-09-16",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "918434-234-COT26",
+      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+      "titulo": "D4478 Adquisición de Coffee Break para Actividad “Dialogo Ciudadano Agenda Regional de Genero”, Seremi de Antofagasta",
+      "monto": 150000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "1955-22-COT26",
       "org": "Departamento Provincial de Educación Poniente",
       "titulo": "SERVICIO DE CAFÉ PARA 18 PERSONAS EL 28-09-26 EN SEREMI DE EDUCACIÓN RM.",
@@ -605,6 +839,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "1447928-44-COT26",
+      "org": "FUNDACION MUNICIPAL DE CULTURA DE ZAPALLAR",
+      "titulo": "Compra de Catering para entrega a artistas",
+      "monto": 115000,
+      "dias": 0,
+      "cierre": "2026-09-15",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 45
     },
