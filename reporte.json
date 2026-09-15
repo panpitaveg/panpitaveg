@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-15T13:15+00:00",
+  "generado": "2026-09-15T14:15+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -35,6 +35,45 @@
       "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 71
+    },
+    {
+      "codigo": "2609-24-COT26",
+      "org": "Departamento Provincial de Educación Copiapo",
+      "titulo": "COTIZACIÓN  COFFEE BREAK SALUDABLE COMUNA T.AMARILLA Y COPIAPO",
+      "monto": 600000,
+      "dias": 6,
+      "cierre": "2026-09-21",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 67
+    },
+    {
+      "codigo": "2609-25-COT26",
+      "org": "Departamento Provincial de Educación Copiapo",
+      "titulo": "COTIZACIÓN  COFFEE BREAK SALUDABLE COMUNA CALDERA",
+      "monto": 300000,
+      "dias": 6,
+      "cierre": "2026-09-21",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 67
+    },
+    {
+      "codigo": "2609-26-COT26",
+      "org": "Departamento Provincial de Educación Copiapo",
+      "titulo": "COTIZACIÓN  COFFEE BREAK SALUDABLE COMUNA CHAÑARAL",
+      "monto": 300000,
+      "dias": 6,
+      "cierre": "2026-09-21",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 67
     },
     {
       "codigo": "2609-27-COT26",
@@ -74,6 +113,19 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 65
+    },
+    {
+      "codigo": "1393-145-COT26",
+      "org": "I MUNICIPALIDAD DE NINHUE",
+      "titulo": "COCTEL",
+      "monto": 500000,
+      "dias": 1,
+      "cierre": "2026-09-17",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 57
     },
     {
       "codigo": "1422032-53-COT26",
@@ -124,6 +176,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3947-582-COT26",
+      "org": "I MUNICIPALIDAD DE SANTA JUANA",
+      "titulo": "SERVICIO DE COCTEL PARA INAUGURACION FIESTAS PATRIAS 2026",
+      "monto": 800000,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -193,6 +258,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "3343-192-COT26",
+      "org": "I MUNICIPALIDAD DE OLMUE",
+      "titulo": "SERVICIOS DE BANQUETERIA PARA JORNADAS DE CAPACITACIÓN ADD JORNADA PROGRAMATICA ",
+      "monto": 936000,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2710-468-COT26",
       "org": "MUNICIPALIDAD DE OVALLE",
       "titulo": "SERVICIO DE BANQUETERIA PARA 50 PERSONAS EN CESFAM SOTAQUI, FECHA A CONFIRMAR, SE ADJUNTA BASES, DEBEN INCLUIR LOS FORMULARIOS FIRMADOS AL MOMENTO DE POSTULAR, ORDEN INTERNA 3027 SOTAQUI",
@@ -215,6 +293,19 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4562-431-COT26",
+      "org": "I MUNICIPALIDAD DE GRANEROS",
+      "titulo": "SERVICIO DE DESAYUNO PARA REPRESENTANTES EMPRESAS-OMIL",
+      "monto": 200000,
+      "dias": 5,
+      "cierre": "2026-09-21",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -310,19 +401,6 @@
       "probabilidad": 52
     },
     {
-      "codigo": "3479-1172-COT26",
-      "org": "I MUNICIPALIDAD DE CALBUCO",
-      "titulo": "Servicio de Coctel",
-      "monto": 2500000,
-      "dias": 0,
-      "cierre": "2026-09-15",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 1,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 50
-    },
-    {
       "codigo": "1758-186-COT26",
       "org": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
       "titulo": "SERVICIOS DE CAFETERÍA EL DÍA 30/09/2026, EN LA CIUDAD DE PUERTO CISNES",
@@ -405,13 +483,13 @@
       "org": "CORPORACIÓN YUNUS",
       "titulo": "ADQUISICION DE CAFÉ",
       "monto": 2690000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-09-17",
       "keyword": "CAFÉ",
       "ofertas_actuales": 4,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 39
+      "probabilidad": 37
     }
   ]
 }
