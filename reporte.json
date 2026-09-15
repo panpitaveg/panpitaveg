@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-15T16:14+00:00",
+  "generado": "2026-09-15T17:13+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -109,6 +109,19 @@
       "dias": 5,
       "cierre": "2026-09-21",
       "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 65
+    },
+    {
+      "codigo": "2416-261-COT26",
+      "org": "I MUNICIPALIDAD DE CONCEPCION",
+      "titulo": "SERVICIO DE DESAYUNO / MEMO N°595/ PROG MUJERES JEFAS DE HOGAR",
+      "monto": 2107905,
+      "dias": 5,
+      "cierre": "2026-09-21",
+      "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
       "momento": "am",
