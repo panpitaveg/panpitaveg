@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-15T14:15+00:00",
+  "generado": "2026-09-15T15:14+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -284,19 +284,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "4285-169-COT26",
-      "org": "I MUNICIPALIDAD DE CUNCO",
-      "titulo": "se requiere servicio de banqueteria para sala cuna y jardín Paso a Pasito",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-09-15",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "4562-431-COT26",
       "org": "I MUNICIPALIDAD DE GRANEROS",
       "titulo": "SERVICIO DE DESAYUNO PARA REPRESENTANTES EMPRESAS-OMIL",
@@ -392,13 +379,13 @@
       "org": "Servicio de Bienestar Subsecretaría de Hacienda",
       "titulo": "Adquisición de Insumos o materiales para Cafetería 1er piso",
       "monto": 500000,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-09-16",
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 1,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 52
+      "probabilidad": 50
     },
     {
       "codigo": "1758-186-COT26",
@@ -427,6 +414,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "1057417-3776-COT26",
+      "org": "COMPLEJO ASISTENCIAL DR.VICTOR RIOS RUIZ",
+      "titulo": "msp COMPRA DE SERVILLETA DESECHABLE DE COCTEL HOJA SIMPLE 50 UNIDADES, SIMILAR A ELITE, SUBIR IMAGEN DE LA POSTULACIÓN ",
+      "monto": 50000,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "1274667-354-COT26",
       "org": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
       "titulo": "RVB - SERVICIOS DE BANQUETERIA/COFFE BREAK // PROGRAMA CAPACITACIONES",
@@ -453,19 +453,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "918434-238-COT26",
-      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
-      "titulo": "D4557  Servicio de cafetería para Diálogo con las Organizaciones de la Sociedad Civil para el Diseño de las Agendas Regionales de Género de la Provincia de Osorno, Seremi de Los Lagos",
-      "monto": 150000,
-      "dias": 0,
-      "cierre": "2026-09-15",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "545598-944-COT26",
       "org": "CORP MUNICIPAL DE CASTRO PARA LA EDUCACION SALUD Y ATENCION AL MENOR",
       "titulo": "COFFE BREACK, CECOSF LLAU LLAO.",
@@ -477,6 +464,19 @@
       "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "2324-916-COT26",
+      "org": "I MUNICIPALIDAD DE PUERTO MONTT",
+      "titulo": "ADQUISICIÓN DE EMPANADAS DE HORNO Y EMPANADAS FRITAS TIPO COCTEL, PARA ELEAM ALERCE/DIDECO.",
+      "monto": 1630300,
+      "dias": 0,
+      "cierre": "2026-09-16",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 3,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 40
     },
     {
       "codigo": "1211992-231-COT26",
