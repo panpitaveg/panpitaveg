@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-15T21:14+00:00",
+  "generado": "2026-09-15T22:14+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -163,6 +163,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2626-497-COT26",
+      "org": "I MUNICIPALIDAD DE PUTAENDO",
+      "titulo": "SERVICIO DE CAFE Y BANQUETERIA OMIL",
+      "monto": 800000,
+      "dias": 1,
+      "cierre": "2026-09-17",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 57
     },
