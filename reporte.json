@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-15T20:15+00:00",
+  "generado": "2026-09-15T21:14+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -35,6 +35,19 @@
       "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 71
+    },
+    {
+      "codigo": "792913-7-COT26",
+      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
+      "titulo": "Servicio de Café para Jornada de cierre PANEP 2026 ",
+      "monto": 480000,
+      "dias": 6,
+      "cierre": "2026-09-22",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 67
     },
     {
       "codigo": "1028897-566-COT26",
@@ -72,6 +85,19 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 65
+    },
+    {
+      "codigo": "2074-36-COT26",
+      "org": "Departamento Provincial de Educación de Magallanes",
+      "titulo": "2 SERVICIOS DE CAFETERÍA PARA ACTIVIDADES A DESARROLLAR EN LA COMUNA DE NATALES",
+      "monto": 500000,
+      "dias": 5,
+      "cierre": "2026-09-21",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
       "probabilidad": 65
     },
@@ -163,6 +189,19 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2132-156-COT26",
+      "org": "SUBSECRETARIA DE SALUD PUBLICA",
+      "titulo": "Servicio de transporte Entorno Saludable",
+      "monto": 2500000,
+      "dias": 1,
+      "cierre": "2026-09-17",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -388,6 +427,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "4777-722-COT26",
+      "org": "I MUNICIPALIDAD DE LA UNION",
+      "titulo": " CONTENEDORES COLOR CAFÉ PARA DEPARTAMENTO DE MEDIO AMBIENTE, ASEO Y ORNATO",
+      "monto": 829750,
+      "dias": 2,
+      "cierre": "2026-09-18",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 1,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 54
+    },
+    {
       "codigo": "5741-9-COT26",
       "org": "Servicio de Bienestar Subsecretaría de Hacienda",
       "titulo": "Adquisición de Insumos o materiales para Cafetería 1er piso",
@@ -477,6 +529,19 @@
       "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 40
+    },
+    {
+      "codigo": "1211992-231-COT26",
+      "org": "CORPORACIÓN YUNUS",
+      "titulo": "ADQUISICION DE CAFÉ",
+      "monto": 2690000,
+      "dias": 1,
+      "cierre": "2026-09-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 4,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 37
     }
   ]
 }
