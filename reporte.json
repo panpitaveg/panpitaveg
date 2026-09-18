@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-17T23:26+00:00",
+  "generado": "2026-09-18T03:48+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1021,6 +1021,19 @@
       "keyword": "SALUDABLE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "3603-498-COT26",
+      "org": "I MUNICIPALIDAD DE MULCHEN",
+      "titulo": "Adquisición de distintos alimentos para el servicio de 3 break para capacitaciones distintas fechas señaladas. SP 1703",
+      "monto": 540000,
+      "dias": 3,
+      "cierre": "2026-09-21",
+      "keyword": "BREAK",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 61
     },
