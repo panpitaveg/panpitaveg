@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-18T18:56+00:00",
+  "generado": "2026-09-18T21:27+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -193,58 +193,6 @@
       "probabilidad": 61
     },
     {
-      "codigo": "2609-24-COT26",
-      "org": "Departamento Provincial de Educación Copiapo",
-      "titulo": "COTIZACIÓN  COFFEE BREAK SALUDABLE COMUNA T.AMARILLA Y COPIAPO",
-      "monto": 600000,
-      "dias": 3,
-      "cierre": "2026-09-21",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
-      "codigo": "2609-25-COT26",
-      "org": "Departamento Provincial de Educación Copiapo",
-      "titulo": "COTIZACIÓN  COFFEE BREAK SALUDABLE COMUNA CALDERA",
-      "monto": 300000,
-      "dias": 3,
-      "cierre": "2026-09-21",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
-      "codigo": "2609-26-COT26",
-      "org": "Departamento Provincial de Educación Copiapo",
-      "titulo": "COTIZACIÓN  COFFEE BREAK SALUDABLE COMUNA CHAÑARAL",
-      "monto": 300000,
-      "dias": 3,
-      "cierre": "2026-09-21",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
-      "codigo": "2609-27-COT26",
-      "org": "Departamento Provincial de Educación Copiapo",
-      "titulo": "COTIZACIÓN COFFEE BREAK SALUDABLE COMUNA D. DE ALMAGRO",
-      "monto": 300000,
-      "dias": 3,
-      "cierre": "2026-09-21",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
       "codigo": "2568-66-COT26",
       "org": "CORP NACIONAL FORESTAL",
       "titulo": "Servicio de Coffe 3 Break en las Tres Provincias ",
@@ -431,6 +379,58 @@
       "org": "I MUNICIPALIDAD DE COPIAPO",
       "titulo": "SERVICIO DE COFFEE BREAK PARA EL CONVENIO MAS SALUD EN COMUNIDAD  CESFAM CANDELARIA DE ROSARIO",
       "monto": 600000,
+      "dias": 2,
+      "cierre": "2026-09-21",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2609-24-COT26",
+      "org": "Departamento Provincial de Educación Copiapo",
+      "titulo": "COTIZACIÓN  COFFEE BREAK SALUDABLE COMUNA T.AMARILLA Y COPIAPO",
+      "monto": 600000,
+      "dias": 2,
+      "cierre": "2026-09-21",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2609-25-COT26",
+      "org": "Departamento Provincial de Educación Copiapo",
+      "titulo": "COTIZACIÓN  COFFEE BREAK SALUDABLE COMUNA CALDERA",
+      "monto": 300000,
+      "dias": 2,
+      "cierre": "2026-09-21",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2609-26-COT26",
+      "org": "Departamento Provincial de Educación Copiapo",
+      "titulo": "COTIZACIÓN  COFFEE BREAK SALUDABLE COMUNA CHAÑARAL",
+      "monto": 300000,
+      "dias": 2,
+      "cierre": "2026-09-21",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2609-27-COT26",
+      "org": "Departamento Provincial de Educación Copiapo",
+      "titulo": "COTIZACIÓN COFFEE BREAK SALUDABLE COMUNA D. DE ALMAGRO",
+      "monto": 300000,
       "dias": 2,
       "cierre": "2026-09-21",
       "keyword": "COFFEE",
@@ -1064,32 +1064,6 @@
       "probabilidad": 56
     },
     {
-      "codigo": "2371-354-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE CERRO NAVIA",
-      "titulo": "SP-429 EXP.15197  SERVICIO DE COFFEE BREAK PARA 30 PERSONAS, OFICINA DE LA NIÑEZ, DIDECO.",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-09-18",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4462-254-COT26",
-      "org": "I MUNICIPALIDAD DE ARAUCO",
-      "titulo": "Adquisición servicio de coffe break para capacitación",
-      "monto": 1987000,
-      "dias": 0,
-      "cierre": "2026-09-18",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "619133-1167-COT26",
       "org": "SERVICIO SALUD SAN FELIPE LOS ANDES HOSP",
       "titulo": "SE SOLICITA COTIZACION PARA COFFE BREAK PARA  OCTUBRE 2026",
@@ -1099,19 +1073,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2765-476-COT26",
-      "org": "I MUNICIPALIDAD DE LA CISTERNA",
-      "titulo": "Servicio de Catering actividad Encuentro Comunal de PMJH 2026",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-09-18",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1285,19 +1246,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "2626-506-COT26",
-      "org": "I MUNICIPALIDAD DE PUTAENDO",
-      "titulo": "SERVICISERVICIO DE COCTEL PARA ASESORÍAS GRUPALES E INSUMOS DE ALIMENTACIÓN EN ÚLTIMA SESIÓN  - PROGRAMA HABITABILIDAD",
-      "monto": 245524,
-      "dias": 2,
-      "cierre": "2026-09-20",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
       "codigo": "918434-244-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4723 Adquisición de Servicio de Banqueteria Hito Seminario Aniversario Ley Dominga, Políticas de Igualdad",
@@ -1363,6 +1311,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "2626-506-COT26",
+      "org": "I MUNICIPALIDAD DE PUTAENDO",
+      "titulo": "SERVICISERVICIO DE COCTEL PARA ASESORÍAS GRUPALES E INSUMOS DE ALIMENTACIÓN EN ÚLTIMA SESIÓN  - PROGRAMA HABITABILIDAD",
+      "monto": 245524,
+      "dias": 1,
+      "cierre": "2026-09-20",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
       "codigo": "1758-186-COT26",
       "org": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
       "titulo": "SERVICIOS DE CAFETERÍA EL DÍA 30/09/2026, EN LA CIUDAD DE PUERTO CISNES",
@@ -1411,19 +1372,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "630424-557-COT26",
-      "org": "I MUNICIPALIDAD DE LAGO RANCO",
-      "titulo": "COMPRA INSUMOS DE ALIMENTOS PARA TALLER SALUDABLE ESCUELA RURAL QUILLÍN",
-      "monto": 25000,
-      "dias": 0,
-      "cierre": "2026-09-18",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
     }
