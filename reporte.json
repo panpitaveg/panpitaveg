@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-20T21:12+00:00",
+  "generado": "2026-09-20T23:53+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1051,6 +1051,19 @@
       "probabilidad": 52
     },
     {
+      "codigo": "2626-506-COT26",
+      "org": "I MUNICIPALIDAD DE PUTAENDO",
+      "titulo": "SERVICISERVICIO DE COCTEL PARA ASESORÍAS GRUPALES E INSUMOS DE ALIMENTACIÓN EN ÚLTIMA SESIÓN  - PROGRAMA HABITABILIDAD",
+      "monto": 245524,
+      "dias": 3,
+      "cierre": "2026-09-24",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 51
+    },
+    {
       "codigo": "918434-249-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D4735 Adquisición Servicio de cafetería para actividad Diálogos ciudadano para la elaboración de la agenda regional de género 2026-2030, Seremi de Coquimbo (DPI)",
@@ -1203,19 +1216,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "2626-506-COT26",
-      "org": "I MUNICIPALIDAD DE PUTAENDO",
-      "titulo": "SERVICISERVICIO DE COCTEL PARA ASESORÍAS GRUPALES E INSUMOS DE ALIMENTACIÓN EN ÚLTIMA SESIÓN  - PROGRAMA HABITABILIDAD",
-      "monto": 245524,
-      "dias": 0,
-      "cierre": "2026-09-20",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 45
     },
