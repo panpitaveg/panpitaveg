@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-23T16:18+00:00",
+  "generado": "2026-09-23T20:02+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -50,6 +50,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "1719-114-COT26",
+      "org": "I. Municipalidad Sagrada Familia",
+      "titulo": "COCTEL SALUDABLE",
+      "monto": 400000,
+      "dias": 1,
+      "cierre": "2026-09-25",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1107279-254-COT26",
       "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
       "titulo": "SERVICIO BANQUETERIA _ ENCUENTRO REGIONAL TAS ÑUBLE(503980-19)",
@@ -76,30 +89,17 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1533460-46-COT26",
-      "org": "CORPORACIÓN MUNICIPAL DE CULTURA, DEPORTE Y DE FOMENTO DE DESARROLLO C",
-      "titulo": "SERVICIO DE IMPLEMENTACIÓN DE PROGRAMA DE SALUD MENTAL, VIDA SALUDABLE, DEPORTE SOCIAL Y FORTALECIMIENTO COMUNITARIO",
-      "monto": 6000000,
-      "dias": 1,
-      "cierre": "2026-09-25",
-      "keyword": "SALUDABLE",
+      "codigo": "5441-442-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "PMA Servicio de arriendo de máquina de café más insumos",
+      "monto": 5840000,
+      "dias": 0,
+      "cierre": "2026-09-24",
+      "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "3696-165-COT26",
-      "org": "I MUNICIPALIDAD DE TENO",
-      "titulo": "Adquisición de colación saludable, Convenio Más Salud en Comunidad",
-      "monto": 486000,
-      "dias": 1,
-      "cierre": "2026-09-25",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 57
+      "probabilidad": 55
     },
     {
       "codigo": "2626-513-COT26",
@@ -124,6 +124,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3000-1097-COT26",
+      "org": "I MUNICIPALIDAD DE MONTEPATRIA",
+      "titulo": "SERVICIO DE COCTEL - ADMINISTRACION MUNICIPAL",
+      "monto": 1368500,
+      "dias": 0,
+      "cierre": "2026-09-24",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -167,32 +180,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3567-398-COT26",
-      "org": "I MUNICIPALIDAD DE FLORIDA",
-      "titulo": "SERVICIO DE COCTEL",
-      "monto": 1700000,
-      "dias": 0,
-      "cierre": "2026-09-23",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5178-4790-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "REACTIVO PROTEASE INHIBITOR COCKTAIL/SP 1067489 KS",
-      "monto": 473000,
-      "dias": 0,
-      "cierre": "2026-09-23",
-      "keyword": "COCKTAIL",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "4075-127-COT26",
       "org": "Ilustre Municipalidad de Yumbel - Depto. Salud",
       "titulo": "SERVICIO DE BANQUETERIA DIA APS BIENESTAR SALUD MUNICIPAL",
@@ -219,15 +206,28 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2335-415-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE LINARES",
-      "titulo": "CURSO ESTILO DE VIDA SALUDABLE EN TRABAJO (ABORDADO DESDE EL EMPLEADOR Y EL TRABAJADOR)  OP 533",
-      "monto": 640000,
+      "codigo": "5626-589-COT26",
+      "org": "UNIVERSIDAD DE VALPARAISO",
+      "titulo": "SERVICIO BRUNCH 7 Y 8-10 PROYECTO CONOCIMIENTO - J.S",
+      "monto": 1300000,
       "dias": 0,
-      "cierre": "2026-09-23",
-      "keyword": "SALUDABLE",
+      "cierre": "2026-09-24",
+      "keyword": "BRUNCH",
       "ofertas_actuales": 0,
-      "region": "Región del Maule ",
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1070329-159-COT26",
+      "org": "CESFAM LIRQUEN",
+      "titulo": "JSR/COFFE BREACK PARA DOS ACTIVIDADES SEGÚN COORDINACIÓN",
+      "monto": 440000,
+      "dias": 0,
+      "cierre": "2026-09-24",
+      "keyword": "BREACK",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -271,6 +271,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "744835-584-COT26",
+      "org": "I MUNICIPALIDAD DE LO ESPEJO",
+      "titulo": "BARRAS DE CEREALES - CAFÉ - CUCHARAS - REVOLVEDOR - Y OTROS ( DIDECO- Desarrollo Económico Local)",
+      "monto": 238986,
+      "dias": 4,
+      "cierre": "2026-09-28",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 53
+    },
+    {
       "codigo": "2412-460-COT26",
       "org": "I MUNICIPALIDAD DE LO PRADO",
       "titulo": "AZUCAR - CAFÉ  (EXP. N°15493 - CIP N°331 – DCP 139)",
@@ -284,28 +297,15 @@
       "probabilidad": 45
     },
     {
-      "codigo": "4157-739-COT26",
-      "org": "I.Municipalidad de El Carmen",
-      "titulo": "Bolws saludable IV Campeonato Escolar Mixto de Atletismo \"Copa Ciudad de Chillan Liceo JHJ -Esc. V. del Carmen Req 960101-71(802)",
-      "monto": 221697,
+      "codigo": "2013-1526-COT26",
+      "org": "UNIVERSIDAD ARTURO PRAT",
+      "titulo": "COFFE BREACK 30 PERSONAS ",
+      "monto": 187830,
       "dias": 0,
-      "cierre": "2026-09-23",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "2428-1330-COT26",
-      "org": "I MUNICIPALIDAD DE QUILPUE",
-      "titulo": "COFFE BREACK - PROGRAMA HB25",
-      "monto": 150000,
-      "dias": 0,
-      "cierre": "2026-09-23",
+      "cierre": "2026-09-24",
       "keyword": "BREACK",
       "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
+      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 45
     }
