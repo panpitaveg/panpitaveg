@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-24T23:49+00:00",
+  "generado": "2026-09-25T04:03+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -23,19 +23,6 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
-    {
-      "codigo": "1106983-13-COT26",
-      "org": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE TENO",
-      "titulo": "AG: CLASES DE CAFÉ DE ESPECIALIDAD PARA 12 FUNCIONARIOS",
-      "monto": 370000,
-      "dias": 5,
-      "cierre": "2026-09-30",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 65
-    },
     {
       "codigo": "4291-1258-COT26",
       "org": "UNIVERSIDAD DE ANTOFAGASTA",
@@ -87,58 +74,6 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 57
-    },
-    {
-      "codigo": "5911-103-COT26",
-      "org": "TRIBUNAL CONSTITUCIONAL",
-      "titulo": "CAFÉ DE GRANO",
-      "monto": 1200000,
-      "dias": 0,
-      "cierre": "2026-09-25",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5188-389-COT26",
-      "org": "SERVICIO SALUD OCCIDENTE HOSPITAL DR FELIX BULNES CERDA",
-      "titulo": "BOLSA DE KILO CAFÉ / CHOCOLATE / CREMA DE LECHE PARA MAQUINA PROYECTO MEL",
-      "monto": 2113200,
-      "dias": 0,
-      "cierre": "2026-09-25",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5441-442-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "PMA Servicio de arriendo de máquina de café más insumos",
-      "monto": 5840000,
-      "dias": 0,
-      "cierre": "2026-09-25",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1057474-182-COT26",
-      "org": "SERVICIO DE SALUD METROPOLITANO NORTE",
-      "titulo": "ESTACIONES DE CAFÉ PROYECTO MEL 2026",
-      "monto": 900990,
-      "dias": 0,
-      "cierre": "2026-09-25",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "545598-988-COT26",
@@ -438,58 +373,6 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "5431-78-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Café en grano molido",
-      "monto": 200000,
-      "dias": 3,
-      "cierre": "2026-09-28",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 51
-    },
-    {
-      "codigo": "744835-584-COT26",
-      "org": "I MUNICIPALIDAD DE LO ESPEJO",
-      "titulo": "BARRAS DE CEREALES - CAFÉ - CUCHARAS - REVOLVEDOR - Y OTROS ( DIDECO- Desarrollo Económico Local)",
-      "monto": 238986,
-      "dias": 3,
-      "cierre": "2026-09-28",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 51
-    },
-    {
-      "codigo": "2199-231-COT26",
-      "org": "INSTITUTO NACIONAL DE GERIATRIA PRESIDENTE EDO FRE",
-      "titulo": "CUACHARITAS DE TÉ/CAFÉ",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-09-25",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "5519-151-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Cóctel Café Cargado - PRIMAVERA 2026 - 9 de octubre a las 16:00 hrs",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-09-25",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "1469-2958-COT26",
