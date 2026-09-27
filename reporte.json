@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-26T22:26+00:00",
+  "generado": "2026-09-27T01:08+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -386,19 +386,6 @@
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 59
-    },
-    {
-      "codigo": "740-43-COT26",
-      "org": "INSTITUTO DE DESARROLLO AGROPECUARIO",
-      "titulo": "SERVICIO COFFEE BREAK JORNADA DE ACTUALIZACIÓN AVICOLA - INDAP MAULE",
-      "monto": 550000,
-      "dias": 1,
-      "cierre": "2026-09-27",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 57
     },
     {
       "codigo": "3244-352-COT26",
@@ -1101,6 +1088,19 @@
       "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 57
+    },
+    {
+      "codigo": "740-43-COT26",
+      "org": "INSTITUTO DE DESARROLLO AGROPECUARIO",
+      "titulo": "SERVICIO COFFEE BREAK JORNADA DE ACTUALIZACIÓN AVICOLA - INDAP MAULE",
+      "monto": 550000,
+      "dias": 0,
+      "cierre": "2026-09-27",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
     },
     {
       "codigo": "2771-566-COT26",
