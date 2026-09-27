@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-27T16:32+00:00",
+  "generado": "2026-09-27T19:59+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -63,19 +63,6 @@
       "probabilidad": 61
     },
     {
-      "codigo": "2205-153-COT26",
-      "org": "SERVICIO DE SALUD HOSPITAL DE PICHIDEGUA",
-      "titulo": "COFFE BREAK",
-      "monto": 300000,
-      "dias": 3,
-      "cierre": "2026-09-30",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
       "codigo": "792969-8-COT26",
       "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
       "titulo": "Cotización para contratación del   Servicio de catering para Jornada Difusión Normativa IEP  Dirección Regional Los Ríos.",
@@ -102,28 +89,15 @@
       "probabilidad": 61
     },
     {
-      "codigo": "2859-1026-COT26",
-      "org": "UNIVERSIDAD DE ATACAMA",
-      "titulo": "SERVICIO DE COFFEE BREAK ",
-      "monto": 1200000,
+      "codigo": "2205-153-COT26",
+      "org": "SERVICIO DE SALUD HOSPITAL DE PICHIDEGUA",
+      "titulo": "COFFE BREAK",
+      "monto": 300000,
       "dias": 2,
-      "cierre": "2026-09-29",
-      "keyword": "COFFEE",
+      "cierre": "2026-09-30",
+      "keyword": "COFFE",
       "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1067455-68-COT26",
-      "org": "SUBSECRETARIA DE LA NIÑEZ",
-      "titulo": "Servicio de Coffee y Almuerzo para Consejo Consultivo Regional del Biobío",
-      "monto": 700000,
-      "dias": 2,
-      "cierre": "2026-09-29",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 59
     },
@@ -258,28 +232,28 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1658-1414-COT26",
-      "org": "I MUNICIPALIDAD DE TEMUCO",
-      "titulo": "S15-26/SEGURIDAD PUBLICA/DEPTO PROGRAMAS DE INTERVENCIÓN COMUNITARIA/SERVICIO DE COFFEE PARA ACTIVIDAD TERRITORIAL.",
-      "monto": 400000,
+      "codigo": "2859-1026-COT26",
+      "org": "UNIVERSIDAD DE ATACAMA",
+      "titulo": "SERVICIO DE COFFEE BREAK ",
+      "monto": 1200000,
       "dias": 1,
-      "cierre": "2026-09-28",
+      "cierre": "2026-09-29",
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
+      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 57
     },
     {
-      "codigo": "1526274-9-COT26",
-      "org": "COMERCIALIZADORA DE TRIGO S A",
-      "titulo": "Servicio de coffee break para 40 personas y servicio técnico audiovisual en Planta COTRISA Parral.",
-      "monto": 720000,
+      "codigo": "1067455-68-COT26",
+      "org": "SUBSECRETARIA DE LA NIÑEZ",
+      "titulo": "Servicio de Coffee y Almuerzo para Consejo Consultivo Regional del Biobío",
+      "monto": 700000,
       "dias": 1,
-      "cierre": "2026-09-28",
+      "cierre": "2026-09-29",
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
-      "region": "Región del Maule ",
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -306,19 +280,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "804-14-COT26",
-      "org": "CORP NACIONAL DE DESARROLLO INDIGENA",
-      "titulo": " Coffe Break",
-      "monto": 350000,
-      "dias": 1,
-      "cierre": "2026-09-28",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -462,6 +423,32 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1658-1414-COT26",
+      "org": "I MUNICIPALIDAD DE TEMUCO",
+      "titulo": "S15-26/SEGURIDAD PUBLICA/DEPTO PROGRAMAS DE INTERVENCIÓN COMUNITARIA/SERVICIO DE COFFEE PARA ACTIVIDAD TERRITORIAL.",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-09-28",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1526274-9-COT26",
+      "org": "COMERCIALIZADORA DE TRIGO S A",
+      "titulo": "Servicio de coffee break para 40 personas y servicio técnico audiovisual en Planta COTRISA Parral.",
+      "monto": 720000,
+      "dias": 0,
+      "cierre": "2026-09-28",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -674,19 +661,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2771-566-COT26",
-      "org": "I MUNICIPALIDAD DE CHIGUAYANTE",
-      "titulo": "SOPI N°726 Y 727, SERVICIO DE COFFE POR LINEA, DEBE OFERTAR LA TOTALIDAD DEL REQUERIMIENTO, SEGUN DATOS ADJUNTOS.-",
-      "monto": 1000000,
-      "dias": 0,
-      "cierre": "2026-09-27",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "4291-1271-COT26",
       "org": "UNIVERSIDAD DE ANTOFAGASTA",
       "titulo": "SERVICIO COFFE BREAK ",
@@ -735,6 +709,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "804-14-COT26",
+      "org": "CORP NACIONAL DE DESARROLLO INDIGENA",
+      "titulo": " Coffe Break",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-09-28",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
