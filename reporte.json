@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-27T19:59+00:00",
+  "generado": "2026-09-27T22:58+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -72,6 +72,19 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "2062-129-COT26",
+      "org": "Departamento Provincial de Educación de Cachapoal",
+      "titulo": "COMPRA PROYECTO VIDA ACTIVA Y SALUDABLE LICEO MACHALI (ART. DEPORTIVOS)  DEPROV.",
+      "monto": 1000000,
+      "dias": 3,
+      "cierre": "2026-10-01",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 61
     },
@@ -1060,19 +1073,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región Aysén del General Carlos Ibáñez del Campo",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "889473-1935-COT26",
-      "org": "UNIVERSIDAD DE O'HIGGINS",
-      "titulo": "SC 8964 - Insumos de Cafetería",
-      "monto": 1000000,
-      "dias": 0,
-      "cierre": "2026-09-27",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
