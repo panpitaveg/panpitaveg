@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-29T22:00+00:00",
+  "generado": "2026-09-30T01:13+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -35,19 +35,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 59
-    },
-    {
-      "codigo": "1756-98-COT26",
-      "org": "MINEDUC ADMINISTRACION VIII REGION",
-      "titulo": "CONTRATACIÓN SERVICIO DE ALMUERZO Y CAFÉ PARA JORNADA EDUCATIVA DEL 03/11/2026",
-      "monto": 1000000,
-      "dias": 1,
-      "cierre": "2026-10-01",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 57
     },
     {
       "codigo": "2013-1608-COT26",
@@ -126,45 +113,6 @@
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 57
-    },
-    {
-      "codigo": "1455288-181-COT26",
-      "org": "DIVISIÓN DE BIENESTAR SOCIAL",
-      "titulo": "(CCOQ) ADQUISICIÓN CAFÉ DE GRANO (495/2026)",
-      "monto": 681156,
-      "dias": 0,
-      "cierre": "2026-09-30",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "948-121-COT26",
-      "org": "Secretaría Regional Ministerial de Educación de la Primera Región",
-      "titulo": "Adquisición de insumos y servicios de colación, café e insumos complementarios para actividades CRA e Interculturalidad, solicitados por el Departamento de Educación",
-      "monto": 681000,
-      "dias": 0,
-      "cierre": "2026-09-30",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2701-681-COT26",
-      "org": "I MUNICIPALIDAD DE TALAGANTE",
-      "titulo": "Banda Musical , según Instructivo N°0354, Segunda Expo Café Talagante, RRPP",
-      "monto": 353982,
-      "dias": 0,
-      "cierre": "2026-09-30",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "5455-127-COT26",
@@ -362,19 +310,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1110404-323-COT26",
-      "org": "SERVICIO LOCAL DE EDUCACION DE CHINCHORRO",
-      "titulo": "se requiere servicio de estadía y alimentación (desayuno y cena) en la ciudad de Arica para delegación de 29 personas del Liceo Granaderos de Putre, desde el día lunes 05 al día jueves 08 de Octubre d",
-      "monto": 4060000,
-      "dias": 0,
-      "cierre": "2026-09-29",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1078326-10-COT26",
       "org": "INSTITUTO ANTARTICO CHILENO",
       "titulo": "Servicio de Cafetería en la Universidad Austral en Valdivia",
@@ -557,19 +492,6 @@
       "probabilidad": 50
     },
     {
-      "codigo": "1391-603-COT26",
-      "org": "Dirección Regional de Gendarmeria - Talca",
-      "titulo": "CRS CURICO FOSOAD 040 ADQUISICIÓN DE PRODUCTOS DE CÓCTEL Y CAFÉ. (CATERING)",
-      "monto": 150000,
-      "dias": 2,
-      "cierre": "2026-10-02",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
       "codigo": "1756-97-COT26",
       "org": "MINEDUC ADMINISTRACION VIII REGION",
       "titulo": "SOLICITA COLACIONES TRANSPORTABLES (DESAYUNO Y ALMUERZO)",
@@ -583,19 +505,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "2658-1228-COT26",
-      "org": "I MUNICIPALIDAD DE ANCUD",
-      "titulo": "CAFÉ, GALLETAS, OTROS",
-      "monto": 100000,
-      "dias": 1,
-      "cierre": "2026-10-01",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "2062-130-COT26",
       "org": "Departamento Provincial de Educación de Cachapoal",
       "titulo": "COMPRA PROYECTO VIDA ACTIVA Y SALUDABLE LICEO MACHALI (JUEGOS)  DEPROV.",
@@ -607,19 +516,6 @@
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 47
-    },
-    {
-      "codigo": "2701-682-COT26",
-      "org": "I MUNICIPALIDAD DE TALAGANTE",
-      "titulo": "Sándwich en pan amasado, según Instructivo N°0354, Segunda Expo Café Talagante, RRPP",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-09-30",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "2724-845-COT26",
