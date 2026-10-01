@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-09-30T21:58+00:00",
+  "generado": "2026-10-01T01:09+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -37,45 +37,6 @@
       "probabilidad": 65
     },
     {
-      "codigo": "425-363-COT26",
-      "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
-      "titulo": "Servicio de café para actividades de Lenguaje Claro – octubre 2026",
-      "monto": 1600000,
-      "dias": 4,
-      "cierre": "2026-10-05",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 63
-    },
-    {
-      "codigo": "2175-170-COT26",
-      "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
-      "titulo": "Servicio de Café para 3 de noviembre 2026 a las 15:00 horas",
-      "monto": 450000,
-      "dias": 4,
-      "cierre": "2026-10-05",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 63
-    },
-    {
-      "codigo": "2175-169-COT26",
-      "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
-      "titulo": "Servicio de Café para 28 de octubre 2026 a las 15:00 horas",
-      "monto": 450000,
-      "dias": 4,
-      "cierre": "2026-10-05",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 63
-    },
-    {
       "codigo": "1233623-774-COT26",
       "org": "Servicio Local de Educación Pública Licancabur",
       "titulo": "ESCUELA DE PARVULOS F-118 “LAS ARDILLAS” – RBD 241-0 DE CALAMA.  REQUIERE  LA ADQUISICIÓN DE BANDEJAS  COCTEL INDIVIDUALES, CON PRODUCTOS DULCES Y SALADOS.  ",
@@ -87,32 +48,6 @@
       "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 63
-    },
-    {
-      "codigo": "530885-36-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "WD 4844 Máquina Café ",
-      "monto": 400000,
-      "dias": 2,
-      "cierre": "2026-10-03",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "2701-681-COT26",
-      "org": "I MUNICIPALIDAD DE TALAGANTE",
-      "titulo": "Banda Musical , según Instructivo N°0354, Segunda Expo Café Talagante, RRPP",
-      "monto": 353982,
-      "dias": 1,
-      "cierre": "2026-10-02",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
     },
     {
       "codigo": "3699-165-COT26",
@@ -165,58 +100,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
-    },
-    {
-      "codigo": "742-64-COT26",
-      "org": "INSTITUTO DE DESARROLLO AGROPECUARIO",
-      "titulo": "SERVICIO DE CAFÉ PARA 30 PARTICIPANTES ",
-      "monto": 700000,
-      "dias": 0,
-      "cierre": "2026-10-01",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Aysén del General Carlos Ibáñez del Campo",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5492-26-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de café de pausa – Capacitación Consejo Regional de Tarapacá 2026",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-10-01",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5067-2335-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Contratación Servicio de Café y Colaciones para Feria Laboral - Vicerrectoría de Calidad de Vida, Género, Equidad y Diversidad (VICAGED), USACH",
-      "monto": 1300000,
-      "dias": 0,
-      "cierre": "2026-10-01",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1756-98-COT26",
-      "org": "MINEDUC ADMINISTRACION VIII REGION",
-      "titulo": "CONTRATACIÓN SERVICIO DE ALMUERZO Y CAFÉ PARA JORNADA EDUCATIVA DEL 03/11/2026",
-      "monto": 1000000,
-      "dias": 0,
-      "cierre": "2026-10-01",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
     },
     {
       "codigo": "4291-1336-COT26",
@@ -466,19 +349,6 @@
       "probabilidad": 51
     },
     {
-      "codigo": "1391-603-COT26",
-      "org": "Dirección Regional de Gendarmeria - Talca",
-      "titulo": "CRS CURICO FOSOAD 040 ADQUISICIÓN DE PRODUCTOS DE CÓCTEL Y CAFÉ. (CATERING)",
-      "monto": 150000,
-      "dias": 1,
-      "cierre": "2026-10-02",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "1756-97-COT26",
       "org": "MINEDUC ADMINISTRACION VIII REGION",
       "titulo": "SOLICITA COLACIONES TRANSPORTABLES (DESAYUNO Y ALMUERZO)",
@@ -503,19 +373,6 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 47
-    },
-    {
-      "codigo": "2658-1228-COT26",
-      "org": "I MUNICIPALIDAD DE ANCUD",
-      "titulo": "CAFÉ, GALLETAS, OTROS",
-      "monto": 100000,
-      "dias": 0,
-      "cierre": "2026-10-01",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
     },
     {
       "codigo": "2046-136-COT26",
