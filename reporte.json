@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-02T17:36+00:00",
+  "generado": "2026-10-02T21:56+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -35,6 +35,32 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 65
+    },
+    {
+      "codigo": "792901-20-COT26",
+      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
+      "titulo": " Adquisición de Servicio de Café para Capacitación de la Dirección Regional de Coquimbo ",
+      "monto": 400000,
+      "dias": 4,
+      "cierre": "2026-10-07",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
+      "codigo": "881-146-COT26",
+      "org": "GOBIERNO REGIONAL DE ANTOFAGASTA",
+      "titulo": "COMPRA CAFÉ Y AZUCAR",
+      "monto": 400000,
+      "dias": 3,
+      "cierre": "2026-10-06",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 61
     },
     {
       "codigo": "792895-20-COT26",
@@ -98,6 +124,45 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "233-63-COT26",
+      "org": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE HUASCO",
+      "titulo": "Servicio de banquetería (Desayuno) y equipos audiovisuales, actividad certificación Programa SENAMA",
+      "monto": 1521850,
+      "dias": 3,
+      "cierre": "2026-10-06",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "2092-80-COT26",
+      "org": "Departamento Provincial de Educación Valparaíso - Isla de Pascua",
+      "titulo": "Compra insumos cafetería Red Campo y Mar",
+      "monto": 400000,
+      "dias": 3,
+      "cierre": "2026-10-06",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "1756-106-COT26",
+      "org": "MINEDUC ADMINISTRACION VIII REGION",
+      "titulo": "SERVICIO DE CAFETERÍA PARA 55 PERSONAS",
+      "monto": 415000,
+      "dias": 3,
+      "cierre": "2026-10-06",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 61
     },
@@ -206,6 +271,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "1469-3211-COT26",
+      "org": "UNIVERSIDAD DE TALCA",
+      "titulo": "20-44072 Arriendo de Carpa para Coctel de Reconocimiento Años de Servicio 2026   ",
+      "monto": 1200000,
+      "dias": 2,
+      "cierre": "2026-10-05",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "1469-3206-COT26",
       "org": "UNIVERSIDAD DE TALCA",
       "titulo": "20-44157 SERVICIO DE COCTEL",
@@ -241,6 +319,58 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2583-803-COT26",
+      "org": "I MUNICIPALIDAD DE MAIPU",
+      "titulo": "SP N° 421/ Servicio de banqueteria/ Capacitación -Daf/ptg",
+      "monto": 7000000,
+      "dias": 2,
+      "cierre": "2026-10-05",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1428662-143-COT26",
+      "org": "CORP MUNICIPAL DE PUQUELDON PARA LA EDUC",
+      "titulo": "SERVICIO DE BANQUETERIA DIA DE LA ATENCION PRIMARIA DE SALUD",
+      "monto": 3500000,
+      "dias": 2,
+      "cierre": "2026-10-05",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1079454-609-COT26",
+      "org": "SECCIÓN COMPRAS II ZONA",
+      "titulo": "ADQUISICIÓN DE EQUIPAMIENTO DE CAFETERÍA Y MENAJE DE COCINA – PROYECTO DE BIENESTAR CARABINEROS ANTOFAGASTA",
+      "monto": 5655000,
+      "dias": 2,
+      "cierre": "2026-10-05",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "4548-599-COT26",
+      "org": "I MUNICIPALIDAD DE QUINTERO",
+      "titulo": "SECRETARIA MUNICIPAL - SERVICIO DE CAFETERÍA PARA ACTIVIDAD..",
+      "monto": 773500,
+      "dias": 2,
+      "cierre": "2026-10-05",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -297,6 +427,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "5282-165-COT26",
+      "org": "I.MUNICIPALIDAD DE PORVENIR",
+      "titulo": "ADQUISICIÓN COFFE BREACK",
+      "monto": 800000,
+      "dias": 2,
+      "cierre": "2026-10-05",
+      "keyword": "BREACK",
+      "ofertas_actuales": 0,
+      "region": "Región de Magallanes y de la Antártica",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "5147-92-COT26",
       "org": "ILUSTRE MUNICIPALIDAD DE TIMAUKEL",
       "titulo": "Jardineras  de 80 x 40 x 40 cm en color café y mecanismo para anclar a la pared.",
@@ -306,32 +449,6 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5067-2363-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Adquisición de cafetera y capsulas de café",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5492-26-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de café de pausa – Capacitación Consejo Regional de Tarapacá 2026",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -349,45 +466,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2214-89-COT26",
-      "org": "DEPARTAMENTO PROVINCIAL DE EDUCACION CAUTIN NORTE",
-      "titulo": "Servicio de Coctel para Ceremonia Final de Torneo de Futbol EPJA 2026",
-      "monto": 450000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2704-1785-COT26",
-      "org": "UNIVERSIDAD DEL BIO BIO",
-      "titulo": "SC 6353 SERVICIO COCTEL 16-10-2026",
-      "monto": 900000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "483-426-COT26",
-      "org": "SERVICIO DE SALUD CONCEPCION ARAUCO HOSPITAL DE CONTULMO",
-      "titulo": "COCTEL",
-      "monto": 1100000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3477-524-COT26",
       "org": "I MUNICIPALIDAD DE VILCUN",
       "titulo": "SERVICIO DE BANQUETERIA PARA DOS ACTIVIDADES DE LA MUNICIPALIDAD - ADMINISTRACIÓN MUNICIPAL",
@@ -401,19 +479,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3478-289-COT26",
-      "org": "I MUNICIPALIDAD DE QUINTA DE TILCOCO",
-      "titulo": "SERVICIO DE BANQUETERIA/ PRODESAL",
-      "monto": 341079,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1028897-654-COT26",
       "org": "SERVICIO LOCAL DE EDUCACION COSTA ARAUCANIA",
       "titulo": "SP 1334 CONTRATACIÓN DE SERVICIO INTEGRAL PARA SALIDA PEDAGÓGICA DELEGACION DE ESTUDIANTES Y FUNCIONARIOS DE LA ESCUELA PUBLICA ARENAS BLANCAS, QUE INCLUYE TRANSPORTE, ENTRADAS, DESAYUNO Y ALMUERZO",
@@ -423,71 +488,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4322-521-COT26",
-      "org": "I MUNICIPALIDAD DE PERQUENCO",
-      "titulo": "Servicio de desayuno con pertinencia cultural",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5423-167-COT26",
-      "org": "UNIVERSIDAD DE LOS LAGOS",
-      "titulo": "SERVICIO DE DESAYUNO Y ALMUERZO PARA EL DIA 09 DE OCTUBRE DE 2026 EN PUERTO OCTAY",
-      "monto": 307020,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1078326-11-COT26",
-      "org": "INSTITUTO ANTARTICO CHILENO",
-      "titulo": " Servicio de Cafetería en la Universidad Austral en Valdivia",
-      "monto": 450000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2395-970-COT26",
-      "org": "I MUNICIPALIDAD PEDRO AGUIRRE CERDA",
-      "titulo": "ARRIENDO VEHICULO UNIDAD CUIDADOS PALIATIVOS UNIVERSALES  Y COMUNA SALUDABLE, DIRECCION DE SALUD. SP 1115.",
-      "monto": 3900000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3492-93-COT26",
-      "org": "I MUNICIPALIDAD DE RINCONADA",
-      "titulo": "SERVICIO DE ALIMENTACIÓN SALUDABLE PARA PREMIACIÓN CONCURSO ESCOLAR Y LACTANCIA MATERNA",
-      "monto": 350000,
-      "dias": 0,
-      "cierre": "2026-10-02",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -531,6 +531,19 @@
       "probabilidad": 49
     },
     {
+      "codigo": "5067-2372-COT26",
+      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+      "titulo": "Adquisición Insumos de Cafetería -  Departamento de Innovación Educativa, Vicerrectoría Académica (VRA), USACH",
+      "monto": 247472,
+      "dias": 2,
+      "cierre": "2026-10-05",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
       "codigo": "2074-41-COT26",
       "org": "Departamento Provincial de Educación de Magallanes",
       "titulo": "Servicio  de cafetería para 20 pp. en Salón Gabriela Mistral (Secreduc 12) de Punta Arenas ",
@@ -540,6 +553,19 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de Magallanes y de la Antártica",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
+      "codigo": "2092-76-COT26",
+      "org": "Departamento Provincial de Educación Valparaíso - Isla de Pascua",
+      "titulo": "Catering (brunch) Red Presente por Futuro",
+      "monto": 200000,
+      "dias": 2,
+      "cierre": "2026-10-05",
+      "keyword": "BRUNCH",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 49
     },
@@ -583,6 +609,19 @@
       "probabilidad": 45
     },
     {
+      "codigo": "4085-453-COT26",
+      "org": "I MUNICIPALIDAD DE LONGAVI",
+      "titulo": "SERVICIO BANQUETERIA COCTEL PROG. HABITABILIDAD I. MUNICIPALIDAD DE LONGAVI",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-10-03",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "3708-124-COT26",
       "org": "I MUNICIPALIDAD DE PITRUFQUEN",
       "titulo": "Servicio Coctel Prog. Pueblos Originarios SA-U122 UDEL",
@@ -601,7 +640,7 @@
       "titulo": "ADQUISICIÓN DE ALIMENTOS PARA DESAYUNO PARA CHARLA CON EMPRENDEDORES OMIL.-",
       "monto": 200000,
       "dias": 0,
-      "cierre": "2026-10-02",
+      "cierre": "2026-10-03",
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
@@ -618,6 +657,19 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "1239966-491-COT26",
+      "org": "CORPORACION DE EDUCACION, SALUD Y MENORES DE PUERT",
+      "titulo": "BOX SALUDABLE",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-10-03",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
       "probabilidad": 45
     },
