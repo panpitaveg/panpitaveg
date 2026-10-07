@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-06T22:39+00:00",
+  "generado": "2026-10-07T02:11+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -48,6 +48,19 @@
       "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
       "probabilidad": 67
+    },
+    {
+      "codigo": "1057439-5615-COT26",
+      "org": "SERVICIO DE SALUD COQUIMBO HOSPITAL LA SERENA",
+      "titulo": "galletas, café, helado (despachos parciales)",
+      "monto": 300000,
+      "dias": 2,
+      "cierre": "2026-10-09",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 59
     },
     {
       "codigo": "1638-769-COT26",
@@ -165,6 +178,58 @@
       "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 57
+    },
+    {
+      "codigo": "5153-1882-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "KLO_PAD´s para Aseo de Pisos Programa Stock (Negro, Blanco, Rojo y Café)",
+      "monto": 7170000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5670-17-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Servicio de Café",
+      "monto": 600000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1075337-2034-COT26",
+      "org": "SERVICIO DE SALUD ARAUCANIA NORTE HOSPITAL DE ANGOL",
+      "titulo": "rvv Compra Pedido Alimentación No Perecibles Pacientes (café descafeinado sachet, esencia vainilla, fideos multigrano, otros) Octubre 2026",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "792901-20-COT26",
+      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
+      "titulo": " Adquisición de Servicio de Café para Capacitación de la Dirección Regional de Coquimbo ",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
     },
     {
       "codigo": "2287-633-COT26",
@@ -323,6 +388,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1750-73-COT26",
+      "org": "DIRECCION NACIONAL DEL SERVICIO CIVIL",
+      "titulo": "Arriendo de salón y café para XVIII Encuentro Anual de Gestión y Desarrollo de Personas",
+      "monto": 6700000,
+      "dias": 2,
+      "cierre": "2026-10-09",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 2,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
       "codigo": "3682-474-COT26",
       "org": "I MUNICIPALIDAD DE SALAMANCA",
       "titulo": "Insumos Varios act \"Alimentación Saludable\"",
@@ -375,6 +453,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "1437-694-COT26",
+      "org": "I MUNICIPALIDAD DE LLANQUIHUE",
+      "titulo": "-\t1 Café de 170gramos (similar al nescafe) -\t1 kilo Azúcar  -\t1 Caja de te de hiervas surtidas 50unidades  -\t1 Caja de te negro (80 unidades) -\t4 Galletas Obsesión  -\t4 Galletas Oblea -\t2 Galletas de ",
+      "monto": 45000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "2805-557-COT26",
       "org": "ILUSTRE MUNICIPALIDAD DE LLANQUIHUE-DEPTO. DE SALUD",
       "titulo": "INSUMOS DE CAFETERÍA PARA PROGRAMA CAPACITACIÓN",
@@ -384,19 +475,6 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "3904-883-COT26",
-      "org": "I MUNICIPALIDAD DE BULNES",
-      "titulo": "OP26-1331 Servicio de Alimentación consistente en Coffe Breack, a Empresarios de la “ Red Ñuble Sur”. FOMIL",
-      "monto": 250000,
-      "dias": 0,
-      "cierre": "2026-10-06",
-      "keyword": "BREACK",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 45
     },
@@ -412,6 +490,19 @@
       "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 40
+    },
+    {
+      "codigo": "3994-226-COT26",
+      "org": "I MUNICIPALIDAD DE OLIVAR",
+      "titulo": "ADQUISICIÓN DE CAFÉ, TÉ, AZÚCAR, AGUAS, BEBIDAS Y JUGOS ",
+      "monto": 2000000,
+      "dias": 0,
+      "cierre": "2026-10-07",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 8,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 15
     }
   ]
 }
