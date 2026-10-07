@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-07T18:34+00:00",
+  "generado": "2026-10-07T23:30+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -63,6 +63,32 @@
       "probabilidad": 65
     },
     {
+      "codigo": "5350-476-COT26",
+      "org": "I MUNICIPALIDAD DE VALLENAR",
+      "titulo": "SERVICIO DE ARRIENDO DE LOCAL  PARA 120 PERSONAS DEBE INCLUIR ( DESAYUNO , ALMUERZO Y COFFE BREAK)",
+      "monto": 2975000,
+      "dias": 5,
+      "cierre": "2026-10-13",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 65
+    },
+    {
+      "codigo": "707424-33-COT26",
+      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
+      "titulo": "Productos de banquetería tipo coctel para montaje directo Octubre 2026 Integra",
+      "monto": 5724000,
+      "dias": 2,
+      "cierre": "2026-10-10",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "757-436-COT26",
       "org": "SUBSECRETARIA DE SALUD PUBLICA",
       "titulo": " DIPOL ADQUISICIÓN DE PRODUCTOS CON MENSAJE EDUCATIVO PARA UNA ALIMENTACIÓN SALUDABLE Y ACTIVIDAD FÍSICA, UN CHILE MAS SANO",
@@ -74,6 +100,32 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 59
+    },
+    {
+      "codigo": "1057439-5615-COT26",
+      "org": "SERVICIO DE SALUD COQUIMBO HOSPITAL LA SERENA",
+      "titulo": "galletas, café, helado (despachos parciales)",
+      "monto": 300000,
+      "dias": 1,
+      "cierre": "2026-10-09",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2736-414-COT26",
+      "org": "I MUNICIPALIDAD DE ANGOL",
+      "titulo": "Servicio de Coctel ",
+      "monto": 5000000,
+      "dias": 1,
+      "cierre": "2026-10-09",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
     },
     {
       "codigo": "3593-370-COT26",
@@ -102,6 +154,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "3615-158-COT26",
+      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
+      "titulo": "SERVICIOS DE BANQUETERIA PARA DEPTO. DE EDUCACIÓN - COMBARBALÁ ",
+      "monto": 3500000,
+      "dias": 1,
+      "cierre": "2026-10-09",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1233600-78-COT26",
       "org": "CORP MUNICIPAL DE RENCA",
       "titulo": "BANQUETERIA PARA EVENTOS JORNADAS",
@@ -111,6 +176,19 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2446-954-COT26",
+      "org": "I MUNICIPALIDAD DE COQUIMBO",
+      "titulo": "servicio de desayuno para el  \"2do encuentro empresarial 2026\"",
+      "monto": 500000,
+      "dias": 1,
+      "cierre": "2026-10-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -128,6 +206,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "546437-255-COT26",
+      "org": "FUND NACIONAL DE ORQUESTAS JUVENILES E INFANTILES DE CHILE",
+      "titulo": "Insumos de aseo y cafetería (C. Seguel)  ",
+      "monto": 300000,
+      "dias": 1,
+      "cierre": "2026-10-09",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "918434-272-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D5108 Servicio de Cafetería para actividad; Cuidarnos hoy es prevenir mañana”, Jornada de prevención del cáncer de mama para mujeres de las FF.AA. y Orden y Seguridad, Seremi Los Ríos. Los",
@@ -137,6 +228,32 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "910761-3-COT26",
+      "org": "Asociación de Municipalidades de Ciudades Puerto y Borde Costero de Chile",
+      "titulo": "Servicios de Coffee break y brunch para 50 personas, asamblea de la asociación nacional de ciudades puertos y borde costero de chile, comuna de Coquimbo",
+      "monto": 1050000,
+      "dias": 1,
+      "cierre": "2026-10-09",
+      "keyword": "BRUNCH",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "1543-38-COT26",
+      "org": "Dirección Provincial de Educación Quillota - Petorca",
+      "titulo": "ACTIVIDAD FISICA ESCOLAR Y HABITOS DE VIDA SALUDABLE ",
+      "monto": 1250000,
+      "dias": 1,
+      "cierre": "2026-10-09",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -167,6 +284,71 @@
       "probabilidad": 57
     },
     {
+      "codigo": "5492-35-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Arriendo de salón, servicios de café, almuerzo y alojamiento para Seminario Taller Salud mental adolescente y prevención del riesgo suicida en contextos educativos para la JUNAEB",
+      "monto": 4704000,
+      "dias": 0,
+      "cierre": "2026-10-08",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3316-155-COT26",
+      "org": "Dirección de Educación, Doctrina e Historia de Carabineros",
+      "titulo": "REQUERIMIENTO DE ADQUISICIÓN DE BARRAS DE PROTEINAS, CAFÉ INSTANTANEO Y MIEL DE PALMA PARA LA COMISION RANCHO DE LA ESCUELA DE SUBOFICIALES DE CARABINEROS DE CHILE",
+      "monto": 650000,
+      "dias": 0,
+      "cierre": "2026-10-08",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "514848-503-COT26",
+      "org": "I MUNICIPALIDAD DE LAUTARO",
+      "titulo": "Servicio de banquetería coctel de camaradería conmemoración día del Asistente de la Educación ",
+      "monto": 4000000,
+      "dias": 0,
+      "cierre": "2026-10-08",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3596-525-COT26",
+      "org": "I MUNICIPALIDAD DE PAPUDO",
+      "titulo": "Coctel \"INAUGURACION PARQUE DEL DEPORTE”",
+      "monto": 700000,
+      "dias": 0,
+      "cierre": "2026-10-08",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2385-554-COT26",
+      "org": "I MUNICIPALIDAD DE CALAMA",
+      "titulo": "Servicio de Coctel M-120",
+      "monto": 6000000,
+      "dias": 0,
+      "cierre": "2026-10-08",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2333-679-COT26",
       "org": "I MUNICIPALIDAD DE LINARES",
       "titulo": "SERVICIO DE COCTEL",
@@ -193,54 +375,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2013-1633-COT26",
-      "org": "UNIVERSIDAD ARTURO PRAT",
-      "titulo": "SERVICIO DE COCTEL 50 PAX",
-      "monto": 500000,
+      "codigo": "1480082-42-COT26",
+      "org": "MUNICIPALIDAD DE VITACURA",
+      "titulo": "PTR E-175, SERVICIO DE BANQUETERIA PARA 136 PERSONAS, PARA ANIVERSARIO DE LICEO AMANDA LABARCA A REALIZARSE EL DIA 09 DE OCTUBRE DE 2026 A LAS 10:30 HRS.",
+      "monto": 820000,
       "dias": 0,
-      "cierre": "2026-10-07",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1469-3320-COT26",
-      "org": "UNIVERSIDAD DE TALCA",
-      "titulo": "20-44230 COCTEL CEREMONIA DE TITULACION FAMD  2026",
-      "monto": 7200000,
-      "dias": 0,
-      "cierre": "2026-10-07",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1367960-162-COT26",
-      "org": "CORPORACION CULTURAL Y DE TURISMO MUNICIPAL DE PELARCO",
-      "titulo": "Servicio de coctel para 130 personas día 23 de octubre ceremonia de titulación del liceo pelarco  Convenio DAEM 2026",
-      "monto": 1000000,
-      "dias": 0,
-      "cierre": "2026-10-07",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1976-127-COT26",
-      "org": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DEL BIOBÍO",
-      "titulo": "SERVICIO DE BANQUETERIA PARA ACTIVIDAD DE SENAMA",
-      "monto": 756821,
-      "dias": 0,
-      "cierre": "2026-10-07",
+      "cierre": "2026-10-08",
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -254,6 +397,19 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3442-169-COT26",
+      "org": "I MUNICIPALIDAD DE VICHUQUEN",
+      "titulo": "SERVICIO DE DESAYUNO Y ALMUERZO GIRA TECNICA PMJH VICHUQUEN 2026",
+      "monto": 1200000,
+      "dias": 0,
+      "cierre": "2026-10-08",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -336,19 +492,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5626-675-COT26",
-      "org": "UNIVERSIDAD DE VALPARAISO",
-      "titulo": "SERVICIO BRUNCH 13. 26 Y 27 - 10 PROYECTO ING 2030 - E.S",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-10-07",
-      "keyword": "BRUNCH",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "4044-582-COT26",
       "org": "I MUNICIPALIDAD DE ISLA DE PASCUA",
       "titulo": "COMPRA DE IMPLEMENTOS PARA CREAR UN KIT DE ALIMENTACIÓN SALUDABLE PARA TALLER FAMILIAR \"PLATO SALUDABLE Y SOSTENIBLE\" - MONTO INCLUYE FLETE PUESTO EN ISLA DE PASCUA - SOLICITA MEDIO AMBIENTE",
@@ -360,6 +503,32 @@
       "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
+    },
+    {
+      "codigo": "3000-1155-COT26",
+      "org": "I MUNICIPALIDAD DE MONTEPATRIA",
+      "titulo": "PRODUCTOS PARA COFFEE BREACK - FOMIL - OFICINA DE LA JUVENTUD - DIDECO",
+      "monto": 1850000,
+      "dias": 0,
+      "cierre": "2026-10-08",
+      "keyword": "BREACK",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1750-73-COT26",
+      "org": "DIRECCION NACIONAL DEL SERVICIO CIVIL",
+      "titulo": "Arriendo de salón y café para XVIII Encuentro Anual de Gestión y Desarrollo de Personas",
+      "monto": 6700000,
+      "dias": 1,
+      "cierre": "2026-10-09",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 2,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 47
     },
     {
       "codigo": "3682-474-COT26",
@@ -401,6 +570,32 @@
       "probabilidad": 45
     },
     {
+      "codigo": "1469-3363-COT26",
+      "org": "UNIVERSIDAD DE TALCA",
+      "titulo": "2000044288 Servicio cafetería",
+      "monto": 90000,
+      "dias": 0,
+      "cierre": "2026-10-08",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2731-1105-COT26",
+      "org": "I MUNICIPALIDAD DE PENAFLOR",
+      "titulo": "DIDECO_INSUMOS DE CAFETERÍA ",
+      "monto": 100000,
+      "dias": 0,
+      "cierre": "2026-10-08",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "1479-150-COT26",
       "org": "Departamento Provincial de Educación Osorno",
       "titulo": "ADQUISICION MATERIAL DEPORTIVO PROY VIDA SALUDABLE COL A LINCOLN",
@@ -425,19 +620,6 @@
       "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 45
-    },
-    {
-      "codigo": "3904-892-COT26",
-      "org": "I MUNICIPALIDAD DE BULNES",
-      "titulo": "OP26-1324 Servicio de Banqueteria actividad \"Malón de Integración Programa Vinculos\"",
-      "monto": 284260,
-      "dias": 0,
-      "cierre": "2026-10-07",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 1,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 40
     },
     {
       "codigo": "3658-481-COT26",
