@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-08T18:33+00:00",
+  "generado": "2026-10-08T23:42+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -23,6 +23,32 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
+    {
+      "codigo": "2462-200-COT26",
+      "org": "I MUNICIPALIDAD DE PROVIDENCIA",
+      "titulo": "STAND DE HIDRATACION Y ALIMENTACION SALUDABLE",
+      "monto": 1572000,
+      "dias": 6,
+      "cierre": "2026-10-15",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 67
+    },
+    {
+      "codigo": "5733-86-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "SERVICIO DE COCTEL PARA EL 28 DE OCTUBRE ",
+      "monto": 1700000,
+      "dias": 4,
+      "cierre": "2026-10-13",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 63
+    },
     {
       "codigo": "2923-800-COT26",
       "org": "I MUNICIPALIDAD DE CHANARAL",
@@ -63,6 +89,19 @@
       "probabilidad": 63
     },
     {
+      "codigo": "2785-760-COT26",
+      "org": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+      "titulo": "SDA 6483/ SERVICIOS DE BANQUETERIA PARA PROGRAMA PREVENIR EN COMUNIDAD EN SAN PEDRO DE LA PAZ.",
+      "monto": 2000000,
+      "dias": 4,
+      "cierre": "2026-10-13",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
       "codigo": "2658-1288-COT26",
       "org": "I MUNICIPALIDAD DE ANCUD",
       "titulo": "SERVICIO DE BANQUETERIA  Y LOCAL CENA ANIVERSARIO DIA DEL FUNCIONARIO MUNICIPAL",
@@ -89,6 +128,19 @@
       "probabilidad": 63
     },
     {
+      "codigo": "5350-476-COT26",
+      "org": "I MUNICIPALIDAD DE VALLENAR",
+      "titulo": "SERVICIO DE ARRIENDO DE LOCAL  PARA 120 PERSONAS DEBE INCLUIR ( DESAYUNO , ALMUERZO Y COFFE BREAK)",
+      "monto": 2975000,
+      "dias": 4,
+      "cierre": "2026-10-13",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
       "codigo": "1605-38-COT26",
       "org": "SERVICIO DE IMPUESTOS INTERNOS DIRECCION",
       "titulo": "Adquisición insumos de cafetería básicos",
@@ -98,6 +150,19 @@
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
+      "codigo": "2062-134-COT26",
+      "org": "Departamento Provincial de Educación de Cachapoal",
+      "titulo": "COMPRA PROYECTO VIDA ACTIVA Y SALUDABLE COLEGIO SANTA TERESA DE AVILA (ART. DEPORTIVOS) DEPROV. 2026",
+      "monto": 1700000,
+      "dias": 4,
+      "cierre": "2026-10-13",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 63
     },
@@ -115,6 +180,32 @@
       "probabilidad": 63
     },
     {
+      "codigo": "3892-350-COT26",
+      "org": "I MUNICIPALIDAD DE LEBU",
+      "titulo": "SERVICIO DESAYUNO ALUMNOS QUE RINDEN SIMCE 2026",
+      "monto": 1500000,
+      "dias": 3,
+      "cierre": "2026-10-12",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "608897-116-COT26",
+      "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
+      "titulo": "Servicio de cafetería para las sesiones presenciales durante el segundo semestre de 2026 del Plan de Recuperación Ambiental y Social de Mejillones en la Región de Antofagasta ",
+      "monto": 450000,
+      "dias": 3,
+      "cierre": "2026-10-12",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "608897-113-COT26",
       "org": "SUBSECRETARIA DEL MEDIO AMBIENTE",
       "titulo": "Servicio de cafetería para las sesiones presenciales durante el segundo semestre de 2026 del Plan de Recuperación Ambiental y Social de Calama en la Región de Antofagasta ",
@@ -128,6 +219,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "1756-118-COT26",
+      "org": "MINEDUC ADMINISTRACION VIII REGION",
+      "titulo": "CONTRATACIÓN SERVICIO DE ALMUERZO Y CAFÉ PARA JORNADA REGIONAL DEL 26/11/2026",
+      "monto": 370000,
+      "dias": 1,
+      "cierre": "2026-10-10",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "707424-33-COT26",
       "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
       "titulo": "Productos de banquetería tipo coctel para montaje directo Octubre 2026 Integra",
@@ -137,6 +241,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5251-1053-COT26",
+      "org": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
+      "titulo": "Insumos de cafetería",
+      "monto": 340000,
+      "dias": 1,
+      "cierre": "2026-10-10",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -180,19 +297,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5492-35-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Arriendo de salón, servicios de café, almuerzo y alojamiento para Seminario Taller Salud mental adolescente y prevención del riesgo suicida en contextos educativos para la JUNAEB",
-      "monto": 4704000,
-      "dias": 0,
-      "cierre": "2026-10-08",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1057439-5615-COT26",
       "org": "SERVICIO DE SALUD COQUIMBO HOSPITAL LA SERENA",
       "titulo": "galletas, café, helado (despachos parciales)",
@@ -202,6 +306,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5807-178-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "SERVICIO DE COCTEL",
+      "monto": 1800000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -219,19 +336,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "514848-503-COT26",
-      "org": "I MUNICIPALIDAD DE LAUTARO",
-      "titulo": "Servicio de banquetería coctel de camaradería conmemoración día del Asistente de la Educación ",
-      "monto": 4000000,
-      "dias": 0,
-      "cierre": "2026-10-08",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2736-414-COT26",
       "org": "I MUNICIPALIDAD DE ANGOL",
       "titulo": "Servicio de Coctel ",
@@ -245,32 +349,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3596-525-COT26",
-      "org": "I MUNICIPALIDAD DE PAPUDO",
-      "titulo": "Coctel \"INAUGURACION PARQUE DEL DEPORTE”",
-      "monto": 700000,
-      "dias": 0,
-      "cierre": "2026-10-08",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2385-554-COT26",
-      "org": "I MUNICIPALIDAD DE CALAMA",
-      "titulo": "Servicio de Coctel M-120",
-      "monto": 6000000,
-      "dias": 0,
-      "cierre": "2026-10-08",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2333-679-COT26",
       "org": "I MUNICIPALIDAD DE LINARES",
       "titulo": "SERVICIO DE COCTEL",
@@ -280,19 +358,6 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4768-159-COT26",
-      "org": "I MUNICIPALIDAD DE LA ESTRELLA",
-      "titulo": "SERVICIO DE COCTEL ACTIVIDADES COMUNITARIAS",
-      "monto": 3700000,
-      "dias": 0,
-      "cierre": "2026-10-08",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -323,6 +388,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2057-368-COT26",
+      "org": "UNIVERSIDAD ARTURO PRAT",
+      "titulo": "SE REQUIERE SERVICIO DE  COCKTAIL PARA DIA DEL SOCIO UNAP SANTIAGO ",
+      "monto": 643264,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "COCKTAIL",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "3885-323-COT26",
       "org": "I MUNICIPALIDAD DE PICA",
       "titulo": "SS. BANQUETERIA PMJH",
@@ -332,19 +410,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1480082-42-COT26",
-      "org": "MUNICIPALIDAD DE VITACURA",
-      "titulo": "PTR E-175, SERVICIO DE BANQUETERIA PARA 136 PERSONAS, PARA ANIVERSARIO DE LICEO AMANDA LABARCA A REALIZARSE EL DIA 09 DE OCTUBRE DE 2026 A LAS 10:30 HRS.",
-      "monto": 820000,
-      "dias": 0,
-      "cierre": "2026-10-08",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -375,25 +440,116 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2269-53-COT26",
+      "org": "DEPARTAMENTO PROVINCIAL EDUCACION CAUTIN SUR",
+      "titulo": "Se solicitan cotizaciones para servicio de salón, desayuno y almuerzo para Jornada Red Pedagógica Desafío Araucanía Sur con fecha 20/10/2026 en Temuco.",
+      "monto": 800000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2464-1465-COT26",
+      "org": "I MUNICIPALIDAD DE QUILLOTA",
+      "titulo": "Servicio desayuno y colaciones 70 pers 20Octubre 9am",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3697-133-COT26",
+      "org": "I MUNICIPALIDAD DE VICTORIA",
+      "titulo": "SERVICIO DE DESAYUNO Y ALMUERZO CON LOCAL INCLUIDO, DESTINADO  JORNADA DE AUTOCUIDADO ",
+      "monto": 800000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2446-954-COT26",
+      "org": "I MUNICIPALIDAD DE COQUIMBO",
+      "titulo": "servicio de desayuno para el  \"2do encuentro empresarial 2026\"",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2416-276-COT26",
+      "org": "I MUNICIPALIDAD DE CONCEPCION",
+      "titulo": "SERVICIO DE DESAYUNO PARA 55 PERSONAS MEMO N°621 / OF OLN",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4047-116-COT26",
+      "org": "I MUNICIPALIDAD DE ISLA DE PASCUA",
+      "titulo": "Adquisición de alimentos para desayuno de despedida de los 4°medios del Liceo Aldea Educativa",
+      "monto": 900000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "903556-39-COT26",
+      "org": "UNIVERSIDAD DE VALPARAISO",
+      "titulo": "Reparación contaminación acústica generada por campana de cafetería en edificio Hontaneda FCSO",
+      "monto": 4000000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1395-421-COT26",
+      "org": "SERVICIO DE SALUD COQUIMBO",
+      "titulo": "Servicio de Cafetería para la atención de participantes de dos (2) jornadas Comunales MhGAP Monte Patria y Punitaqui, Jornada AM y PM",
+      "monto": 1017678,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "546437-255-COT26",
       "org": "FUND NACIONAL DE ORQUESTAS JUVENILES E INFANTILES DE CHILE",
       "titulo": "Insumos de aseo y cafetería (C. Seguel)  ",
       "monto": 300000,
       "dias": 0,
       "cierre": "2026-10-09",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5251-1053-COT26",
-      "org": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
-      "titulo": "Insumos de cafetería",
-      "monto": 340000,
-      "dias": 0,
-      "cierre": "2026-10-08",
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
@@ -432,7 +588,7 @@
       "titulo": "SERVICIO DE BRUNCH PARA 100 PERSONAS A LOS ASISTENTES A LA CEREMONIA DE ENTREGA DE CERTIFICACION SCAM A REALIZARSE EN VILLA RIO SERRANO EL DIA 14.10.2026 ",
       "monto": 1500000,
       "dias": 0,
-      "cierre": "2026-10-08",
+      "cierre": "2026-10-09",
       "keyword": "BRUNCH",
       "ofertas_actuales": 0,
       "region": "Región de Magallanes y de la Antártica",
@@ -497,7 +653,7 @@
       "titulo": "PRODUCTOS PARA COFFEE BREACK - FOMIL - OFICINA DE LA JUVENTUD - DIDECO",
       "monto": 1850000,
       "dias": 0,
-      "cierre": "2026-10-08",
+      "cierre": "2026-10-09",
       "keyword": "BREACK",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
@@ -570,6 +726,19 @@
       "probabilidad": 45
     },
     {
+      "codigo": "3884-558-COT26",
+      "org": "I MUNICIPALIDAD PAIHUANO",
+      "titulo": "ADQUISICIÓN DE INSUMOS PARA DESAYUNO CAMPESTRE DE LA ACTIVIDAD \"HUASO PAIHUANINO\"",
+      "monto": 100000,
+      "dias": 0,
+      "cierre": "2026-10-09",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "5251-1076-COT26",
       "org": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
       "titulo": "Insumos de cafetería Escuela Trabajo Social",
@@ -588,7 +757,7 @@
       "titulo": "2000044288 Servicio cafetería",
       "monto": 90000,
       "dias": 0,
-      "cierre": "2026-10-08",
+      "cierre": "2026-10-09",
       "keyword": "CAFETERÍA",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
@@ -596,15 +765,15 @@
       "probabilidad": 45
     },
     {
-      "codigo": "2731-1105-COT26",
-      "org": "I MUNICIPALIDAD DE PENAFLOR",
-      "titulo": "DIDECO_INSUMOS DE CAFETERÍA ",
-      "monto": 100000,
+      "codigo": "4596-471-COT26",
+      "org": "I. MUNICIPALIDAD DE SAN NICOLÁS D. EDUCACIÓN",
+      "titulo": "HORNO ELECTRICO PARA TALLER DE COCINA SALUDABLE ESCUELA LAJUELAS, COMUNA DE SAN NICOLÁS",
+      "monto": 250000,
       "dias": 0,
-      "cierre": "2026-10-08",
-      "keyword": "CAFETERÍA",
+      "cierre": "2026-10-09",
+      "keyword": "SALUDABLE",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 45
     },
