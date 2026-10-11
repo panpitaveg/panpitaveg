@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-11T00:43+00:00",
+  "generado": "2026-10-11T04:44+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1584,19 +1584,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "847-77-COT26",
-      "org": "JUNTA NACIONAL DE JARDINES         INFANTILES",
-      "titulo": "GESDEP - Servicio de Coffe Break para Jornada de Capacitación JUNJI, región de Valparaíso_SC 61.396",
-      "monto": 342018,
-      "dias": 1,
-      "cierre": "2026-10-12",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "2033-105-COT26",
       "org": "Departamento Provincial de Educación Concepción",
       "titulo": "SERVICIO COFFE BREAK - JORNADA PROVINCIAL LEY 21.778",
@@ -1617,19 +1604,6 @@
       "dias": 1,
       "cierre": "2026-10-12",
       "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1756-118-COT26",
-      "org": "MINEDUC ADMINISTRACION VIII REGION",
-      "titulo": "CONTRATACIÓN SERVICIO DE ALMUERZO Y CAFÉ PARA JORNADA REGIONAL DEL 26/11/2026",
-      "monto": 370000,
-      "dias": 1,
-      "cierre": "2026-10-12",
-      "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
       "momento": "am",
@@ -1688,19 +1662,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1638-769-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE DIEGO DE ALMAGRO",
-      "titulo": "Servicio de coctel Programa mujeres jefas de hogar \"juntos crecemos\", DIDECO, sm 002412",
-      "monto": 300000,
-      "dias": 1,
-      "cierre": "2026-10-12",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "3892-350-COT26",
       "org": "I MUNICIPALIDAD DE LEBU",
       "titulo": "SERVICIO DESAYUNO ALUMNOS QUE RINDEN SIMCE 2026",
@@ -1753,19 +1714,6 @@
       "probabilidad": 56
     },
     {
-      "codigo": "568658-1472-COT26",
-      "org": "CORPORACION MUNICIPAL VINA DEL MAR PARA EL DESARROLLO SOCIAL",
-      "titulo": " COFFEE BREAK, FUC 2-591-1519-26, ESPACIO AMIGABLE ADOLESCENTE, (22-08-011) SERVICIOS DE PRODUCCIÓN Y DESARROLLO DE EVENTOS, DIRECC. SALUD, CC: 591-6 (COF)",
-      "monto": 478930,
-      "dias": 0,
-      "cierre": "2026-10-11",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2704-1869-COT26",
       "org": "UNIVERSIDAD DEL BIO BIO",
       "titulo": " SC 6417 SERVICIO DE COFFE 14-10",
@@ -1773,6 +1721,32 @@
       "dias": 0,
       "cierre": "2026-10-11",
       "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "847-77-COT26",
+      "org": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+      "titulo": "GESDEP - Servicio de Coffe Break para Jornada de Capacitación JUNJI, región de Valparaíso_SC 61.396",
+      "monto": 342018,
+      "dias": 0,
+      "cierre": "2026-10-12",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1756-118-COT26",
+      "org": "MINEDUC ADMINISTRACION VIII REGION",
+      "titulo": "CONTRATACIÓN SERVICIO DE ALMUERZO Y CAFÉ PARA JORNADA REGIONAL DEL 26/11/2026",
+      "monto": 370000,
+      "dias": 0,
+      "cierre": "2026-10-12",
+      "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
       "momento": "am",
@@ -1827,6 +1801,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1638-769-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE DIEGO DE ALMAGRO",
+      "titulo": "Servicio de coctel Programa mujeres jefas de hogar \"juntos crecemos\", DIDECO, sm 002412",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-10-12",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -2329,13 +2316,13 @@
       "org": "I MUNICIPALIDAD ESTACION CENTRAL",
       "titulo": "SOL692-SEGURIDAD-INSUMOS COFFE PROG. POR UN BARRIO MAS SEGURO.",
       "monto": 400000,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-10-12",
       "keyword": "COFFE",
       "ofertas_actuales": 5,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 32
+      "probabilidad": 30
     }
   ]
 }
