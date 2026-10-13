@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-12T21:00+00:00",
+  "generado": "2026-10-13T02:33+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -28,13 +28,13 @@
       "org": "DEPARTAMENTO PROVINCIAL DE EDUCACION EL LOA",
       "titulo": "Servicio de Coffe para reunión de red de mejoramiento para 60 profesores de religión evangélica ",
       "monto": 550000,
-      "dias": 10,
+      "dias": 9,
       "cierre": "2026-10-22",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
       "momento": "am",
-      "probabilidad": 75
+      "probabilidad": 73
     },
     {
       "codigo": "1483-70-COT26",
@@ -89,19 +89,6 @@
       "probabilidad": 61
     },
     {
-      "codigo": "3892-350-COT26",
-      "org": "I MUNICIPALIDAD DE LEBU",
-      "titulo": "SERVICIO DESAYUNO ALUMNOS QUE RINDEN SIMCE 2026",
-      "monto": 1500000,
-      "dias": 3,
-      "cierre": "2026-10-16",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
       "codigo": "2930-140-COT26",
       "org": "I MUNICIPALIDAD DE PALENA",
       "titulo": "COFFEE BREAK - PROGRAMA PROMOCIÓN DE SALUD",
@@ -150,6 +137,19 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "3892-350-COT26",
+      "org": "I MUNICIPALIDAD DE LEBU",
+      "titulo": "SERVICIO DESAYUNO ALUMNOS QUE RINDEN SIMCE 2026",
+      "monto": 1500000,
+      "dias": 2,
+      "cierre": "2026-10-16",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -280,19 +280,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1078171-23-COT26",
-      "org": "COMISION NACIONAL DE RIEGO",
-      "titulo": "E102RT8 Convenio CNR-Gore Los Ríos. Requiere servicio de catering en actividades de capacitaciones de agricultores en la comuna de Máfil. ",
-      "monto": 2600000,
-      "dias": 1,
-      "cierre": "2026-10-13",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 57
     },
@@ -1103,6 +1090,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1078171-23-COT26",
+      "org": "COMISION NACIONAL DE RIEGO",
+      "titulo": "E102RT8 Convenio CNR-Gore Los Ríos. Requiere servicio de catering en actividades de capacitaciones de agricultores en la comuna de Máfil. ",
+      "monto": 2600000,
+      "dias": 0,
+      "cierre": "2026-10-13",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2923-800-COT26",
       "org": "I MUNICIPALIDAD DE CHANARAL",
       "titulo": "SERVICIO DE CATERING / COCTEL BRINDIS ANIVERSARIO.",
@@ -1363,19 +1363,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1028897-701-COT26",
-      "org": "SERVICIO LOCAL DE EDUCACION COSTA ARAUCANIA",
-      "titulo": "ADQUISICIÓN DE IMPLEMENTOS PARA HÁBITO DE VIDA SALUDABLE Y RECREOS ACTIVOS COMPLEJO NUEVA ALBORADA - RBD 6398. TEODORO SCHMIDT",
-      "monto": 7149200,
-      "dias": 0,
-      "cierre": "2026-10-12",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3200-372-COT26",
       "org": "I MUNICIPALIDAD DE LONCOCHE",
       "titulo": "ADQUISICIÓN DEL SERVICIO DE CÓCTEL SALUDABLE.",
@@ -1439,6 +1426,19 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 52
+    },
+    {
+      "codigo": "3888-963-COT26",
+      "org": "Ilustre Municipalidad de San Juan de la Costa",
+      "titulo": "SERVICIO DE COFFEE BREAK",
+      "monto": 2500000,
+      "dias": 0,
+      "cierre": "2026-10-13",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 1,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 50
     },
     {
       "codigo": "2830-2-COT26",
