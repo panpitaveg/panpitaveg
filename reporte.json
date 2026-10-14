@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-14T16:44+00:00",
+  "generado": "2026-10-14T20:33+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -50,6 +50,32 @@
       "probabilidad": 61
     },
     {
+      "codigo": "2062-147-COT26",
+      "org": "Departamento Provincial de Educación de Cachapoal",
+      "titulo": "COMPRA PROYECTO VIDA ACTIVA Y SALUDABLE LICEO FRANCISCO TELLO (ART. DEPORTIVOS)",
+      "monto": 1850000,
+      "dias": 1,
+      "cierre": "2026-10-16",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "4103-147-COT26",
+      "org": "I MUNICIPALIDAD DE GORBEA",
+      "titulo": "SERVICIO DE BANQUETERIA",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-10-15",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2585-1373-COT26",
       "org": "I MUNICIPALIDAD DE ARICA",
       "titulo": "ADQ. DE SERVICIO DE BANQUETERIA  ORD N°1456 SECPLAN -QUIERO MI BARRIO",
@@ -76,19 +102,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "552975-369-COT26",
-      "org": "CORP DE DESARROLLO SOCIAL DE PROVIDENCIA",
-      "titulo": "SERVICIO DE BANQUETERIA",
-      "monto": 1750000,
-      "dias": 0,
-      "cierre": "2026-10-14",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3764-546-COT26",
       "org": "I MUNICIPALIDAD DE NANCAGUA",
       "titulo": "SERVICIO DE BANQUETERIA PARA MALON DE INTEGRACION PROGRAMA VINCULOS",
@@ -98,19 +111,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1469-3431-COT26",
-      "org": "UNIVERSIDAD DE TALCA",
-      "titulo": "20-44459 SERVICIO DE COFFE Y BRUNCH ",
-      "monto": 549000,
-      "dias": 0,
-      "cierre": "2026-10-14",
-      "keyword": "BRUNCH",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -180,19 +180,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "3000-1172-COT26",
-      "org": "I MUNICIPALIDAD DE MONTEPATRIA",
-      "titulo": "PRODUCTOS PARA COFFEE BREACK - FOMIL - OFICINA DE LA JUVENTUD - DIDECO",
-      "monto": 1850000,
-      "dias": 0,
-      "cierre": "2026-10-14",
-      "keyword": "BREACK",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3730-246-COT26",
       "org": "I MUNICIPALIDAD DE CHIMBARONGO",
       "titulo": "CONTRATACION DE LOS SERVICIOS DE BANQUETERIA, PROG. DE 4 A 7 ",
@@ -206,12 +193,64 @@
       "probabilidad": 50
     },
     {
-      "codigo": "1218393-236-COT26",
-      "org": "CONSULTORIO EXTERNO VALDIVIA",
-      "titulo": "Insumos para taller de cocina saludable CESFAM Externo Valdivia",
-      "monto": 128000,
+      "codigo": "3000-1172-COT26",
+      "org": "I MUNICIPALIDAD DE MONTEPATRIA",
+      "titulo": "PRODUCTOS PARA COFFEE BREACK - FOMIL - OFICINA DE LA JUVENTUD - DIDECO",
+      "monto": 1850000,
       "dias": 0,
-      "cierre": "2026-10-14",
+      "cierre": "2026-10-15",
+      "keyword": "BREACK",
+      "ofertas_actuales": 1,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
+      "codigo": "630424-634-COT26",
+      "org": "I MUNICIPALIDAD DE LAGO RANCO",
+      "titulo": "COMPRA INSUMOS DE ALIMENTOS PARA TALLER SALUDABLE ESCUELA RURAL QUILLÍN",
+      "monto": 250000,
+      "dias": 1,
+      "cierre": "2026-10-16",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "630424-633-COT26",
+      "org": "I MUNICIPALIDAD DE LAGO RANCO",
+      "titulo": "COMPRA IMPLEMENTOS PARA TALLER SALUDABLE ESCUELA RURAL QUILLÍN",
+      "monto": 30000,
+      "dias": 1,
+      "cierre": "2026-10-16",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "630424-632-COT26",
+      "org": "I MUNICIPALIDAD DE LAGO RANCO",
+      "titulo": "COMPRA IMPLEMENTOS PARA TALLER SALUDABLE ESCUELA RURAL PITREÑO",
+      "monto": 30000,
+      "dias": 0,
+      "cierre": "2026-10-15",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "630424-631-COT26",
+      "org": "I MUNICIPALIDAD DE LAGO RANCO",
+      "titulo": "COMPRA INSUMOS DE ALIMENTOS PARA TALLER SALUDABLE ESCUELA RURAL PITREÑO",
+      "monto": 30000,
+      "dias": 0,
+      "cierre": "2026-10-15",
       "keyword": "SALUDABLE",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
