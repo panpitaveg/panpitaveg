@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-14T23:47+00:00",
+  "generado": "2026-10-15T03:47+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -111,19 +111,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "3892-350-COT26",
-      "org": "I MUNICIPALIDAD DE LEBU",
-      "titulo": "SERVICIO DESAYUNO ALUMNOS QUE RINDEN SIMCE 2026",
-      "monto": 1500000,
-      "dias": 1,
-      "cierre": "2026-10-16",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -488,6 +475,19 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "3892-350-COT26",
+      "org": "I MUNICIPALIDAD DE LEBU",
+      "titulo": "SERVICIO DESAYUNO ALUMNOS QUE RINDEN SIMCE 2026",
+      "monto": 1500000,
+      "dias": 0,
+      "cierre": "2026-10-16",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
