@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-16T22:38+00:00",
+  "generado": "2026-10-17T01:10+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -23,19 +23,6 @@
   ],
   "dias_atras": 7,
   "licitaciones": [
-    {
-      "codigo": "918434-278-COT26",
-      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
-      "titulo": "D5345 Contratación de Servicios de Cafetería para actividades de Octubre a Diciembre 2026 que indica, de Seremi de Arica y Parinacota.",
-      "monto": 935000,
-      "dias": 4,
-      "cierre": "2026-10-21",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 63
-    },
     {
       "codigo": "2658-1332-COT26",
       "org": "I MUNICIPALIDAD DE ANCUD",
@@ -108,22 +95,9 @@
       "monto": 6500000,
       "dias": 3,
       "cierre": "2026-10-20",
-      "keyword": "CAFETERÍA",
+      "keyword": "BRUNCH",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
-      "codigo": "1398-567-COT26",
-      "org": "SERVICIO DE SALUD LIBERTADOR BDO OHIGGINS",
-      "titulo": "Adquisición de Insumos de Cafetería Economato Mes de Octubre",
-      "monto": 1190595,
-      "dias": 3,
-      "cierre": "2026-10-20",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 61
     },
@@ -284,71 +258,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "1692-598-COT26",
-      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
-      "titulo": "SERVICIO DE CAFETERÍA PARA CURSO AUTOCUIDADO Y CULTURA DE BIENESTAR EN LA ORGANIZACIÓN, A REALIZARSE LOS DÍAS 27 Y 28 DE OCTUBRE DE 2026",
-      "monto": 650000,
-      "dias": 2,
-      "cierre": "2026-10-19",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Aysén del General Carlos Ibáñez del Campo",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1395-424-COT26",
-      "org": "SERVICIO DE SALUD COQUIMBO",
-      "titulo": "Contratación de los servicios logísticos (salón, amplificación, proyector, notebook y cafetería) para el desarrollo de la “Jornada Macrozonal Norte Chile Crece Contigo”  - 04 y 05 noviembre 2026",
-      "monto": 6783000,
-      "dias": 2,
-      "cierre": "2026-10-19",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1153624-49-COT26",
-      "org": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
-      "titulo": "SERVICIO DE CAFETERÍA ENCUENTRO REGIONAL MULTIACTOR EN ANTOFAGASTA",
-      "monto": 500000,
-      "dias": 2,
-      "cierre": "2026-10-19",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "2092-95-COT26",
-      "org": "Departamento Provincial de Educación Valparaíso - Isla de Pascua",
-      "titulo": "Compra insumos cafetería SAAT Centro Estudios San Ignacio Villa Alemana",
-      "monto": 1100000,
-      "dias": 2,
-      "cierre": "2026-10-19",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1057532-531-COT26",
-      "org": "SERVICIO DE SALUD OSORNO",
-      "titulo": "F1-256-26-DCR/Servicios de Cafetería para Jornada de Sensibilización Kümelen y Ayekan/Programa especial de Salud y Pueblos Indígenas",
-      "monto": 400000,
-      "dias": 2,
-      "cierre": "2026-10-19",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "1069417-1317-COT26",
       "org": "Dirección  de Salud Municipal Chillán",
       "titulo": "Alimentos Saludables para ser entregados en Actividad “Hitos Comunicacionales Priorizando Hábitos Saludables: Alimentación Saludable, Actividad Física y Salud Mental”, con cago a Convenio Promoción.",
@@ -388,32 +297,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "1320310-65-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Cafetería movil y servicios de alimentación Concierto Emily Wittbrodt",
-      "monto": 810000,
-      "dias": 1,
-      "cierre": "2026-10-18",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "895072-126-COT26",
-      "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
-      "titulo": " Servicio de cafetería para Jornada Regional Atacama",
-      "monto": 300000,
-      "dias": 1,
-      "cierre": "2026-10-18",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "5586-2763-COT26",
       "org": "UNIVERSIDAD DE LA FRONTERA",
       "titulo": "J/T Servicio de coctel",
@@ -436,45 +319,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1395-425-COT26",
-      "org": "SERVICIO DE SALUD COQUIMBO",
-      "titulo": "Servicio de Cafetería para la atención de participantes de dos (2) jornadas Comunales MhGAP Monte Patria y Punitaqui, Jornada AM y PM",
-      "monto": 1017678,
-      "dias": 0,
-      "cierre": "2026-10-17",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2307-488-COT26",
-      "org": "I MUNICIPALIDAD DE OSORNO",
-      "titulo": "EQUIPAMIENTO AUDIOVISUAL, ACCESORIOS ELÉCTRICOS Y ARTÍCULOS DE CAFETERÍA - PROG. MAS SALUD EN COMUNIDAD Y TELESALUD(REQ.3951-3979) AAL",
-      "monto": 573215,
-      "dias": 0,
-      "cierre": "2026-10-17",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4017-106-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE PUTRE",
-      "titulo": "ADQ. SERVICIO DE CAFETERÍA, PLAN DE PARTICIPACIÓN SOCIAL CESFAM PUTRE.",
-      "monto": 800000,
-      "dias": 0,
-      "cierre": "2026-10-17",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 55
     },
@@ -503,19 +347,6 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "2074-44-COT26",
-      "org": "Departamento Provincial de Educación de Magallanes",
-      "titulo": "Requerimiento de cotización para servicio  de cafetería para 15 pp, dia 06 de Nov en la ciudad de NATALES . ",
-      "monto": 130000,
-      "dias": 4,
-      "cierre": "2026-10-21",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 53
     },
     {
       "codigo": "3682-494-COT26",
@@ -583,19 +414,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "895072-127-COT26",
-      "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
-      "titulo": "Servicio de Cafetería para Jornada Región Metropolitana",
-      "monto": 280000,
-      "dias": 2,
-      "cierre": "2026-10-19",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
       "codigo": "4051-111-COT26",
       "org": "I MUNICIPALIDAD DE OLLAGUE",
       "titulo": "servicio de Coffe-break alimentación saludable taller salud ",
@@ -644,19 +462,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 2,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "5251-1126-COT26",
-      "org": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
-      "titulo": " Insumos de cafetería Escuela Trabajo Social",
-      "monto": 180000,
-      "dias": 0,
-      "cierre": "2026-10-17",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 45
     }
