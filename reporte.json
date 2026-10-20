@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-20T01:39+00:00",
+  "generado": "2026-10-20T04:01+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -50,19 +50,6 @@
       "probabilidad": 61
     },
     {
-      "codigo": "972845-19-COT26",
-      "org": "SII Oficina de Bienestar",
-      "titulo": "CA-5305 Coffee y salón para evento de desayuno para jubilados afiliados a Bienestar",
-      "monto": 600000,
-      "dias": 3,
-      "cierre": "2026-10-23",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
       "codigo": "4733-407-COT26",
       "org": "I MUNICIPALIDAD DE LAS GUAITECAS",
       "titulo": "COCKTAIL FONDO DE MEDIOS",
@@ -72,19 +59,6 @@
       "keyword": "COCKTAIL",
       "ofertas_actuales": 0,
       "region": "Región Aysén del General Carlos Ibáñez del Campo",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1271357-90-COT26",
-      "org": "Corporación Municipal de Desarrollo Social Lampa",
-      "titulo": "MEMO 362/ CAJAS DE DESAYUNO / EDUCACION / E. MANUEL SEGOVIA",
-      "monto": 2224000,
-      "dias": 2,
-      "cierre": "2026-10-22",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 59
     },
@@ -440,84 +414,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1516-303-COT26",
-      "org": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CORDILLERA",
-      "titulo": "SERVICIO DE ALIMENTACIÓN (DESAYUNO Y CENA) - PLAN RUTA CALLE 2026",
-      "monto": 3500000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4487-176-COT26",
-      "org": "I MUNICIPALIDAD DE NEGRETE DEPARTAMENTO COMUNAL DE EDUCACION",
-      "titulo": "DESAYUNO PARA ALUMNOS Y EQUIPO CONVIVENCIA ESCOLAR ESCUELA VAQUERIA",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5586-2808-COT26",
-      "org": "UNIVERSIDAD DE LA FRONTERA",
-      "titulo": "J/T Servicio de Desayuno",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "607764-18-COT26",
-      "org": "MOP-BIENESTAR- VI REGION",
-      "titulo": "Desayuno para personas afilidas pasivas del Servicio de Bienestar MOP ",
-      "monto": 350000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1978-407-COT26",
-      "org": "SERVICIO DE SALUD DEL MAULE",
-      "titulo": "SERVICIO DE HOTELERIA (ALOJAMIENTO, DESAYUNO Y CENA)",
-      "monto": 2000000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3156-312-COT26",
-      "org": "ESCUELA DE GRUMETES",
-      "titulo": "ADQUISICION DE HUEVOS PARA DESAYUNO",
-      "monto": 800000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1532-341-COT26",
       "org": "CENTRO REFERENCIAL DE SALUD DR SALVADOR ALLENDE GOSSENS",
       "titulo": "req 673 - servicio de cafetería para el 13 de noviembre",
@@ -700,19 +596,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "425-404-COT26",
-      "org": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
-      "titulo": "SERVICIO DE DESAYUNO PARA 22 PERSONAS",
-      "monto": 250000,
-      "dias": 1,
-      "cierre": "2026-10-21",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "1320310-65-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "Cafetería movil y servicios de alimentación Concierto Emily Wittbrodt",
@@ -761,58 +644,6 @@
       "keyword": "COCKTAIL",
       "ofertas_actuales": 0,
       "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1057533-285-COT26",
-      "org": "HOSPITAL DEL PERPETUO SOCORRO DE QUILACAHUIN",
-      "titulo": "FSC-154-26| DRO| DESAYUNO INTERCULTURAL",
-      "monto": 45000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "2788-525-COT26",
-      "org": "I MUNICIPALIDAD DE PAINE",
-      "titulo": "SERVICIO DE DESAYUNO",
-      "monto": 100000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "5865-151-COT26",
-      "org": "UNIVERSIDAD DE TARAPACA",
-      "titulo": "Se solicita desayuno para 9 personas o equivalente, autocuidado del equipo del Programa Habilidades para la Vida I de la Escuela Trabajo Social",
-      "monto": 100000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "3682-494-COT26",
-      "org": "I MUNICIPALIDAD DE SALAMANCA",
-      "titulo": "ADQUIRIR ALIMENTOS Y/O INSUMOS DESAYUNO MENSUAL DE LA UCAM",
-      "monto": 120000,
-      "dias": 0,
-      "cierre": "2026-10-20",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 45
     },
