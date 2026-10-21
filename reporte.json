@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-20T23:42+00:00",
+  "generado": "2026-10-21T03:51+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -24,6 +24,19 @@
   "dias_atras": 7,
   "licitaciones": [
     {
+      "codigo": "1057531-151-COT26",
+      "org": "SERVICIO NACIONAL DE SALUD HOSPITAL DE RIO NEGRO",
+      "titulo": "SERVICIO DE CATERING PARA 30 PERSONAS, INCLUYENDO BOCADOS SALADOS, BOCADOS DULCES, CAFÉ, TÉ E INFUSIONES, JUGO, AGUAS MINERALES INDIVIDUALES, AZÚCAR, ENDULZANTE Y LECHE, SEGÚN DETALLES EN ADJUNTO.",
+      "monto": 450000,
+      "dias": 5,
+      "cierre": "2026-10-26",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 65
+    },
+    {
       "codigo": "2381-943-COT26",
       "org": "I MUNICIPALIDAD DE COPIAPO",
       "titulo": "ARRIENDO DE SALÓN Y SERVICIO DE COFFEE BREAK PARA JORNADA DE ESTRATEGIA SALUDABLE.",
@@ -35,6 +48,45 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 65
+    },
+    {
+      "codigo": "707420-74-COT26",
+      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
+      "titulo": "Fundación Integra requiere la compra de cajas archivo Memphis Largo 450 mm, Ancho 36 mm,  Alto 295 mm., cartón café.",
+      "monto": 7000000,
+      "dias": 2,
+      "cierre": "2026-10-23",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1108660-39-COT26",
+      "org": "FUND DE COMUNICACIONES CAPACITACION Y CULTURA DEL AGRO",
+      "titulo": "Servicio de café para la reunión anual del Jurado",
+      "monto": 400000,
+      "dias": 2,
+      "cierre": "2026-10-23",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2020-207-COT26",
+      "org": "Biblioteca del Congreso Nacional",
+      "titulo": "Adquisición de Café, Azúcar y Té para jornadas de trabajo, reuniones y actividades oficiales de la BCN",
+      "monto": 3300000,
+      "dias": 2,
+      "cierre": "2026-10-23",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
     },
     {
       "codigo": "972845-19-COT26",
@@ -61,6 +113,19 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 59
+    },
+    {
+      "codigo": "2658-1373-COT26",
+      "org": "I MUNICIPALIDAD DE ANCUD",
+      "titulo": "CAFÉ, AZÚCAR, OTROS",
+      "monto": 3500000,
+      "dias": 1,
+      "cierre": "2026-10-22",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 57
     },
     {
       "codigo": "4777-835-COT26",
@@ -321,6 +386,32 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 57
+    },
+    {
+      "codigo": "5148-182-COT26",
+      "org": "MINISTERIO PUBLICO",
+      "titulo": "SERVICIO DE CAFÉ – Cursos de capacitación Academia de la Fiscalía",
+      "monto": 1150000,
+      "dias": 0,
+      "cierre": "2026-10-21",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2859-1223-COT26",
+      "org": "UNIVERSIDAD DE ATACAMA",
+      "titulo": "Adquisición insumos para estación de café",
+      "monto": 420000,
+      "dias": 0,
+      "cierre": "2026-10-21",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
     },
     {
       "codigo": "2013-1756-COT26",
@@ -765,6 +856,32 @@
       "probabilidad": 47
     },
     {
+      "codigo": "3877-528-COT26",
+      "org": "I MUNICIPALIDAD DE LAMPA",
+      "titulo": "ADQUISICIÓN DE CAFÉ Y AZÚCAR PARA TALLERES DE OFICIO DEL PROGRAMA MUJERES JEFAS DE HOGAR 2026 - DIDECO",
+      "monto": 67686,
+      "dias": 0,
+      "cierre": "2026-10-21",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2658-1343-COT26",
+      "org": "I MUNICIPALIDAD DE ANCUD",
+      "titulo": "CAFÉ, TÉ, OTROS",
+      "monto": 130000,
+      "dias": 0,
+      "cierre": "2026-10-21",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "4519-283-COT26",
       "org": "I MUNICIPALIDAD DE TREHUACO",
       "titulo": "SERVICIO DE COCTEL PARA 50 PERSONAS ",
@@ -854,6 +971,19 @@
       "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
+    },
+    {
+      "codigo": "5188-417-COT26",
+      "org": "SERVICIO SALUD OCCIDENTE HOSPITAL DR FELIX BULNES CERDA",
+      "titulo": "ADQUISICION DE BOLSA DE KILO CAFÉ /CHOCOLATE /CREMA DE LECHE PARA MAQUINA PROYECTO MEL",
+      "monto": 765581,
+      "dias": 0,
+      "cierre": "2026-10-21",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 3,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 40
     }
   ]
 }
