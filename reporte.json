@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-23T23:47+00:00",
+  "generado": "2026-10-24T03:47+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1142,19 +1142,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "872535-501-COT26",
-      "org": "I MUNICIPALIDAD DE TENO",
-      "titulo": "ADQUISICIÓN DE SERVICIO DE COFFEE BREAK (ONCE) PARA 400 PERSONAS ACTIVIDAD CELEBRACIÓN DEL MES DEL ADULTO MAYOR.",
-      "monto": 5050000,
-      "dias": 1,
-      "cierre": "2026-10-25",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "889473-2329-COT26",
       "org": "UNIVERSIDAD DE O'HIGGINS",
       "titulo": "SC 9452 - Servicio de Coffe",
@@ -1259,6 +1246,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "5492-36-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Arriendo de salón, servicios de café, almuerzo y alojamiento para Seminario Taller Salud mental adolescente y prevención del riesgo suicida en contextos educativos para la JUNAEB en Pto. Montt, Región",
+      "monto": 4441284,
+      "dias": 1,
+      "cierre": "2026-10-25",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "2380-2261-COT26",
       "org": "I MUNICIPALIDAD DE COPIAPO",
       "titulo": "SERVICIO DE ARRIENDO DE SALÓN PARA 60 PERSONAS CON COFFEE BREAK - ADMINISTRACIÓN E INFORMÁTICA - OS 155078 - G.A.C",
@@ -1281,6 +1281,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "872535-501-COT26",
+      "org": "I MUNICIPALIDAD DE TENO",
+      "titulo": "ADQUISICIÓN DE SERVICIO DE COFFEE BREAK (ONCE) PARA 400 PERSONAS ACTIVIDAD CELEBRACIÓN DEL MES DEL ADULTO MAYOR.",
+      "monto": 5050000,
+      "dias": 0,
+      "cierre": "2026-10-25",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1428,19 +1441,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5492-36-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Arriendo de salón, servicios de café, almuerzo y alojamiento para Seminario Taller Salud mental adolescente y prevención del riesgo suicida en contextos educativos para la JUNAEB en Pto. Montt, Región",
-      "monto": 4441284,
-      "dias": 0,
-      "cierre": "2026-10-23",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "5586-2860-COT26",
       "org": "UNIVERSIDAD DE LA FRONTERA",
       "titulo": "J/T Insumos para café",
@@ -1528,19 +1528,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "4044-624-COT26",
-      "org": "I MUNICIPALIDAD DE ISLA DE PASCUA",
-      "titulo": "COMPRA DE INSUMOS PARA SERVICIO DE BANQUETERIA PARA EL DIA DEL FUNCIONARIO MUNICIPAL",
-      "monto": 7000000,
-      "dias": 0,
-      "cierre": "2026-10-24",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -2104,19 +2091,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "2805-598-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE LLANQUIHUE-DEPTO. DE SALUD",
-      "titulo": "COMPRA DE SERVICIO DE COFFE BREAK PROG. PROMOCION ",
-      "monto": 150000,
-      "dias": 1,
-      "cierre": "2026-10-25",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "1469-3666-COT26",
       "org": "UNIVERSIDAD DE TALCA",
       "titulo": "20-44909 Servicio Coffee Break Focus Group",
@@ -2178,6 +2152,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2805-598-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE LLANQUIHUE-DEPTO. DE SALUD",
+      "titulo": "COMPRA DE SERVICIO DE COFFE BREAK PROG. PROMOCION ",
+      "monto": 150000,
+      "dias": 0,
+      "cierre": "2026-10-25",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 45
     },
