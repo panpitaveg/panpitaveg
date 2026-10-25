@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-25T18:46+00:00",
+  "generado": "2026-10-25T21:30+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -553,32 +553,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "889473-2329-COT26",
-      "org": "UNIVERSIDAD DE O'HIGGINS",
-      "titulo": "SC 9452 - Servicio de Coffe",
-      "monto": 450000,
-      "dias": 0,
-      "cierre": "2026-10-25",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2704-2034-COT26",
-      "org": "UNIVERSIDAD DEL BIO BIO",
-      "titulo": "SE 7117 SERVICIO COFFE 03-11",
-      "monto": 576000,
-      "dias": 0,
-      "cierre": "2026-10-25",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
