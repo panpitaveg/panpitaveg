@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-28T01:01+00:00",
+  "generado": "2026-10-28T04:41+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1216,6 +1216,45 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "633470-224-COT26",
+      "org": "UNIVERSIDAD DE VALPARAISO",
+      "titulo": "PAQUETES DE CAFÉ EN GRANO - FACULTAD DE INGENIERÍA",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-10-28",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5492-37-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "Servicio de café de pausa para Taller de Liderazgo - SERPAT",
+      "monto": 352000,
+      "dias": 0,
+      "cierre": "2026-10-28",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "837-392-COT26",
+      "org": "SERVICIO MEDICO LEGAL",
+      "titulo": "CDP 690 Servicio de café para 80 a 100 personas",
+      "monto": 1000000,
+      "dias": 0,
+      "cierre": "2026-10-28",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
