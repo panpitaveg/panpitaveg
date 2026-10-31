@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-31T01:31+00:00",
+  "generado": "2026-10-31T04:40+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -128,6 +128,19 @@
       "probabilidad": 65
     },
     {
+      "codigo": "2092-118-COT26",
+      "org": "Departamento Provincial de Educación Valparaíso - Isla de Pascua",
+      "titulo": "Compra catering CEIA Viña del Mar",
+      "monto": 650000,
+      "dias": 5,
+      "cierre": "2026-11-05",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 65
+    },
+    {
       "codigo": "1002588-108-COT26",
       "org": "SERVICIO LOCAL DE EDUCACION DE PUERTO CORDILLERA",
       "titulo": "Servicio de desayuno para el 25 y 26 de noviembre, para estudiantes por actividades de cierre de procesos educativos; Liceo Diego Portales",
@@ -189,6 +202,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 63
+    },
+    {
+      "codigo": "2092-119-COT26",
+      "org": "Departamento Provincial de Educación Valparaíso - Isla de Pascua",
+      "titulo": "Compra catering Red Valquimar",
+      "monto": 700000,
+      "dias": 4,
+      "cierre": "2026-11-04",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 63
     },
@@ -345,6 +371,45 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "867990-783-COT26",
+      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+      "titulo": "4 Servicio de catering. ",
+      "monto": 2364000,
+      "dias": 3,
+      "cierre": "2026-11-03",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "867990-785-COT26",
+      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+      "titulo": "Servicio de catering.",
+      "monto": 752080,
+      "dias": 3,
+      "cierre": "2026-11-03",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "591376-35-COT26",
+      "org": "INSTITUTO DE DESARROLLO AGROPECUARIO",
+      "titulo": "Servicio de catering   para actividad jornada de \"CHARLA SOBRE INSTRUMENTOS DE FOMENTO PARA EL DESARROLLO PRODUCTIVO RURAL\"",
+      "monto": 300000,
+      "dias": 3,
+      "cierre": "2026-11-03",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 61
     },
@@ -960,6 +1025,45 @@
       "probabilidad": 59
     },
     {
+      "codigo": "630-167-COT26",
+      "org": "SUBSECRETARIA DEL TRABAJO",
+      "titulo": "2 SERVICIOS DE CATERING PARA JORNADA DE ARTICULACIÓN Y PLANIFICACIÓN ",
+      "monto": 2000000,
+      "dias": 2,
+      "cierre": "2026-11-02",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1220157-36-COT26",
+      "org": "Servicio de Gobierno Interior",
+      "titulo": "GSL - Servicio de Catering (E1O2RT9) Región de la Araucanía",
+      "monto": 1500000,
+      "dias": 2,
+      "cierre": "2026-11-02",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "867990-777-COT26",
+      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+      "titulo": " Servicio de catering",
+      "monto": 428400,
+      "dias": 2,
+      "cierre": "2026-11-02",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "4062-894-COT26",
       "org": "I MUNICIPALIDAD DE MARIQUINA",
       "titulo": "SERVICIO DE COCTEL PARA EL DIA 07.11.2026 \" EXPO ARTESANOS \"",
@@ -1168,32 +1272,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "5349-527-COT26",
-      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
-      "titulo": "ADQUISICIÓN DE SERVICIO DE COFFE BREAK CON IDENTIDAD INDÍGENA PARA TALLERES PROGRAMA PESPI 2026",
-      "monto": 720000,
-      "dias": 1,
-      "cierre": "2026-11-01",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2450-945-COT26",
-      "org": "I MUNICIPALIDAD DE LA SERENA",
-      "titulo": "SERVICIO DE CAFÉ MEJORADO. I. MUNICIPALIDAD DE LA SERENA.",
-      "monto": 500000,
-      "dias": 1,
-      "cierre": "2026-11-01",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "3447-488-COT26",
       "org": "MUNICIPALIDAD DE ALTO HOSPICIO",
       "titulo": "Adquisición de Coctelería para Programa Mujeres, Derechos Sexuales y Reproductivos ",
@@ -1307,19 +1385,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1053139-157-COT26",
-      "org": "UNIVERSIDAD DE TARAPACA",
-      "titulo": "Servicio de alimentación (coffee break y almuerzo) para la actividad del Proyecto de Vinculación con el medio 8802-26.",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-10-30",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1450,6 +1515,58 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "5349-527-COT26",
+      "org": "HOSPITAL PROVINCIAL   DEL HUASCO MSR FERNANDO ARIZTIA RUIZ",
+      "titulo": "ADQUISICIÓN DE SERVICIO DE COFFE BREAK CON IDENTIDAD INDÍGENA PARA TALLERES PROGRAMA PESPI 2026",
+      "monto": 720000,
+      "dias": 0,
+      "cierre": "2026-11-01",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2450-945-COT26",
+      "org": "I MUNICIPALIDAD DE LA SERENA",
+      "titulo": "SERVICIO DE CAFÉ MEJORADO. I. MUNICIPALIDAD DE LA SERENA.",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-11-01",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1485942-15-COT26",
+      "org": "BAJ Biobío",
+      "titulo": "Catering Balmafest",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-10-31",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2674-914-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE MELIPILLA",
+      "titulo": "SERVICIO DE CATERING PARA LA INAUGURACION PLAZA VILLA TAL TAL A Y PLAZA VICENTE ELGUETA",
+      "monto": 1700000,
+      "dias": 0,
+      "cierre": "2026-10-31",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1753,19 +1870,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "511451-205-COT26",
-      "org": "UNIVERSIDAD DE ATACAMA",
-      "titulo": "SE REQUIERE SERVICIO DE COFFEE BREAK  - CEE CJ",
-      "monto": 200000,
-      "dias": 1,
-      "cierre": "2026-11-01",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "2424-1921-COT26",
       "org": "I MUNICIPALIDAD DE VINA DEL MAR",
       "titulo": "ALIMENTOS P/COFFEE (JFO) 4704/P.277 GRUPOS PRIORITARIOS",
@@ -1792,6 +1896,19 @@
       "probabilidad": 45
     },
     {
+      "codigo": "511451-205-COT26",
+      "org": "UNIVERSIDAD DE ATACAMA",
+      "titulo": "SE REQUIERE SERVICIO DE COFFEE BREAK  - CEE CJ",
+      "monto": 200000,
+      "dias": 0,
+      "cierre": "2026-11-01",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "769-267-COT26",
       "org": "SERVICIO DE SALUD ANTOFAGASTA DIRECCION",
       "titulo": "SC 687 SERVICIO DE COFFE PARA 50 PERSONAS EN CALAMA SEGUN ESPECIFICACIONES TECNICAS ADJUNTAS",
@@ -1814,6 +1931,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "5626-880-COT26",
+      "org": "UNIVERSIDAD DE VALPARAISO",
+      "titulo": "CATERING 6-11 CENTRO DE INVESTIGACION - A.G",
+      "monto": 290000,
+      "dias": 0,
+      "cierre": "2026-10-31",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 45
     },
