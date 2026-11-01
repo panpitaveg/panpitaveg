@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-10-31T23:58+00:00",
+  "generado": "2026-11-01T05:01+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -436,19 +436,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "792899-32-COT26",
-      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
-      "titulo": "Servicio de catering integral  Jornada Cuidado de Equipos",
-      "monto": 700321,
-      "dias": 2,
-      "cierre": "2026-11-02",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -1311,6 +1298,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "792899-32-COT26",
+      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
+      "titulo": "Servicio de catering integral  Jornada Cuidado de Equipos",
+      "monto": 700321,
+      "dias": 1,
+      "cierre": "2026-11-02",
+      "keyword": "CATERING",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "2031-82-COT26",
       "org": "Departamento Provincial de Educación Antofagasta",
       "titulo": "SERVICIO DE ALOJAMIENTO, ALIMENTACION Y CATERING 17 Y 18 DE NOVIEMBRE",
@@ -1385,32 +1385,6 @@
       "keyword": "CATERING",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "3332-95-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE ALTO DEL CARMEN",
-      "titulo": "ALIMENTACIÓN Y CATERING PESPI",
-      "monto": 1300000,
-      "dias": 1,
-      "cierre": "2026-11-02",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "5531-172-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "Servicio de catering, arriendo de salón y equipamiento tecnológico para el desarrollo de los talleres HDI y HDII",
-      "monto": 5236426,
-      "dias": 1,
-      "cierre": "2026-11-02",
-      "keyword": "CATERING",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -1701,19 +1675,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1485-77-COT26",
-      "org": "Departamento Provincial de Educación Bío Bío",
-      "titulo": "servicio de catering y colaciones destinado a 3 actividades (jornada con estudiantes y procesos de constatación de competencias del Programa de Educación Intercultural Bilingüe) organizadas por el Dep",
-      "monto": 2500080,
-      "dias": 2,
-      "cierre": "2026-11-03",
-      "keyword": "CATERING",
-      "ofertas_actuales": 1,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 54
-    },
-    {
       "codigo": "1285-6-COT26",
       "org": "SERVICIO DE EVALUACION AMBIENTAL",
       "titulo": "SERVICIO COFFE BREAK TALLER CAPACITACIÓN ",
@@ -1790,19 +1751,6 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 51
-    },
-    {
-      "codigo": "2594-855-COT26",
-      "org": "I MUNICIPALIDAD DE CONCON",
-      "titulo": "CATERING PARA JORNADA RED PROVINCAL OMIL E INE ",
-      "monto": 800000,
-      "dias": 0,
-      "cierre": "2026-10-31",
-      "keyword": "CATERING",
-      "ofertas_actuales": 1,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 50
     },
     {
       "codigo": "918434-315-COT26",
