@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-02T21:29+00:00",
+  "generado": "2026-11-03T03:21+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -427,6 +427,32 @@
       "probabilidad": 57
     },
     {
+      "codigo": "4895-296-COT26",
+      "org": "UNIVERSIDAD DE VALPARAISO",
+      "titulo": "SOLICITUD DE COTIZACION ADQUISICIÓN SERVICIO DE COFFE BREAK PARA ACTIVIDAD DECANATO DE LA FACULTAD DE MEDICINA",
+      "monto": 450000,
+      "dias": 1,
+      "cierre": "2026-11-04",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "3597-963-COT26",
+      "org": "I MUNICIPALIDAD DE VICUNA",
+      "titulo": "SERVICIO DE COFFE BREAK TERCERA MESA DE COORDINACION PRODESAL Y PADIS.",
+      "monto": 355000,
+      "dias": 1,
+      "cierre": "2026-11-04",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "5251-1273-COT26",
       "org": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
       "titulo": "Servicio de Coffe dia 27 de noviembre",
@@ -505,19 +531,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "744835-662-COT26",
-      "org": "I MUNICIPALIDAD DE LO ESPEJO",
-      "titulo": "CAFÉ - AGUAS SABORIZADAS - CARAMELOS - GALLETAS - MIX FRUTOS SECOS - ALIMENTOS VARIOS ( DIDECO - Oficina Participación Ciudadana y Fortalecimiento Comunitario) ",
-      "monto": 6124000,
-      "dias": 1,
-      "cierre": "2026-11-04",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "4308-121-COT26",
       "org": "I MUNICIPALIDAD DE ERCILLA",
       "titulo": "SERV. CATERIN PARA CTA PRUBLICA CECOSF PAILAHUEQUE",
@@ -566,6 +579,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2013-1903-COT26",
+      "org": "UNIVERSIDAD ARTURO PRAT",
+      "titulo": " ADQUISICION DE SERVICIO DE BANQUETERIA",
+      "monto": 490000,
+      "dias": 1,
+      "cierre": "2026-11-04",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -1090,45 +1116,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "45-55-COT26",
-      "org": "SERVICIO NACIONAL DE CAPACITACION Y EMPLEO",
-      "titulo": "SENCE - Se requiere Servicio de café para actividad institucional",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "797305-65-COT26",
-      "org": "SUPERINTENDENCIA DE INSOLVENCIA Y REEMPRENDIMIENTO",
-      "titulo": "Servicio de Café\t\t\t\t\t\t\t\t\t",
-      "monto": 1800000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "542429-21-COT26",
-      "org": "UNIDAD ADMINISTRADORA DE LOS TRIBUNALES TRIBUTARIOS Y ADUANEROS",
-      "titulo": "Servicio de café para actividad de capacitación del personal de los Tribunales Tributarios y Aduaneros.",
-      "monto": 2500000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2287-704-COT26",
       "org": "ILUSTRE MUNICIPALIDAD DE MACUL",
       "titulo": "SERVICIO DE COCTEL PARA 100 PERSONAS A REALIZARSE EL DIA 09-12-2026",
@@ -1454,19 +1441,6 @@
       "probabilidad": 50
     },
     {
-      "codigo": "5423-194-COT26",
-      "org": "UNIVERSIDAD DE LOS LAGOS",
-      "titulo": "SERVICIO DE CAFÉ PARA 53 PERSONAS EL DÍA 27 DE ENERO 2027 A LAS 16.15 HRS. EN LA CIUDAD DE PUERTO MONTT",
-      "monto": 302100,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 1,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 50
-    },
-    {
       "codigo": "1218393-260-COT26",
       "org": "CONSULTORIO EXTERNO VALDIVIA",
       "titulo": "Insumos comestibles para taller de cocina saludable programa Más Salud en Comunidad.",
@@ -1530,6 +1504,32 @@
       "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 49
+    },
+    {
+      "codigo": "511451-228-COT26",
+      "org": "UNIVERSIDAD DE ATACAMA",
+      "titulo": " SE REQUIERE SERVICIO DE COFFEE BREAK - CEE CJ",
+      "monto": 200000,
+      "dias": 1,
+      "cierre": "2026-11-04",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "511451-226-COT26",
+      "org": "UNIVERSIDAD DE ATACAMA",
+      "titulo": "SERVICIO DE COFFEE BREAK - DPTO CJ",
+      "monto": 200000,
+      "dias": 1,
+      "cierre": "2026-11-04",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 47
     },
     {
       "codigo": "2859-1351-COT26",
@@ -1727,32 +1727,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "823-15-COT26",
-      "org": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-      "titulo": "Servicio Coffe Break para el 06 de noviembre de 2026 a las 09:00 am. ",
-      "monto": 250000,
-      "dias": 0,
-      "cierre": "2026-11-02",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1469-3890-COT26",
-      "org": "UNIVERSIDAD DE TALCA",
-      "titulo": "20-45102 Servicio de café día 10 de diciembre, 22 personas. Santiago",
-      "monto": 149226,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "557639-3541-COT26",
       "org": "CORP MUNICIPAL DE SERVICIOS PUBLICOS TRASPASADOS DE RANCAGUA",
       "titulo": " DESAYUNO Y ALMUERZO-PROGRAMA HPV III",
@@ -1840,19 +1814,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 1,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 40
-    },
-    {
-      "codigo": "2111-1351-COT26",
-      "org": "HOSPITAL DE URGENCIA ASISTENCIA PUBLICA DR ALEJANDRO DEL RIO",
-      "titulo": "MZ - 0090000031 CARTUCHO DE PAPEL COLOR CAFÉ 2 KG Y 0090000627  CARTUCHO DE PAPEL COLOR CAFÉ 1/8 KG (DESPACHO PARCIALIZADO)",
-      "monto": 170000,
-      "dias": 0,
-      "cierre": "2026-11-03",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 1,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 40
     },
