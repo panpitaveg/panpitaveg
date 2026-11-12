@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-12T01:52+00:00",
+  "generado": "2026-11-12T06:21+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -271,19 +271,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1479-173-COT26",
-      "org": "Departamento Provincial de Educación Osorno",
-      "titulo": "ADQUISICION DEL SERVICIO DE COFFEE BREAK REUNIONES COMITE LOCAL DPD",
-      "monto": 300000,
-      "dias": 1,
-      "cierre": "2026-11-13",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "2078-538-COT26",
       "org": "SUBSECRETARIA DE SALUD PUBLICA",
       "titulo": "Servicio de coffee break y almuerzo (30) Escuela de Gestores en Zoonosis Pecuarias Los Ángeles SC 438",
@@ -306,6 +293,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "607603-113-COT26",
+      "org": "UNIVERSIDAD DE ATACAMA",
+      "titulo": "SERVICIO DE COFFE BREAK, Consejo Asesor Empresarial para  80 personas EL DIA 25 de Noviembre   del 2026 EN SEDE VALLENAR",
+      "monto": 500000,
+      "dias": 1,
+      "cierre": "2026-11-13",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -1051,6 +1051,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1479-173-COT26",
+      "org": "Departamento Provincial de Educación Osorno",
+      "titulo": "ADQUISICION DEL SERVICIO DE COFFEE BREAK REUNIONES COMITE LOCAL DPD",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-11-13",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2859-1414-COT26",
       "org": "UNIVERSIDAD DE ATACAMA",
       "titulo": "Adquisición de servicio de Coffee Break para 30 personas para el dia 25 de noviembre de 2026 a las 09:30 hrs",
@@ -1424,45 +1437,6 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1079659-473-COT26",
-      "org": "SECCIÓN COMPRAS ZONA CARAB ARAUCANÍA CONT ORD PUBL",
-      "titulo": " ADQUISICIÓN Y DESPACHO DE MENAJE Y UTENSILIOS PARA LA IMPLEMENTACIÓN DE UNA ESTACIÓN DE CAFÉ EN BENEFICIO DE LA ZONA C.O.P. E INTERVENCIÓN SUR",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-11-12",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1756-160-COT26",
-      "org": "MINEDUC ADMINISTRACION VIII REGION",
-      "titulo": "CONTRATACIÓN SERVICIO DE ALMUERZO Y CAFÉ PARA JORNADA REGIONAL DEL 26/11/2026",
-      "monto": 370000,
-      "dias": 0,
-      "cierre": "2026-11-12",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5769-177-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": "WD 5315: Capsulas de Café para Dirección Escuelas de Pregrado",
-      "monto": 550000,
-      "dias": 0,
-      "cierre": "2026-11-12",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1870,19 +1844,6 @@
       "probabilidad": 53
     },
     {
-      "codigo": "1479-175-COT26",
-      "org": "Departamento Provincial de Educación Osorno",
-      "titulo": "ADQUISICION DEL SERVICIO DE ARRIENDO DE SALON, COFFEE Y ALIMENTACION",
-      "monto": 1250000,
-      "dias": 1,
-      "cierre": "2026-11-13",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 1,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 52
-    },
-    {
       "codigo": "2324-1159-COT26",
       "org": "I MUNICIPALIDAD DE PUERTO MONTT",
       "titulo": "ADQUISICION DE COFFEE BREAK PARA 150 USUARIAS   PROGRAMA MUJERES JEFAS DE HOGAR/ DIDECO",
@@ -1892,19 +1853,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 1,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 52
-    },
-    {
-      "codigo": "3833-642-COT26",
-      "org": "I MUNICIPALIDAD DE RIO BUENO",
-      "titulo": " COFFE BREAK - OF. MEDIO AMBIENTE",
-      "monto": 300000,
-      "dias": 1,
-      "cierre": "2026-11-13",
-      "keyword": "COFFE",
-      "ofertas_actuales": 1,
-      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 52
     },
@@ -1935,12 +1883,38 @@
       "probabilidad": 50
     },
     {
+      "codigo": "1479-175-COT26",
+      "org": "Departamento Provincial de Educación Osorno",
+      "titulo": "ADQUISICION DEL SERVICIO DE ARRIENDO DE SALON, COFFEE Y ALIMENTACION",
+      "monto": 1250000,
+      "dias": 0,
+      "cierre": "2026-11-13",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 1,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
       "codigo": "4777-926-COT26",
       "org": "I MUNICIPALIDAD DE LA UNION",
       "titulo": "SERVICIO DE COFFE BREAK PARA EL DIA 16 DE NOVIEMBRE DE 2026, EN EDIFICIO CONSISTORIAL DE LA MUNICIPALIDAD DE LA UNION",
       "monto": 360000,
       "dias": 0,
       "cierre": "2026-11-12",
+      "keyword": "COFFE",
+      "ofertas_actuales": 1,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
+      "codigo": "3833-642-COT26",
+      "org": "I MUNICIPALIDAD DE RIO BUENO",
+      "titulo": " COFFE BREAK - OF. MEDIO AMBIENTE",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-11-13",
       "keyword": "COFFE",
       "ofertas_actuales": 1,
       "region": "Región de Los Ríos",
@@ -1996,19 +1970,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
-      "codigo": "1479-174-COT26",
-      "org": "Departamento Provincial de Educación Osorno",
-      "titulo": "ADQUISICION DEL SERVICIO DE COFFEE BREAK REUNION COMITE LOCAL DPD",
-      "monto": 150000,
-      "dias": 1,
-      "cierre": "2026-11-13",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 47
     },
@@ -2195,6 +2156,19 @@
       "probabilidad": 45
     },
     {
+      "codigo": "1479-174-COT26",
+      "org": "Departamento Provincial de Educación Osorno",
+      "titulo": "ADQUISICION DEL SERVICIO DE COFFEE BREAK REUNION COMITE LOCAL DPD",
+      "monto": 150000,
+      "dias": 0,
+      "cierre": "2026-11-13",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "949-208-COT26",
       "org": "Mineduc Administración III Región",
       "titulo": "COFFEE,  \"FORTALECIENDO EL BIENESTAR SOCIOEMOCIONAL DESDE LAS DESICIONES PEDAGÓGICAS, SOL 03-147",
@@ -2312,19 +2286,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "1274189-565-COT26",
-      "org": "CORPORACION DE DESARROLLO SOCIAL DE BUIN",
-      "titulo": " IInsumos Alimenticios: galletas, mani, café, casos, cajas organizadoras, cucharas de madera - Dirección de Salud - Solic nro - 0437",
-      "monto": 252000,
-      "dias": 0,
-      "cierre": "2026-11-12",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "584105-294-COT26",
       "org": "SUBSECRETARIA DE ENERGIA",
       "titulo": "Compra de vajilla para el servicio de cafetería y atención de reuniones de las autoridades y visitas protocolares para la Secretaría Regional Ministerial  de Energía de Atacama.",
@@ -2403,32 +2364,6 @@
       "probabilidad": 42
     },
     {
-      "codigo": "885-908-COT26",
-      "org": "CONTRALORIA GENERAL DE LA REPUBLICA",
-      "titulo": "Servicios de Coffee Break Estándar, para los dias 17 y 23 de Noviembre de acuerdo a los terminos de referencia adjuntos.",
-      "monto": 810000,
-      "dias": 1,
-      "cierre": "2026-11-13",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 3,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 42
-    },
-    {
-      "codigo": "1479-172-COT26",
-      "org": "Departamento Provincial de Educación Osorno",
-      "titulo": "ADQUISICION DEL SERVICIO DE COFFEE BREAK REUNION COMITÉ LOCAL DPD",
-      "monto": 150000,
-      "dias": 1,
-      "cierre": "2026-11-13",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 1,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 42
-    },
-    {
       "codigo": "1208102-71-COT26",
       "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
       "titulo": "COFFEE BREAK SEGUNDO CONSEJO CONSULTIVO REGIONAL DEL MAULE ",
@@ -2455,6 +2390,32 @@
       "probabilidad": 42
     },
     {
+      "codigo": "885-908-COT26",
+      "org": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "titulo": "Servicios de Coffee Break Estándar, para los dias 17 y 23 de Noviembre de acuerdo a los terminos de referencia adjuntos.",
+      "monto": 810000,
+      "dias": 0,
+      "cierre": "2026-11-13",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 3,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 40
+    },
+    {
+      "codigo": "1479-172-COT26",
+      "org": "Departamento Provincial de Educación Osorno",
+      "titulo": "ADQUISICION DEL SERVICIO DE COFFEE BREAK REUNION COMITÉ LOCAL DPD",
+      "monto": 150000,
+      "dias": 0,
+      "cierre": "2026-11-13",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 1,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 40
+    },
+    {
       "codigo": "545598-1269-COT26",
       "org": "CORP MUNICIPAL DE CASTRO PARA LA EDUCACION SALUD Y ATENCION AL MENOR",
       "titulo": "COFFE BREAK PARA EL CECOSF KINTUNIEN (SP. 24) ",
@@ -2477,19 +2438,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 1,
       "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 40
-    },
-    {
-      "codigo": "5178-5520-COT26",
-      "org": "UNIVERSIDAD DE CHILE",
-      "titulo": " ADQUISICIÓN DE COMESTIBLES Y DESECHABLES PARA SERVICIO DE CAFÉ/SP 1076932/JL",
-      "monto": 221190,
-      "dias": 0,
-      "cierre": "2026-11-12",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 1,
-      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 40
     },
