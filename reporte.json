@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-13T00:57+00:00",
+  "generado": "2026-11-13T05:41+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -492,19 +492,6 @@
       "probabilidad": 61
     },
     {
-      "codigo": "1591-164-COT26",
-      "org": "Servicio Nacional de Turismo",
-      "titulo": "CONTRATACIÓN DE SALÓN Y SERVICIO DE COFFEE PARA EL LANZAMIENTO DE LA PLATAFORMA AVANZA TURISMO",
-      "monto": 2500000,
-      "dias": 1,
-      "cierre": "2026-11-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "2371-468-COT26",
       "org": "ILUSTRE MUNICIPALIDAD DE CERRO NAVIA",
       "titulo": "S/P 522, EXPEDIENTE 18289, UNIDAD DE PREVENCIÓN, SERVICIO DE COFFE PARA 70 PERSONAS",
@@ -813,6 +800,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1591-164-COT26",
+      "org": "Servicio Nacional de Turismo",
+      "titulo": "CONTRATACIÓN DE SALÓN Y SERVICIO DE COFFEE PARA EL LANZAMIENTO DE LA PLATAFORMA AVANZA TURISMO",
+      "monto": 2500000,
+      "dias": 0,
+      "cierre": "2026-11-14",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1372,19 +1372,6 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1756-160-COT26",
-      "org": "MINEDUC ADMINISTRACION VIII REGION",
-      "titulo": "CONTRATACIÓN SERVICIO DE ALMUERZO Y CAFÉ PARA JORNADA REGIONAL DEL 26/11/2026",
-      "monto": 370000,
-      "dias": 0,
-      "cierre": "2026-11-12",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1987,19 +1974,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "4291-1698-COT26",
-      "org": "UNIVERSIDAD DE ANTOFAGASTA",
-      "titulo": "COFFE BREAK",
-      "monto": 200000,
-      "dias": 1,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "4089-325-COT26",
       "org": "Ilustre Municipalidad de Longaví Depto. de Salud",
       "titulo": "SERVICIO DE COFFE  BREAK PARA  HPV I Y HPV II DIA 20/NOV/2026 9:00 AM",
@@ -2282,6 +2256,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4291-1698-COT26",
+      "org": "UNIVERSIDAD DE ANTOFAGASTA",
+      "titulo": "COFFE BREAK",
+      "monto": 200000,
+      "dias": 0,
+      "cierre": "2026-11-14",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 45
     },
