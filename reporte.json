@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-14T17:44+00:00",
+  "generado": "2026-11-14T22:03+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -61,32 +61,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 61
-    },
-    {
-      "codigo": "1057474-223-COT26",
-      "org": "SERVICIO DE SALUD METROPOLITANO NORTE",
-      "titulo": "Curso de Estilo de Vida saludable aplicada a la prevención y al cambio de hábitos en población adulta.",
-      "monto": 2139000,
-      "dias": 3,
-      "cierre": "2026-11-17",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 61
-    },
-    {
-      "codigo": "593951-43-COT26",
-      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
-      "titulo": "SERVICIO DE CATERING COFFEE BREAK JORNADA SENSIBILIZACIÓN ",
-      "monto": 840000,
-      "dias": 2,
-      "cierre": "2026-11-16",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 59
     },
     {
       "codigo": "1107276-447-COT26",
@@ -163,6 +137,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1057474-223-COT26",
+      "org": "SERVICIO DE SALUD METROPOLITANO NORTE",
+      "titulo": "Curso de Estilo de Vida saludable aplicada a la prevención y al cambio de hábitos en población adulta.",
+      "monto": 2139000,
+      "dias": 2,
+      "cierre": "2026-11-17",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 59
     },
@@ -280,6 +267,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "593951-43-COT26",
+      "org": "FUNDACION EDUCACIONAL PARA EL DESAROLLO INTEGRAL DE LA NIÑEZ",
+      "titulo": "SERVICIO DE CATERING COFFEE BREAK JORNADA SENSIBILIZACIÓN ",
+      "monto": 840000,
+      "dias": 1,
+      "cierre": "2026-11-16",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 57
     },
@@ -999,32 +999,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "5067-2897-COT26",
-      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
-      "titulo": "Sol. 95254 cc 1, Rectoria, Servicio de Coffee Break",
-      "monto": 7000000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1305504-123-COT26",
-      "org": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE ANDALIÉN CO",
-      "titulo": "SERVICIOS DE COFFEE BREAK Y COLACIONES ACTIVIDADES FIN DE AÑO SLEP AC",
-      "monto": 6500000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "557639-3879-COT26",
       "org": "CORP MUNICIPAL DE SERVICIOS PUBLICOS TRASPASADOS DE RANCAGUA",
       "titulo": "COFFEE SALUDABLES (16202)",
@@ -1034,32 +1008,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2705-1807-COT26",
-      "org": "UNIVERSIDAD DEL BIO BIO",
-      "titulo": "ESPECIFICACIONES TÉCNICAS SERVICIO DE COFFEE BREAK SC 5624",
-      "monto": 2000000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2705-1804-COT26",
-      "org": "UNIVERSIDAD DEL BIO BIO",
-      "titulo": "SERVICIO DE COFFEE BREAK PARA CARRERA DE PSICOLOGÍA, SC 5636",
-      "monto": 434000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1116,19 +1064,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "434-756-COT26",
-      "org": "I MUNICIPALIDAD DE CAUQUENES",
-      "titulo": "COFFE BREAK, FORMULARIO N 175 DIDECO",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "918434-364-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D6262 Adquisición de Coffe para Reunión Mesa Nacional de Mujeres Rurales e Indígenas para 20 personas, DPI",
@@ -1142,54 +1077,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "434-754-COT26",
-      "org": "I MUNICIPALIDAD DE CAUQUENES",
-      "titulo": "COFFE BREAK, FORMULARIO N 174 DIDECO",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2332-1119-COT26",
       "org": "I MUNICIPALIDAD DE PUERTO MONTT",
       "titulo": "ARRIENDO DE SALON Y COFFE CAPACITACION DE PROMOCION",
       "monto": 830000,
       "dias": 0,
-      "cierre": "2026-11-14",
+      "cierre": "2026-11-15",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1007793-237-COT26",
-      "org": "CENTRO DE FORMACION TECNICA ESTATAL DE LA REGION DE LOS LAGOS",
-      "titulo": "SERVICIOS DE COFFE BREAK JORNADA- VISITA CNED",
-      "monto": 1046000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "557639-3876-COT26",
-      "org": "CORP MUNICIPAL DE SERVICIOS PUBLICOS TRASPASADOS DE RANCAGUA",
-      "titulo": "INSUMOS DE COFFE BREAK PARA CAPACITACIÓN Y FORMACIÓN DE EQUIPOS APS (16179)",
-      "monto": 995400,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1203,19 +1099,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2332-1115-COT26",
-      "org": "I MUNICIPALIDAD DE PUERTO MONTT",
-      "titulo": "8436 ARRIENDO Y COFFE PARA PRESENTACION DEL PRESUPUESTO 2027",
-      "monto": 850000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1298,19 +1181,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "4455-337-COT26",
-      "org": "I MUNICIPALIDAD DE ARAUCO",
-      "titulo": "SERVICIO COCTEL CERTIFICACIÓN FERIA CIENTIFICA LICEO BICENTENARIO LLICO",
-      "monto": 1600000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "1233623-1073-COT26",
       "org": "Servicio Local de Educación Pública Licancabur",
       "titulo": "Contratación servicio de coctel para licenciatura para 100 personas para ANEXO CEIA CDP CALAMA. Especificaciones del servicio a contratar en documento adjunto",
@@ -1337,17 +1207,17 @@
       "probabilidad": 55
     },
     {
-      "codigo": "4289-3-COT26",
-      "org": "GOBIERNO REGIONAL REGION METROPOLITANA",
-      "titulo": "SERVICIO DE CAFETERÍA PARA ACTIVIDAD INSTITUCIONAL ",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "CAFETERÍA",
+      "codigo": "949-207-COT26",
+      "org": "Mineduc Administración III Región",
+      "titulo": " Secreduc Atacama solicita la contratación de un servicio de Coffe break para la región de atacama sol 11 143",
+      "monto": 208000,
+      "dias": 4,
+      "cierre": "2026-11-19",
+      "keyword": "COFFE",
       "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
+      "region": "Región de Atacama ",
       "momento": "am",
-      "probabilidad": 55
+      "probabilidad": 53
     },
     {
       "codigo": "2078-542-COT26",
@@ -1376,6 +1246,19 @@
       "probabilidad": 52
     },
     {
+      "codigo": "949-204-COT26",
+      "org": "Mineduc Administración III Región",
+      "titulo": "Secreduc Atacama Solicita la Contratación de un servicio de Coffe Break en la Región de Atacama sol 11 142",
+      "monto": 200000,
+      "dias": 3,
+      "cierre": "2026-11-18",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 51
+    },
+    {
       "codigo": "4733-535-COT26",
       "org": "I MUNICIPALIDAD DE LAS GUAITECAS",
       "titulo": "COFFE BREAK PDTI",
@@ -1400,6 +1283,19 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 51
+    },
+    {
+      "codigo": "1007793-237-COT26",
+      "org": "CENTRO DE FORMACION TECNICA ESTATAL DE LA REGION DE LOS LAGOS",
+      "titulo": "SERVICIOS DE COFFE BREAK JORNADA- VISITA CNED",
+      "monto": 1046000,
+      "dias": 0,
+      "cierre": "2026-11-15",
+      "keyword": "COFFE",
+      "ofertas_actuales": 1,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 50
     },
     {
       "codigo": "1756-160-COT26",
@@ -1489,6 +1385,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "949-220-COT26",
+      "org": "Mineduc Administración III Región",
+      "titulo": "Secreduc Atacama Solicita la Contratacion de un Servicio de Coffe Break para la Region de Atacama  sol 03 147",
+      "monto": 250000,
+      "dias": 1,
+      "cierre": "2026-11-16",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1649,6 +1558,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "4017-138-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE PUTRE",
+      "titulo": "ADQ. SERVICIO DE COCTEL, PROGRAMA MÁS SALUD EN COMUNIDAD.",
+      "monto": 200000,
+      "dias": 1,
+      "cierre": "2026-11-16",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
       "codigo": "557639-3847-COT26",
       "org": "CORP MUNICIPAL DE SERVICIOS PUBLICOS TRASPASADOS DE RANCAGUA",
       "titulo": "INSUMOS DESAYUNO - CESFAM Nº6 IGNACIO CAROCA",
@@ -1740,19 +1662,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "5865-202-COT26",
-      "org": "UNIVERSIDAD DE TARAPACA",
-      "titulo": "SERVICIO DE COFFEE BREAK Y CATERING PARA 70 PERSONAS,  ACT. \" SOCIALIZACIÓN DE RESULTADOS DEL PROCESO DE AUTOEVALUACIÓN PSICOLOGÍA” ",
-      "monto": 258000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "4035-221-COT26",
       "org": "I MUNICIPALIDAD DE CANETE",
       "titulo": "SERVICIO DE COFFEE BREAK ",
@@ -1761,32 +1670,6 @@
       "cierre": "2026-11-15",
       "keyword": "COFFEE",
       "ofertas_actuales": 2,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "4493-762-COT26",
-      "org": "Ilustre Municipalidad de Penco - Salud",
-      "titulo": "ADQUISICIÓN DE INSUMOS DE COFFEE BREAK Y VAJILLA DESECHABLE PARA TALLER PROGRAMA PESPI CESFAM PENCO",
-      "monto": 80000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "831-258-COT26",
-      "org": "GOBIERNO REGIONAL DE LA REGION DEL BIO BIO",
-      "titulo": "Servicio de coffe ",
-      "monto": 150000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 45
@@ -1801,45 +1684,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "5615-824-COT26",
-      "org": "I.Municipalidad de El Carmen",
-      "titulo": "COMPRA COFFE HOTO FIEMA DE CONVENIO PRLAC 2026 REQ. DIDECO N°346",
-      "monto": 110000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "4017-138-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE PUTRE",
-      "titulo": "ADQ. SERVICIO DE COCTEL, PROGRAMA MÁS SALUD EN COMUNIDAD.",
-      "monto": 200000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "3682-560-COT26",
-      "org": "I MUNICIPALIDAD DE SALAMANCA",
-      "titulo": "Insumo Varios Desayuno UCAM",
-      "monto": 120000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 45
     },
@@ -1920,19 +1764,6 @@
       "region": "Región de Coquimbo ",
       "momento": "am",
       "probabilidad": 42
-    },
-    {
-      "codigo": "1177296-137-COT26",
-      "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA",
-      "titulo": "Servicio de capacitación, relatoría y cafetería para el hito de lanzamiento “Crecer en Familia”",
-      "monto": 4500000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 3,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 40
     },
     {
       "codigo": "1469-4135-COT26",
