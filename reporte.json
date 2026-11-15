@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-14T22:03+00:00",
+  "generado": "2026-11-15T02:27+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -440,6 +440,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "2332-1119-COT26",
+      "org": "I MUNICIPALIDAD DE PUERTO MONTT",
+      "titulo": "ARRIENDO DE SALON Y COFFE CAPACITACION DE PROMOCION",
+      "monto": 830000,
+      "dias": 1,
+      "cierre": "2026-11-16",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "4337-571-COT26",
       "org": "I MUNICIPALIDAD DE RENAICO",
       "titulo": "COFFE SALUDABLE",
@@ -540,6 +553,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "557639-3853-COT26",
+      "org": "CORP MUNICIPAL DE SERVICIOS PUBLICOS TRASPASADOS DE RANCAGUA",
+      "titulo": "SERVICIOS COFFE BREAK (16130)",
+      "monto": 1700000,
+      "dias": 1,
+      "cierre": "2026-11-16",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 57
     },
@@ -999,19 +1025,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "557639-3879-COT26",
-      "org": "CORP MUNICIPAL DE SERVICIOS PUBLICOS TRASPASADOS DE RANCAGUA",
-      "titulo": "COFFEE SALUDABLES (16202)",
-      "monto": 1250000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2495-657-COT26",
       "org": "I MUNICIPALIDAD DE COYHAIQUE",
       "titulo": "SERVICIO DE COFFEE BREAK AM Y AGENDA MÁS LAPIZ PARA SEMINARIO MESA RAV - 60 PERSONAS ",
@@ -1051,19 +1064,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2013-2052-COT26",
-      "org": "UNIVERSIDAD ARTURO PRAT",
-      "titulo": "SERVICIO DE COFFE PARA 70 PAX EL 18/11",
-      "monto": 600000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "918434-364-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D6262 Adquisición de Coffe para Reunión Mesa Nacional de Mujeres Rurales e Indígenas para 20 personas, DPI",
@@ -1073,32 +1073,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "2332-1119-COT26",
-      "org": "I MUNICIPALIDAD DE PUERTO MONTT",
-      "titulo": "ARRIENDO DE SALON Y COFFE CAPACITACION DE PROMOCION",
-      "monto": 830000,
-      "dias": 0,
-      "cierre": "2026-11-15",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "557639-3853-COT26",
-      "org": "CORP MUNICIPAL DE SERVICIOS PUBLICOS TRASPASADOS DE RANCAGUA",
-      "titulo": "SERVICIOS COFFE BREAK (16130)",
-      "monto": 1700000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1129,19 +1103,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "2371-468-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE CERRO NAVIA",
-      "titulo": "S/P 522, EXPEDIENTE 18289, UNIDAD DE PREVENCIÓN, SERVICIO DE COFFE PARA 70 PERSONAS",
-      "monto": 560000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2859-1505-COT26",
       "org": "UNIVERSIDAD DE ATACAMA",
       "titulo": "Servicio de Coffe Break 40 personas 2 jornadas",
@@ -1164,32 +1125,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3593-440-COT26",
-      "org": "ILUSTRE MINICIPALIDAD DE COMBARBALA",
-      "titulo": "SERVICIO DE 2 COCTEL ",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1233623-1073-COT26",
-      "org": "Servicio Local de Educación Pública Licancabur",
-      "titulo": "Contratación servicio de coctel para licenciatura para 100 personas para ANEXO CEIA CDP CALAMA. Especificaciones del servicio a contratar en documento adjunto",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-11-14",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Antofagasta ",
       "momento": "am",
       "probabilidad": 55
     },
