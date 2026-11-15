@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-15T18:33+00:00",
+  "generado": "2026-11-15T23:21+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1060,19 +1060,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 1,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 50
-    },
-    {
-      "codigo": "1007793-237-COT26",
-      "org": "CENTRO DE FORMACION TECNICA ESTATAL DE LA REGION DE LOS LAGOS",
-      "titulo": "SERVICIOS DE COFFE BREAK JORNADA- VISITA CNED",
-      "monto": 1046000,
-      "dias": 0,
-      "cierre": "2026-11-15",
-      "keyword": "COFFE",
-      "ofertas_actuales": 1,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 50
     },
