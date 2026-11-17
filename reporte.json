@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-16T21:44+00:00",
+  "generado": "2026-11-17T04:22+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -85,32 +85,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "709603-69-COT26",
-      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
-      "titulo": "Servicio de Café para los días 25 y 26 de noviembre de 2026",
-      "monto": 1000000,
-      "dias": 2,
-      "cierre": "2026-11-19",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "860729-21-COT26",
-      "org": "SERVICIO DE SALUD ARAUCO",
-      "titulo": "SERVICIO DE ALIMENTACIÓN DESAYUNO Y ALMUERZO",
-      "monto": 850000,
-      "dias": 2,
-      "cierre": "2026-11-19",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -401,45 +375,6 @@
       "probabilidad": 57
     },
     {
-      "codigo": "1447930-611-COT26",
-      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
-      "titulo": "SSP - Servicio de café para 40 personas en el marco de la presentación “II Consejo Regional de Seguridad Publica y Prevención del Delito” - Arica",
-      "monto": 300000,
-      "dias": 1,
-      "cierre": "2026-11-18",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Arica y Parinacota",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1756-168-COT26",
-      "org": "MINEDUC ADMINISTRACION VIII REGION",
-      "titulo": "CONTRATACIÓN SERVICIO DE CAFÉ PARA JORNADA REGIONAL DEL 26/11/2026",
-      "monto": 370000,
-      "dias": 1,
-      "cierre": "2026-11-18",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2202-405-COT26",
-      "org": "SERVICIO SALUD ARAUCANIA NORTE HOSPITAL CURACAUTIN",
-      "titulo": " Adquisición de Mezcla de Café Programa MEL Hospital Curacautin",
-      "monto": 358120,
-      "dias": 1,
-      "cierre": "2026-11-18",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
       "codigo": "1101892-267-COT26",
       "org": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
       "titulo": "Servicio de coctel.",
@@ -531,6 +466,32 @@
       "probabilidad": 57
     },
     {
+      "codigo": "860729-21-COT26",
+      "org": "SERVICIO DE SALUD ARAUCO",
+      "titulo": "SERVICIO DE ALIMENTACIÓN DESAYUNO Y ALMUERZO",
+      "monto": 850000,
+      "dias": 1,
+      "cierre": "2026-11-19",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "5416-880-COT26",
+      "org": "UNIVERSIDAD DE LA SERENA",
+      "titulo": "Arriendo de salón, servicio audiovisual y servicio de cafetería ",
+      "monto": 1000000,
+      "dias": 1,
+      "cierre": "2026-11-18",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1673-324-COT26",
       "org": "SERVICIO DE SALUD COQUIMBO HOSPITAL VICUNA",
       "titulo": "Servicio de cafetería",
@@ -568,6 +529,19 @@
       "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 57
+    },
+    {
+      "codigo": "1219234-90-COT26",
+      "org": "CORPORACION MUNICIPAL DE CULTURA DE SAN JOAQUIN",
+      "titulo": "SERVICIO DE COFFEE BREAK CON MONTAJE",
+      "monto": 820984,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
     },
     {
       "codigo": "847-92-COT26",
@@ -1168,45 +1142,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1447930-610-COT26",
-      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
-      "titulo": "SSP - Servicio de café en el marco de la presentación de la sesión conjunta del II Consejo Regional de Seguridad Pública y Prevención del Delito RM",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-11-17",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1447930-608-COT26",
-      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
-      "titulo": "SSP - Servicio de café en el marco de la presentación de la  sesión conjunta del II Consejo Regional de Seguridad  Pública y Prevención del Delito - Valparaíso ",
-      "monto": 300000,
-      "dias": 0,
-      "cierre": "2026-11-17",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "1075337-2307-COT26",
-      "org": "SERVICIO DE SALUD ARAUCANIA NORTE HOSPITAL DE ANGOL",
-      "titulo": "rvv Compra Pedido Alimentación para UMT (galletas, dulces, té negro, café sachet) Noviembre - Diciembre 2026",
-      "monto": 1900000,
-      "dias": 0,
-      "cierre": "2026-11-17",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3508-875-COT26",
       "org": "I MUNICIPALIDAD DE CHONCHI",
       "titulo": "SERVICIO COCTEL",
@@ -1389,6 +1324,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1480209-11-COT26",
+      "org": "MUNICIPALIDAD DE VITACURA",
+      "titulo": "PTR N°589, CONTRATACION DE SERVICIO DE BRUNCH PARA ENCUENTRO PROTOCOLAR DE ALCALDES EN STAND HUB VITACURA, DURANTE LA INAUGURACION DE ETMDAY 2026 ",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "BRUNCH",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "5626-1031-COT26",
       "org": "UNIVERSIDAD DE VALPARAISO",
       "titulo": "SERVICIO BRUNCH 20-11 PROYECTO OTL - C.O",
@@ -1439,19 +1387,6 @@
       "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 54
-    },
-    {
-      "codigo": "2926-263-COT26",
-      "org": "I MUNICIPALIDAD DE CHANARAL",
-      "titulo": "SERVICIO DE COCTEL POSTA EL SALADO, PROGRAMA  MAIS AÑO 2026",
-      "monto": 400000,
-      "dias": 1,
-      "cierre": "2026-11-17",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 1,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 52
     },
     {
       "codigo": "4197-325-COT26",
@@ -1519,6 +1454,19 @@
       "probabilidad": 50
     },
     {
+      "codigo": "2926-263-COT26",
+      "org": "I MUNICIPALIDAD DE CHANARAL",
+      "titulo": "SERVICIO DE COCTEL POSTA EL SALADO, PROGRAMA  MAIS AÑO 2026",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 1,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
       "codigo": "3962-434-COT26",
       "org": "I MUNICIPALIDAD DE SANTA BARBARA",
       "titulo": "SERVICIO DE COCKTAIL PARA 60 PERSONAS CEREMONIA DE LANZAMIENTO TEMPORADA DE PREVENCION INCENDIOS",
@@ -1567,6 +1515,19 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
+      "codigo": "895072-167-COT26",
+      "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
+      "titulo": "Servicio de cafetería Jornada Regional Los Lagos para 50 personas para el 24.11.26",
+      "monto": 250000,
+      "dias": 2,
+      "cierre": "2026-11-19",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 49
     },
@@ -1658,6 +1619,32 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "895072-166-COT26",
+      "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
+      "titulo": "Contratación de un servicio de cafetería para 60 personas para el 23.11.26 en ciudad de talca",
+      "monto": 240000,
+      "dias": 1,
+      "cierre": "2026-11-18",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "895072-164-COT26",
+      "org": "SUBSECRETARIA DE EDUCACION PARVULARIA",
+      "titulo": "Servicio de Cafetería para Jornada Provincial de Aysén paara el 24 de noviembre",
+      "monto": 150000,
+      "dias": 1,
+      "cierre": "2026-11-18",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Aysén del General Carlos Ibáñez del Campo",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1905,19 +1892,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región Aysén del General Carlos Ibáñez del Campo",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1447930-609-COT26",
-      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
-      "titulo": "SSP – Servicio de café para 35 personas, a realizarse el 18 de noviembre en la región de Tarapacá",
-      "monto": 210000,
-      "dias": 0,
-      "cierre": "2026-11-17",
-      "keyword": "CAFÉ",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 45
     },
