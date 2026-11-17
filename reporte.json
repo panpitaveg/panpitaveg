@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-17T04:22+00:00",
+  "generado": "2026-11-17T07:05+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -85,6 +85,32 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "709603-69-COT26",
+      "org": "SUPERINTENDENCIA DE EDUCACION ESCOLAR",
+      "titulo": "Servicio de Café para los días 25 y 26 de noviembre de 2026",
+      "monto": 1000000,
+      "dias": 2,
+      "cierre": "2026-11-19",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "1447930-598-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "Servicio de café en el marco de la presentación de la sesión conjunta del II Consejo Regional de Seguridad Pública y Prevención del Delito - Valparaíso",
+      "monto": 300000,
+      "dias": 2,
+      "cierre": "2026-11-19",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -371,6 +397,45 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "1447930-611-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "SSP - Servicio de café para 40 personas en el marco de la presentación “II Consejo Regional de Seguridad Publica y Prevención del Delito” - Arica",
+      "monto": 300000,
+      "dias": 1,
+      "cierre": "2026-11-18",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "1756-168-COT26",
+      "org": "MINEDUC ADMINISTRACION VIII REGION",
+      "titulo": "CONTRATACIÓN SERVICIO DE CAFÉ PARA JORNADA REGIONAL DEL 26/11/2026",
+      "monto": 370000,
+      "dias": 1,
+      "cierre": "2026-11-18",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "2202-405-COT26",
+      "org": "SERVICIO SALUD ARAUCANIA NORTE HOSPITAL CURACAUTIN",
+      "titulo": " Adquisición de Mezcla de Café Programa MEL Hospital Curacautin",
+      "monto": 358120,
+      "dias": 1,
+      "cierre": "2026-11-18",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -1142,6 +1207,71 @@
       "probabilidad": 55
     },
     {
+      "codigo": "1447930-610-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "SSP - Servicio de café en el marco de la presentación de la sesión conjunta del II Consejo Regional de Seguridad Pública y Prevención del Delito RM",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1447930-608-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "SSP - Servicio de café en el marco de la presentación de la  sesión conjunta del II Consejo Regional de Seguridad  Pública y Prevención del Delito - Valparaíso ",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1075337-2307-COT26",
+      "org": "SERVICIO DE SALUD ARAUCANIA NORTE HOSPITAL DE ANGOL",
+      "titulo": "rvv Compra Pedido Alimentación para UMT (galletas, dulces, té negro, café sachet) Noviembre - Diciembre 2026",
+      "monto": 1900000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1447930-603-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "SSP - Servicio de café en el marco del lanzamiento del Comité Ejecutivo Interinstitucional de Seguridad Fronteriza",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1447930-600-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "SSP - Servicio de café para 40 personas en el marco de la realización del II Consejo Regional de Seguridad Publica y Prevención del Delito - Atacama",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "3508-875-COT26",
       "org": "I MUNICIPALIDAD DE CHONCHI",
       "titulo": "SERVICIO COCTEL",
@@ -1389,19 +1519,6 @@
       "probabilidad": 54
     },
     {
-      "codigo": "4197-325-COT26",
-      "org": "I MUNICIPALIDAD DE QUEMCHI",
-      "titulo": "“SERVICIO DE ALIMENTACION (CATERING/ COFEE BREAK) PARA 03 JORNADAS SEGÚN CONVENIO PESPI DE LA RED DE SALUD QUEMCHI” SP N°346",
-      "monto": 300000,
-      "dias": 1,
-      "cierre": "2026-11-18",
-      "keyword": "BREAK",
-      "ofertas_actuales": 1,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 52
-    },
-    {
       "codigo": "918434-364-COT26",
       "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
       "titulo": "D6262 Adquisición de Coffe para Reunión Mesa Nacional de Mujeres Rurales e Indígenas para 20 personas, DPI",
@@ -1424,6 +1541,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 1,
       "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
+      "codigo": "1447930-591-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "SSP - Contratación de servicio de café para la región de Los Ríos",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 1,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 50
     },
@@ -1480,6 +1610,19 @@
       "probabilidad": 50
     },
     {
+      "codigo": "4197-325-COT26",
+      "org": "I MUNICIPALIDAD DE QUEMCHI",
+      "titulo": "“SERVICIO DE ALIMENTACION (CATERING/ COFEE BREAK) PARA 03 JORNADAS SEGÚN CONVENIO PESPI DE LA RED DE SALUD QUEMCHI” SP N°346",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-11-18",
+      "keyword": "BREAK",
+      "ofertas_actuales": 1,
+      "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
       "codigo": "949-207-COT26",
       "org": "Mineduc Administración III Región",
       "titulo": " Secreduc Atacama solicita la contratación de un servicio de Coffe break para la región de atacama sol 11 143",
@@ -1501,6 +1644,19 @@
       "cierre": "2026-11-19",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
+      "codigo": "1447930-596-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "SSP - Servicio de café en el marco de la presentación de la sesión conjunta del II Consejo Regional de Seguridad Pública y Prevención del Delito RM",
+      "monto": 300000,
+      "dias": 2,
+      "cierre": "2026-11-19",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 2,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 49
@@ -1606,6 +1762,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región Aysén del General Carlos Ibáñez del Campo",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "918434-363-COT26",
+      "org": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+      "titulo": "D6212 Adquisición servicio café seminario Legislación y Erradicación de la Violencia de Género, Seremi del Maule",
+      "monto": 290000,
+      "dias": 1,
+      "cierre": "2026-11-18",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1896,6 +2065,45 @@
       "probabilidad": 45
     },
     {
+      "codigo": "1447930-609-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "SSP – Servicio de café para 35 personas, a realizarse el 18 de noviembre en la región de Tarapacá",
+      "monto": 210000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2785-881-COT26",
+      "org": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+      "titulo": "SDA 6590/ SERVICIO DE CAFÉ MEJORADO PARA CEREMONIA CERTIFICACION, PROGRAMA PVG",
+      "monto": 254000,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "5178-5609-COT26",
+      "org": "UNIVERSIDAD DE CHILE",
+      "titulo": "COMESTIBLES Y DESECHABLES PARA SERVICIO DE CAFÉ/SP 1076932/JL",
+      "monto": 221190,
+      "dias": 0,
+      "cierre": "2026-11-17",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "316-555-COT26",
       "org": "I MUNICIPALIDAD DE VILLA ALEMANA",
       "titulo": "P. 1483 ADMINISTRACION - COCTEL  ADJUDICACIÓN CONDICIONADA A DISPONIBILIDAD Y REQUISITOS",
@@ -1935,19 +2143,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "885-924-COT26",
-      "org": "CONTRALORIA GENERAL DE LA REPUBLICA",
-      "titulo": "Adquisición y despacho de insumos de cafetería para la Contraloría General de la República.",
-      "monto": 250000,
-      "dias": 1,
-      "cierre": "2026-11-18",
-      "keyword": "CAFETERÍA",
-      "ofertas_actuales": 1,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 42
-    },
-    {
       "codigo": "4922-503-COT26",
       "org": "I MUNICIPALIDAD DE FUTRONO",
       "titulo": "COFFE BREAK TALLER N° 14 PROGRAMA VINCULOS ",
@@ -1974,17 +2169,43 @@
       "probabilidad": 40
     },
     {
+      "codigo": "885-924-COT26",
+      "org": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "titulo": "Adquisición y despacho de insumos de cafetería para la Contraloría General de la República.",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-11-18",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 1,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 40
+    },
+    {
+      "codigo": "1447930-594-COT26",
+      "org": "SUBSECRETARIA DE SEGURIDAD PUBLICA",
+      "titulo": "Servicio de café para 30 personas en el marco del II Consejo Regional de Seguridad Pública y Prevención del Delito.",
+      "monto": 150000,
+      "dias": 2,
+      "cierre": "2026-11-19",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 2,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 39
+    },
+    {
       "codigo": "4197-326-COT26",
       "org": "I MUNICIPALIDAD DE QUEMCHI",
       "titulo": "“SERVICIO DE COFFEE BREAK PARA ACTIVIDAD SEGÚN CONVENIO PESPI DE LA RED DE SALUD QUEMCHI” SP N°347",
       "monto": 200000,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-11-18",
       "keyword": "COFFEE",
       "ofertas_actuales": 2,
       "region": "Región de los Lagos ",
       "momento": "am",
-      "probabilidad": 37
+      "probabilidad": 35
     }
   ]
 }
