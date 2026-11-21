@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-21T01:08+00:00",
+  "generado": "2026-11-21T06:08+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -986,19 +986,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "2626-719-COT26",
-      "org": "I MUNICIPALIDAD DE PUTAENDO",
-      "titulo": "SERVICIO DE COCTELERIA RED LOCAL DE APOYOS",
-      "monto": 500000,
-      "dias": 2,
-      "cierre": "2026-11-23",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "1469-4411-COT26",
       "org": "UNIVERSIDAD DE TALCA",
       "titulo": "20-46211 SERVICIO DE COCTEL",
@@ -1155,19 +1142,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "4044-735-COT26",
-      "org": "I MUNICIPALIDAD DE ISLA DE PASCUA",
-      "titulo": "SERVICIO DESAYUNO TIPO BUFETTE PARA 45 PERSONAS - SOLICITA ALCALDIA ",
-      "monto": 3285000,
-      "dias": 2,
-      "cierre": "2026-11-23",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "3522-143-COT26",
       "org": "Ejercito de Chile",
       "titulo": "ADQUISICIÓN DE VÍVERES PARA ABASTECER LA CAFETERÍA DEL INSTITUTO.",
@@ -1205,19 +1179,6 @@
       "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 59
-    },
-    {
-      "codigo": "4445-35-COT26",
-      "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-      "titulo": "Servicio / Producto:  Coctelería tipo coffee Breack",
-      "monto": 300000,
-      "dias": 1,
-      "cierre": "2026-11-22",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 57
     },
     {
       "codigo": "2013-2150-COT26",
@@ -1272,6 +1233,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "2626-719-COT26",
+      "org": "I MUNICIPALIDAD DE PUTAENDO",
+      "titulo": "SERVICIO DE COCTELERIA RED LOCAL DE APOYOS",
+      "monto": 500000,
+      "dias": 1,
+      "cierre": "2026-11-23",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "2013-2151-COT26",
       "org": "UNIVERSIDAD ARTURO PRAT",
       "titulo": "SERVICIO DE COCTEL PARA 40 PAX LOS DÍAS 26/11, 04/12, 11/12",
@@ -1294,6 +1268,19 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "4044-735-COT26",
+      "org": "I MUNICIPALIDAD DE ISLA DE PASCUA",
+      "titulo": "SERVICIO DESAYUNO TIPO BUFETTE PARA 45 PERSONAS - SOLICITA ALCALDIA ",
+      "monto": 3285000,
+      "dias": 1,
+      "cierre": "2026-11-23",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -1450,6 +1437,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4445-35-COT26",
+      "org": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+      "titulo": "Servicio / Producto:  Coctelería tipo coffee Breack",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-11-22",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1692,13 +1692,13 @@
       "org": "MUNICIPALIDAD DE RECOLETA",
       "titulo": "DAEM, SE REQUIERE CONTRATAR SERVICIO DE BANQUETERIA DIA NACIONAL DE LA EDUCACION PARVULARIA, SM 30745",
       "monto": 500000,
-      "dias": 1,
+      "dias": 0,
       "cierre": "2026-11-22",
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 1,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
-      "probabilidad": 52
+      "probabilidad": 50
     },
     {
       "codigo": "1347776-55-COT26",
@@ -1922,19 +1922,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "3833-654-COT26",
-      "org": "I MUNICIPALIDAD DE RIO BUENO",
-      "titulo": "SERVICIO DE BANQUETERIA-SENDA",
-      "monto": 701080,
-      "dias": 1,
-      "cierre": "2026-11-22",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 2,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "1057062-560-COT26",
       "org": "UNIVERSIDAD DE AYSEN",
       "titulo": "Servicio de coffee break 23/NOV. (15 personas x jornada A.M y P.M.)-FISABS 2548_URY 2677",
@@ -2022,6 +2009,19 @@
       "keyword": "COCKTAIL",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "3833-654-COT26",
+      "org": "I MUNICIPALIDAD DE RIO BUENO",
+      "titulo": "SERVICIO DE BANQUETERIA-SENDA",
+      "monto": 701080,
+      "dias": 0,
+      "cierre": "2026-11-22",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 2,
+      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 45
     },
