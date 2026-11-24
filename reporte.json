@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-23T23:30+00:00",
+  "generado": "2026-11-24T08:59+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -89,19 +89,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "1481-34-COT26",
-      "org": "Departamento Provincial Educación Elqui",
-      "titulo": "Servicio Coffe para jornadas de Formación Ciudadana y ceremonia Plan de Alfabetización.",
-      "monto": 1000000,
-      "dias": 2,
-      "cierre": "2026-11-26",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
       "codigo": "1591-175-COT26",
       "org": "Servicio Nacional de Turismo",
       "titulo": "COFFE BREAK PARA REUNION DE COORDINACIÓN MESA DE TURISMO INDIGENA, SAN PERDO DE ATACAMA, REGIÓN DE ANTOFAGASTA",
@@ -111,32 +98,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "1591-174-COT26",
-      "org": "Servicio Nacional de Turismo",
-      "titulo": "COFFE BREAK PARA REUNION DE COORDINACIÓN MESA DE TURISMO INDIGENA, SANTIAGO, REGIÓN DE METROPOLITANA",
-      "monto": 500000,
-      "dias": 2,
-      "cierre": "2026-11-25",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 59
-    },
-    {
-      "codigo": "4337-581-COT26",
-      "org": "I MUNICIPALIDAD DE RENAICO",
-      "titulo": "Coffe saludables. ",
-      "monto": 1166996,
-      "dias": 2,
-      "cierre": "2026-11-26",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 59
     },
@@ -180,6 +141,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "1469-4480-COT26",
+      "org": "UNIVERSIDAD DE TALCA",
+      "titulo": "20-45903 Servicio de coffee para Actividades de vinculación con la comunidad cercana al campus Linares Utalca.",
+      "monto": 490000,
+      "dias": 1,
+      "cierre": "2026-11-25",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "1012975-6-COT26",
       "org": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DEL TAMARUGAL",
       "titulo": "SERVICIO DE COFFEE BREAK PARA EL PROGRAMA DE CENTRO DE ATENCIÓN INICIAL – SERNAMEG. DPP TAMARUGAL",
@@ -202,19 +176,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "4044-744-COT26",
-      "org": "I MUNICIPALIDAD DE ISLA DE PASCUA",
-      "titulo": "SERVICIO DE COFFEE BREAK PARA 20 PERSONAS - SERVICIO A REALIZARSE EN RAPA NUI - SOLICITA UNIDAD DE TAPATI RAPA NUI",
-      "monto": 400000,
-      "dias": 1,
-      "cierre": "2026-11-25",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -362,6 +323,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "1481-34-COT26",
+      "org": "Departamento Provincial Educación Elqui",
+      "titulo": "Servicio Coffe para jornadas de Formación Ciudadana y ceremonia Plan de Alfabetización.",
+      "monto": 1000000,
+      "dias": 1,
+      "cierre": "2026-11-26",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "5523-47-COT26",
       "org": "UNIVERSIDAD DE CHILE",
       "titulo": "Servicio de coffe break para localidad de Hualpén/Concepción - Proyecto Yafün Centro NIC Chile ",
@@ -375,15 +349,28 @@
       "probabilidad": 57
     },
     {
-      "codigo": "5416-934-COT26",
-      "org": "UNIVERSIDAD DE LA SERENA",
-      "titulo": "52173/COFFE",
-      "monto": 1500000,
+      "codigo": "1591-174-COT26",
+      "org": "Servicio Nacional de Turismo",
+      "titulo": "COFFE BREAK PARA REUNION DE COORDINACIÓN MESA DE TURISMO INDIGENA, SANTIAGO, REGIÓN DE METROPOLITANA",
+      "monto": 500000,
       "dias": 1,
       "cierre": "2026-11-25",
       "keyword": "COFFE",
       "ofertas_actuales": 0,
-      "region": "Región de Coquimbo ",
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
+      "codigo": "4337-581-COT26",
+      "org": "I MUNICIPALIDAD DE RENAICO",
+      "titulo": "Coffe saludables. ",
+      "monto": 1166996,
+      "dias": 1,
+      "cierre": "2026-11-26",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -436,19 +423,6 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2658-1533-COT26",
-      "org": "I MUNICIPALIDAD DE ANCUD",
-      "titulo": "SERVICIO DE COCTEL",
-      "monto": 500000,
-      "dias": 1,
-      "cierre": "2026-11-25",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -553,6 +527,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4044-744-COT26",
+      "org": "I MUNICIPALIDAD DE ISLA DE PASCUA",
+      "titulo": "SERVICIO DE COFFEE BREAK PARA 20 PERSONAS - SERVICIO A REALIZARSE EN RAPA NUI - SOLICITA UNIDAD DE TAPATI RAPA NUI",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-11-25",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1129,6 +1116,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "5416-934-COT26",
+      "org": "UNIVERSIDAD DE LA SERENA",
+      "titulo": "52173/COFFE",
+      "monto": 1500000,
+      "dias": 0,
+      "cierre": "2026-11-25",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "1577-248-COT26",
       "org": "DELEGACIÓN PRESIDENCIAL REGIONAL DE LOS LAGOS",
       "titulo": "Adquisición de Productos de coffe Programa Atención Inicial de las Violencias de Género DPR LOS LAGOS",
@@ -1181,15 +1181,15 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1591-173-COT26",
-      "org": "Servicio Nacional de Turismo",
-      "titulo": "COFFE BREAK PARA REUNION DE COORDINACIÓN MESA DE TURISMO INDIGENA, COMUNA DE VALDIVIA",
-      "monto": 450000,
+      "codigo": "1368-41-COT26",
+      "org": "CORPORACIÓN DE FOMENTO DE LA PRODUCCIÓN - CORFO",
+      "titulo": "Servicio de café para la Ceremonia de Certificación de APL Sector Panaderos, región de Ñuble.",
+      "monto": 500000,
       "dias": 0,
-      "cierre": "2026-11-23",
-      "keyword": "COFFE",
+      "cierre": "2026-11-24",
+      "keyword": "CAFÉ",
       "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
+      "region": "Región del Ñuble",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1346,6 +1346,19 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2658-1533-COT26",
+      "org": "I MUNICIPALIDAD DE ANCUD",
+      "titulo": "SERVICIO DE COCTEL",
+      "monto": 500000,
+      "dias": 0,
+      "cierre": "2026-11-25",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1844,19 +1857,6 @@
       "probabilidad": 47
     },
     {
-      "codigo": "2013-2151-COT26",
-      "org": "UNIVERSIDAD ARTURO PRAT",
-      "titulo": "SERVICIO DE COCTEL PARA 40 PAX LOS DÍAS 26/11, 04/12, 11/12",
-      "monto": 1200000,
-      "dias": 1,
-      "cierre": "2026-11-25",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 2,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
       "codigo": "2297-1549-COT26",
       "org": "I MUNICIPALIDAD DE OSORNO",
       "titulo": "ADQUISICION DE INSUMOS PARA COFFEE SEGUN ESPECIFICACIONES TECNICAS ADJUNTAS ",
@@ -1996,6 +1996,19 @@
       "keyword": "CAFÉ",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "2013-2151-COT26",
+      "org": "UNIVERSIDAD ARTURO PRAT",
+      "titulo": "SERVICIO DE COCTEL PARA 40 PAX LOS DÍAS 26/11, 04/12, 11/12",
+      "monto": 1200000,
+      "dias": 0,
+      "cierre": "2026-11-25",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 2,
+      "region": "Región de Tarapacá  ",
       "momento": "am",
       "probabilidad": 45
     },
