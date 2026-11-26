@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-26T04:00+00:00",
+  "generado": "2026-11-26T07:24+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1874,13 +1874,13 @@
       "org": "I MUNICIPALIDAD DE SAN ESTEBAN",
       "titulo": " POR LA COMPRA DE PRODUCTOS PARA COFFEE BREAK CON CARGO AL PROGRAMA CAPACITACION UNIVERSAL DEL DEPTO. SALUD DE SAN ESTEBAN.",
       "monto": 636000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-11-28",
       "keyword": "COFFEE",
       "ofertas_actuales": 3,
       "region": "Región de Valparaíso ",
       "momento": "am",
-      "probabilidad": 44
+      "probabilidad": 42
     },
     {
       "codigo": "918434-397-COT26",
@@ -1894,19 +1894,6 @@
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 42
-    },
-    {
-      "codigo": "2027-66-COT26",
-      "org": "Depto. Provincial Educación Valdivia",
-      "titulo": "Salón, coffe y almuerzo para Segunda Jornada Provincial de Articulación y Colaboración entre profesionales UATP SLEP Valdivia, a realizarse el 14 de diciembre de 2026.",
-      "monto": 1268000,
-      "dias": 0,
-      "cierre": "2026-11-26",
-      "keyword": "COFFE",
-      "ofertas_actuales": 3,
-      "region": "Región de Los Ríos",
-      "momento": "am",
-      "probabilidad": 40
     },
     {
       "codigo": "3630-234-COT26",
