@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-27T03:37+00:00",
+  "generado": "2026-11-27T07:21+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -1012,19 +1012,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "5586-3283-COT26",
-      "org": "UNIVERSIDAD DE LA FRONTERA",
-      "titulo": "J/T Servicio Coffe y colación  ",
-      "monto": 700000,
-      "dias": 0,
-      "cierre": "2026-11-27",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2412-592-COT26",
       "org": "I MUNICIPALIDAD DE LO PRADO",
       "titulo": "CAFÉ, TÉ JUGOS Y MERMELADAS (CIP N°1095– CDP N°435 - EXP. N°22296)",
@@ -1242,19 +1229,6 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región del Biobío ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3869-1043-COT26",
-      "org": "I MUNICIPALIDAD DE GORBEA",
-      "titulo": "SERVICIO DE BANQUETERIA",
-      "monto": 400000,
-      "dias": 0,
-      "cierre": "2026-11-27",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1562,24 +1536,11 @@
       "org": "I MUNICIPALIDAD DE PUNTA ARENAS",
       "titulo": "ADQUISICIÓN DE INSUMOS PARA COFFE QMB LOTEO DEL MAR",
       "monto": 2000000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-11-29",
       "keyword": "COFFE",
       "ofertas_actuales": 2,
       "region": "Región de Magallanes y de la Antártica",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
-      "codigo": "1057548-828-COT26",
-      "org": "SERVICIO DE SALUD VALDIVIA HOSPITAL LA U",
-      "titulo": " Servicio de coffe break ( capacitación ley medica)",
-      "monto": 290000,
-      "dias": 1,
-      "cierre": "2026-11-28",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Los Ríos",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1857,6 +1818,19 @@
       "probabilidad": 45
     },
     {
+      "codigo": "1057548-828-COT26",
+      "org": "SERVICIO DE SALUD VALDIVIA HOSPITAL LA U",
+      "titulo": " Servicio de coffe break ( capacitación ley medica)",
+      "monto": 290000,
+      "dias": 0,
+      "cierre": "2026-11-28",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Los Ríos",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
       "codigo": "3661-519-COT26",
       "org": "I MUNICIPALIDAD DE SAN ESTEBAN",
       "titulo": "POR CONCEPTO DE COCTEL ",
@@ -1974,19 +1948,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "3679-212-COT26",
-      "org": "I MUNICIPALIDAD DE SAN ESTEBAN",
-      "titulo": " POR LA COMPRA DE PRODUCTOS PARA COFFEE BREAK CON CARGO AL PROGRAMA CAPACITACION UNIVERSAL DEL DEPTO. SALUD DE SAN ESTEBAN.",
-      "monto": 636000,
-      "dias": 1,
-      "cierre": "2026-11-28",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 3,
-      "region": "Región de Valparaíso ",
-      "momento": "am",
-      "probabilidad": 42
-    },
-    {
       "codigo": "1558-396-COT26",
       "org": "SERVICIO DE SALUD ATACAMA HOSPITAL FLORENCIO VARGAS DIAZ",
       "titulo": "Servicio de coffe break",
@@ -1998,6 +1959,19 @@
       "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 42
+    },
+    {
+      "codigo": "3679-212-COT26",
+      "org": "I MUNICIPALIDAD DE SAN ESTEBAN",
+      "titulo": " POR LA COMPRA DE PRODUCTOS PARA COFFEE BREAK CON CARGO AL PROGRAMA CAPACITACION UNIVERSAL DEL DEPTO. SALUD DE SAN ESTEBAN.",
+      "monto": 636000,
+      "dias": 0,
+      "cierre": "2026-11-28",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 3,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 40
     },
     {
       "codigo": "918434-397-COT26",
