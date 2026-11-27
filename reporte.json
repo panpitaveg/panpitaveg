@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-26T21:02+00:00",
+  "generado": "2026-11-27T03:37+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -310,6 +310,19 @@
       "probabilidad": 61
     },
     {
+      "codigo": "5350-638-COT26",
+      "org": "I MUNICIPALIDAD DE VALLENAR",
+      "titulo": "SERVICIO DE BANQUETERIA PARA EL 27 PERSONAS PARA EL DIA 04 DE DICIEMBRE DE 2026 JORNADA DE AUTOCUIDADO CESFAM JOAN CRAWFORD.",
+      "monto": 532000,
+      "dias": 3,
+      "cierre": "2026-11-30",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
       "codigo": "2724-1124-COT26",
       "org": "ILUSTRE MUNICIPALIDAD DE SAN CARLOS",
       "titulo": "SERVICIOS DE BANQUETERIA, CIERRE DE ACTIVIDADES PROGRAMA CENTRO CULTURAL",
@@ -332,6 +345,19 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región de Coquimbo ",
+      "momento": "am",
+      "probabilidad": 61
+    },
+    {
+      "codigo": "4105-748-COT26",
+      "org": "I MUNICIPALIDAD DE CALLE LARGA",
+      "titulo": "Artículos de cafetería para el Centro Diurno Comunitario del Adulto Mayor (CEDIAM)",
+      "monto": 500000,
+      "dias": 3,
+      "cierre": "2026-11-30",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
       "momento": "am",
       "probabilidad": 61
     },
@@ -362,19 +388,6 @@
       "probabilidad": 59
     },
     {
-      "codigo": "4999-78-COT26",
-      "org": "I MUNICIPALIDAD DE SAN PEDRO DE ATACAMA",
-      "titulo": "Servicios de Coffee Break en localidades rurales de la comuna de San Pedro de Atacama, Convenio \"Más Salud en Comunidad\" 2026.",
-      "monto": 893800,
-      "dias": 4,
-      "cierre": "2026-12-01",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 1,
-      "region": "Región de Antofagasta ",
-      "momento": "am",
-      "probabilidad": 58
-    },
-    {
       "codigo": "949-252-COT26",
       "org": "Mineduc Administración III Región",
       "titulo": "COFFEE y ALMUERZO en Vallenar, para JORNADA REGIONAL DE DIFUSIÓN LEY 21.778, SOL 03-172",
@@ -388,6 +401,19 @@
       "probabilidad": 57
     },
     {
+      "codigo": "2378-300-COT26",
+      "org": "I MUNICIPALIDAD DE LA FLORIDA",
+      "titulo": "ADQUISICION DE COLACIONES Y SERVICIO DE COFFE PARA EJECUCION DEL PROGRAMA HPV II",
+      "monto": 722867,
+      "dias": 1,
+      "cierre": "2026-11-28",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 57
+    },
+    {
       "codigo": "5586-3341-COT26",
       "org": "UNIVERSIDAD DE LA FRONTERA",
       "titulo": "J/T Servicio de Alimentación-Coffe",
@@ -397,32 +423,6 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "2013-2206-COT26",
-      "org": "UNIVERSIDAD ARTURO PRAT",
-      "titulo": "Servicio de Coffe Break ",
-      "monto": 350000,
-      "dias": 1,
-      "cierre": "2026-11-28",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Tarapacá  ",
-      "momento": "am",
-      "probabilidad": 57
-    },
-    {
-      "codigo": "1638-1012-COT26",
-      "org": "ILUSTRE MUNICIPALIDAD DE DIEGO DE ALMAGRO",
-      "titulo": " Servicio de coctel para actividad recital coro villancicos Diego de Almagro, sm08799",
-      "monto": 700000,
-      "dias": 1,
-      "cierre": "2026-11-28",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 57
     },
@@ -451,6 +451,19 @@
       "region": "Región del Maule ",
       "momento": "am",
       "probabilidad": 57
+    },
+    {
+      "codigo": "4999-78-COT26",
+      "org": "I MUNICIPALIDAD DE SAN PEDRO DE ATACAMA",
+      "titulo": "Servicios de Coffee Break en localidades rurales de la comuna de San Pedro de Atacama, Convenio \"Más Salud en Comunidad\" 2026.",
+      "monto": 893800,
+      "dias": 3,
+      "cierre": "2026-12-01",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 1,
+      "region": "Región de Antofagasta ",
+      "momento": "am",
+      "probabilidad": 56
     },
     {
       "codigo": "5955-560-COT26",
@@ -644,19 +657,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "5586-3324-COT26",
-      "org": "UNIVERSIDAD DE LA FRONTERA",
-      "titulo": "J/T Servicio de coffee ",
-      "monto": 1100000,
-      "dias": 0,
-      "cierre": "2026-11-26",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región de la Araucanía ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -947,32 +947,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "1480074-67-COT26",
-      "org": "MUNICIPALIDAD DE VITACURA",
-      "titulo": "PTR N° E-215  / 1480074-67-COT26 /SUMINISTRO Y SERVICIO/COFFE BREAK PARA 55 PERSONAS EL DÍA 1° DE DICIEMBRE MONTAJE A LAS 16:00 EN BICENTENARIO 3800.",
-      "monto": 396000,
-      "dias": 0,
-      "cierre": "2026-11-26",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "985737-160-COT26",
-      "org": "CENTRO DE FORMACION TECNICA DE LA REGION DEL MAULE",
-      "titulo": "Servicio de coffe break CRM2495",
-      "monto": 861000,
-      "dias": 0,
-      "cierre": "2026-11-26",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Maule ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2415-273-COT26",
       "org": "I MUNICIPALIDAD DE CONCEPCION",
       "titulo": "Servicio de dos Coffe break para 60 personas cada uno, Memo Nº48 (Deleg. Municipal Barrio Norte)",
@@ -1012,6 +986,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "2013-2206-COT26",
+      "org": "UNIVERSIDAD ARTURO PRAT",
+      "titulo": "Servicio de Coffe Break ",
+      "monto": 350000,
+      "dias": 0,
+      "cierre": "2026-11-28",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "608559-13-COT26",
       "org": "MOP-BIENESTAR - XIV REGION",
       "titulo": "servicio de coffe cpn criterio sustentable ",
@@ -1034,6 +1021,32 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2412-592-COT26",
+      "org": "I MUNICIPALIDAD DE LO PRADO",
+      "titulo": "CAFÉ, TÉ JUGOS Y MERMELADAS (CIP N°1095– CDP N°435 - EXP. N°22296)",
+      "monto": 734430,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1422309-16-COT26",
+      "org": "UNIDAD ADMINISTRADORA DE LOS TRIBUNALES TRIBUTARIO",
+      "titulo": "Servicio de café para Cuenta Pública del Tribunal de Contratación Pública",
+      "monto": 300000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "CAFÉ",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1164,6 +1177,32 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región de la Araucanía ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1638-1012-COT26",
+      "org": "ILUSTRE MUNICIPALIDAD DE DIEGO DE ALMAGRO",
+      "titulo": " Servicio de coctel para actividad recital coro villancicos Diego de Almagro, sm08799",
+      "monto": 700000,
+      "dias": 0,
+      "cierre": "2026-11-28",
+      "keyword": "COCTEL",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "4950-132-COT26",
+      "org": "I MUNICIPALIDAD PUERTO OCTAY",
+      "titulo": "CONTRATACIÓN DE SERVICIO DE BANQUETERIA (DESAYUNO Y ALMUERZO PARA 50 PERSONAS) CERTIFICACIÓN ESCUELA DE DIRIGENTE.",
+      "monto": 800000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "BANQUETERIA",
+      "ofertas_actuales": 0,
+      "region": "Región de los Lagos ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1311,6 +1350,84 @@
       "probabilidad": 55
     },
     {
+      "codigo": "5251-1492-COT26",
+      "org": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
+      "titulo": " Insumos cafetería actividades Diseño UTEM",
+      "monto": 421000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2701-898-COT26",
+      "org": "I MUNICIPALIDAD DE TALAGANTE",
+      "titulo": "Artículos de cafetería, para Feria Navideña Año 2026, solicitado por Dirección de Promocion Comunal.",
+      "monto": 2500000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1208066-567-COT26",
+      "org": "UNIVERSIDAD DE TALCA",
+      "titulo": "HABILITACIÓN DE CAFETERÍA – ESCUELA DE PSICOLOGÍA",
+      "monto": 7000000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "1486-53-COT26",
+      "org": "Departamento Provincial de Educación Iquique",
+      "titulo": "Adquisición de insumos de cafetería y abarrotes",
+      "monto": 442394,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región de Tarapacá  ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2376-866-COT26",
+      "org": "I MUNICIPALIDAD DE NUNOA",
+      "titulo": "CONTRATACION SERVICIO DE BRUNCH PROTOCOLAR_COMUNICACIONES",
+      "monto": 1000000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "BRUNCH",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
+      "codigo": "2026-639-COT26",
+      "org": "SERVICIO SALUD VINA DEL MAR QUILLOTA",
+      "titulo": "Servicios de Brunch, Almuerzo y Salón para 100 Personas Cierre Jornada de Capacitación APS a realizar en comuna de Olmué SSVQP",
+      "monto": 1800000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "BRUNCH",
+      "ofertas_actuales": 0,
+      "region": "Región de Valparaíso ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2908-114-COT26",
       "org": "I MUNICIPALIDAD DE LANCO",
       "titulo": "ADQUISICIÓN DE EQUIPAMIENTO DEPORTIVO PARA ESPACIOS DE VIDA SALUDABLE - PROGRAMA PROMOCIÓN DE LA SALUD AÑO 2026.",
@@ -1335,19 +1452,6 @@
       "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 55
-    },
-    {
-      "codigo": "2380-2564-COT26",
-      "org": "I MUNICIPALIDAD DE COPIAPO",
-      "titulo": "SERVICIO DE COFFE BREAK PARA CIERRE DE PROGRAMA LAZOS, PROGRAMA LAZOS, SEGURIDAD PUBLICA, SEGUN OS 155465 (A.T.A)",
-      "monto": 400000,
-      "dias": 1,
-      "cierre": "2026-11-28",
-      "keyword": "COFFE",
-      "ofertas_actuales": 1,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 52
     },
     {
       "codigo": "1208092-84-COT26",
@@ -1385,6 +1489,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 51
+    },
+    {
+      "codigo": "5350-639-COT26",
+      "org": "I MUNICIPALIDAD DE VALLENAR",
+      "titulo": "SERVICIO DE COFFE BREAK PARA 76 PERSONAS JORNADA DE AUTOCUIDADO CESFAM JOAN CRAWFORD PARA EL DIA 05 DE DICIEMBRE 2026",
+      "monto": 228000,
+      "dias": 3,
+      "cierre": "2026-11-30",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
       "momento": "am",
       "probabilidad": 51
     },
@@ -1428,6 +1545,19 @@
       "probabilidad": 51
     },
     {
+      "codigo": "2380-2564-COT26",
+      "org": "I MUNICIPALIDAD DE COPIAPO",
+      "titulo": "SERVICIO DE COFFE BREAK PARA CIERRE DE PROGRAMA LAZOS, PROGRAMA LAZOS, SEGURIDAD PUBLICA, SEGUN OS 155465 (A.T.A)",
+      "monto": 400000,
+      "dias": 0,
+      "cierre": "2026-11-28",
+      "keyword": "COFFE",
+      "ofertas_actuales": 1,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 50
+    },
+    {
       "codigo": "2349-51-COT26",
       "org": "I MUNICIPALIDAD DE PUNTA ARENAS",
       "titulo": "ADQUISICIÓN DE INSUMOS PARA COFFE QMB LOTEO DEL MAR",
@@ -1439,19 +1569,6 @@
       "region": "Región de Magallanes y de la Antártica",
       "momento": "am",
       "probabilidad": 49
-    },
-    {
-      "codigo": "3952-293-COT26",
-      "org": "I MUNICIPALIDAD DE PERALILLO",
-      "titulo": "SERVICIO DE COFFE BREAK - ESCUELA SARA RAVELLO",
-      "monto": 250000,
-      "dias": 1,
-      "cierre": "2026-11-28",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 47
     },
     {
       "codigo": "1057548-828-COT26",
@@ -1476,32 +1593,6 @@
       "keyword": "COCTEL",
       "ofertas_actuales": 0,
       "region": "Región del Ñuble",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
-      "codigo": "1274277-136-COT26",
-      "org": "CORPORACION DE FOMENTO DE DESARROLLO COMUNAL Y PRODUCTIVO",
-      "titulo": "DESAYUNO ACTIVIDAD ANIVERSARIO CORPORACION  ( CORPORACION DE FOMENTO ) ",
-      "monto": 150000,
-      "dias": 1,
-      "cierre": "2026-11-28",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 47
-    },
-    {
-      "codigo": "3718-149-COT26",
-      "org": "I MUNICIPALIDAD DE PUMANQUE",
-      "titulo": "alimentos saludables Programa Mas Salud Comunidad",
-      "monto": 50000,
-      "dias": 1,
-      "cierre": "2026-11-27",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1701,19 +1792,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "618923-232-COT26",
-      "org": "SUBSECRETARIA PARA LAS FUERZAS ARMADAS",
-      "titulo": "COFFE BREAK 40 PERSONAS - 01/12/2026",
-      "monto": 280000,
-      "dias": 0,
-      "cierre": "2026-11-26",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "5416-986-COT26",
       "org": "UNIVERSIDAD DE LA SERENA",
       "titulo": "COFFE PARA 40 PERSONAS",
@@ -1762,6 +1840,19 @@
       "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "3952-293-COT26",
+      "org": "I MUNICIPALIDAD DE PERALILLO",
+      "titulo": "SERVICIO DE COFFE BREAK - ESCUELA SARA RAVELLO",
+      "monto": 250000,
+      "dias": 0,
+      "cierre": "2026-11-28",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 45
     },
@@ -1818,19 +1909,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "5194-698-COT26",
-      "org": "Servicio de Bienestar Social",
-      "titulo": "FF:BANDEJAS CON BLONDA Y SERVILLETAS DE COCTEL, CCP COLINA II",
-      "monto": 45000,
-      "dias": 0,
-      "cierre": "2026-11-26",
-      "keyword": "COCTEL",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "1469-4524-COT26",
       "org": "UNIVERSIDAD DE TALCA",
       "titulo": "20-45773 Cocktail.",
@@ -1853,6 +1931,45 @@
       "keyword": "BANQUETERIA",
       "ofertas_actuales": 0,
       "region": "Región del Maule ",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "1274277-136-COT26",
+      "org": "CORPORACION DE FOMENTO DE DESARROLLO COMUNAL Y PRODUCTIVO",
+      "titulo": "DESAYUNO ACTIVIDAD ANIVERSARIO CORPORACION  ( CORPORACION DE FOMENTO ) ",
+      "monto": 150000,
+      "dias": 0,
+      "cierre": "2026-11-28",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "4289-6-COT26",
+      "org": "GOBIERNO REGIONAL REGION METROPOLITANA",
+      "titulo": "Servicio Cafetería para Actividad Institucional",
+      "monto": 290000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 45
+    },
+    {
+      "codigo": "3718-149-COT26",
+      "org": "I MUNICIPALIDAD DE PUMANQUE",
+      "titulo": "alimentos saludables Programa Mas Salud Comunidad",
+      "monto": 50000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 45
     },
@@ -1891,6 +2008,32 @@
       "cierre": "2026-11-27",
       "keyword": "COFFE",
       "ofertas_actuales": 1,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 40
+    },
+    {
+      "codigo": "4100-254-COT26",
+      "org": "Dirección General de Carabineros de Chile",
+      "titulo": "ADQUISICIÓN INSUMOS DE CAFETERÍA PARA LA AYUDANTÍA GENERAL",
+      "monto": 270004,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 1,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 40
+    },
+    {
+      "codigo": "564162-1334-COT26",
+      "org": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+      "titulo": "Artículos de cafetería",
+      "monto": 375000,
+      "dias": 0,
+      "cierre": "2026-11-27",
+      "keyword": "CAFETERÍA",
+      "ofertas_actuales": 3,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 40
