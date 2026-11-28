@@ -1,6 +1,6 @@
 {
   "momento": "am",
-  "generado": "2026-11-27T20:47+00:00",
+  "generado": "2026-11-28T03:09+00:00",
   "keywords": [
     "COFFEE",
     "COFFE",
@@ -193,6 +193,19 @@
       "probabilidad": 61
     },
     {
+      "codigo": "2035-99-COT26",
+      "org": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CHAÑARAL",
+      "titulo": "Contratación de servicio de coffee break para la DDP Chañaral ",
+      "monto": 800000,
+      "dias": 2,
+      "cierre": "2026-11-30",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "4329-312-COT26",
       "org": "I MUNICIPALIDAD DE NIQUEN",
       "titulo": "SERVICIO INTEGRAL DE COFFEE BREAK PARA 70 PERSONAS",
@@ -330,6 +343,45 @@
       "dias": 2,
       "cierre": "2026-11-30",
       "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "2069-3017-COT26",
+      "org": "SERVICIO DE SALUD METROPOLITANO SUR HOSP",
+      "titulo": "CNG-CE-112026-COFFEE PARA JORNADA CAPACITACIÓN",
+      "monto": 650000,
+      "dias": 2,
+      "cierre": "2026-11-30",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "980-64-COT26",
+      "org": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+      "titulo": "Servicio de Coffe Break",
+      "monto": 800000,
+      "dias": 2,
+      "cierre": "2026-11-30",
+      "keyword": "COFFE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
+      "codigo": "618923-238-COT26",
+      "org": "SUBSECRETARIA PARA LAS FUERZAS ARMADAS",
+      "titulo": "COFFE BREAK 60 PERSONAS - 02/12/2026  ",
+      "monto": 380000,
+      "dias": 2,
+      "cierre": "2026-11-30",
+      "keyword": "COFFE",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
       "momento": "am",
@@ -739,6 +791,19 @@
       "probabilidad": 59
     },
     {
+      "codigo": "3962-471-COT26",
+      "org": "I MUNICIPALIDAD DE SANTA BARBARA",
+      "titulo": "SERVICIO DE DESAYUNO Y ALMUERZO PARA 30 PERSONAS PROGRAMA RESIDENCIA FAMILIAR ESTUDIANTIL",
+      "monto": 500000,
+      "dias": 2,
+      "cierre": "2026-11-30",
+      "keyword": "DESAYUNO",
+      "ofertas_actuales": 0,
+      "region": "Región del Biobío ",
+      "momento": "am",
+      "probabilidad": 59
+    },
+    {
       "codigo": "316-592-COT26",
       "org": "I MUNICIPALIDAD DE VILLA ALEMANA",
       "titulo": "P. N°1545/UNIDAD DE DEPORTES/SERVICIO DE DESAYUNO CATERING/ADJUDICACIÓN CONDICIONADA A DISPONIBILIDAD PRESUPUESTARIA Y REQUISITOS.",
@@ -947,6 +1012,19 @@
       "probabilidad": 55
     },
     {
+      "codigo": "949-252-COT26",
+      "org": "Mineduc Administración III Región",
+      "titulo": "COFFEE y ALMUERZO en Vallenar, para JORNADA REGIONAL DE DIFUSIÓN LEY 21.778, SOL 03-172",
+      "monto": 1440000,
+      "dias": 0,
+      "cierre": "2026-11-28",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 55
+    },
+    {
       "codigo": "2380-2611-COT26",
       "org": "I MUNICIPALIDAD DE COPIAPO",
       "titulo": " SERVICIO DE COFFE BREAK POR UN PERIODO DE 1 MES O 10 COFFE BREAK, DEPARTAMENTO DE SECRETARIA MUNICIPAL, SEGUN OS 155899 (A.T.A)",
@@ -1051,19 +1129,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "949-252-COT26",
-      "org": "Mineduc Administración III Región",
-      "titulo": "COFFEE y ALMUERZO en Vallenar, para JORNADA REGIONAL DE DIFUSIÓN LEY 21.778, SOL 03-172",
-      "monto": 1440000,
-      "dias": 0,
-      "cierre": "2026-11-28",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de Atacama ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "2013-2206-COT26",
       "org": "UNIVERSIDAD ARTURO PRAT",
       "titulo": "Servicio de Coffe Break ",
@@ -1129,19 +1194,6 @@
       "probabilidad": 55
     },
     {
-      "codigo": "4950-132-COT26",
-      "org": "I MUNICIPALIDAD PUERTO OCTAY",
-      "titulo": "CONTRATACIÓN DE SERVICIO DE BANQUETERIA (DESAYUNO Y ALMUERZO PARA 50 PERSONAS) CERTIFICACIÓN ESCUELA DE DIRIGENTE.",
-      "monto": 800000,
-      "dias": 0,
-      "cierre": "2026-11-27",
-      "keyword": "BANQUETERIA",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
       "codigo": "3707-650-COT26",
       "org": "I MUNICIPALIDAD DE LA HIGUERA",
       "titulo": "CONTRATACION DEL SERVICIO DE COCTELERIA Y BANQUETERIA PARA ATENCION A AUTORIDADES EN ANIVERSARIO N 135 DE LA COMUNA DE LA HIGUERA",
@@ -1177,19 +1229,6 @@
       "keyword": "DESAYUNO",
       "ofertas_actuales": 0,
       "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 55
-    },
-    {
-      "codigo": "3962-471-COT26",
-      "org": "I MUNICIPALIDAD DE SANTA BARBARA",
-      "titulo": "SERVICIO DE DESAYUNO Y ALMUERZO PARA 30 PERSONAS PROGRAMA RESIDENCIA FAMILIAR ESTUDIANTIL",
-      "monto": 500000,
-      "dias": 0,
-      "cierre": "2026-11-28",
-      "keyword": "DESAYUNO",
-      "ofertas_actuales": 0,
-      "region": "Región del Biobío ",
       "momento": "am",
       "probabilidad": 55
     },
@@ -1291,7 +1330,7 @@
       "monto": 1550000,
       "dias": 1,
       "cierre": "2026-11-29",
-      "keyword": "COFFE",
+      "keyword": "COFFEE",
       "ofertas_actuales": 1,
       "region": "Región de Atacama ",
       "momento": "am",
@@ -1363,6 +1402,19 @@
       "probabilidad": 50
     },
     {
+      "codigo": "696027-101-COT26",
+      "org": "MINISTERIO PUBLICO",
+      "titulo": "Servicio de Coffee Break",
+      "monto": 200000,
+      "dias": 2,
+      "cierre": "2026-11-30",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Arica y Parinacota",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
       "codigo": "1208092-84-COT26",
       "org": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
       "titulo": "Servicio de coffee break para Jornada de Buenas Prácticas de Participación, Región de Antofagasta.",
@@ -1398,6 +1450,19 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 49
+    },
+    {
+      "codigo": "307-73-COT26",
+      "org": "Consejo de Rectores de las Universidades Chilenas",
+      "titulo": "Servicio de Coffee Break para la Plenaria de Vicerrectores Académicos",
+      "monto": 210000,
+      "dias": 2,
+      "cierre": "2026-11-30",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 49
     },
@@ -1493,32 +1558,6 @@
       "probabilidad": 49
     },
     {
-      "codigo": "307-73-COT26",
-      "org": "Consejo de Rectores de las Universidades Chilenas",
-      "titulo": "Servicio de Coffee Break para la Plenaria de Vicerrectores Académicos",
-      "monto": 210000,
-      "dias": 2,
-      "cierre": "2026-11-30",
-      "keyword": "BREAK",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
-      "codigo": "578459-1010-COT26",
-      "org": "CORP MUNICIPAL DE ISLA DE MAIPO PARA L",
-      "titulo": "COFFEE BREAK - MEMO 672-4/2026 - PROGRAMA MAS SALUD COMUNIDAD - NANCY HERNANDEZ - CESFAM ISLA.",
-      "monto": 164761,
-      "dias": 2,
-      "cierre": "2026-11-30",
-      "keyword": "BREAK",
-      "ofertas_actuales": 0,
-      "region": "Región Metropolitana de Santiago",
-      "momento": "am",
-      "probabilidad": 49
-    },
-    {
       "codigo": "2324-1289-COT26",
       "org": "I MUNICIPALIDAD DE PUERTO MONTT",
       "titulo": "ADQUISICION DE  MATERIAL DESECHABLE Y/O BIODEGRADABLE PARA  SERVICIO DE COFFEE EN LAS ACTIVIDADES DE LA MESA DE DIVERSIDAD SEXUAL Y DE GENERO 2026/ DIDECO ",
@@ -1528,6 +1567,32 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "949-253-COT26",
+      "org": "Mineduc Administración III Región",
+      "titulo": "COFFEE, para JORNADA REGIONAL DE DIFUSIÓN LE 21.778, SOL 03-172",
+      "monto": 112500,
+      "dias": 1,
+      "cierre": "2026-11-29",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región de Atacama ",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
+      "codigo": "578459-1010-COT26",
+      "org": "CORP MUNICIPAL DE ISLA DE MAIPO PARA L",
+      "titulo": "COFFEE BREAK - MEMO 672-4/2026 - PROGRAMA MAS SALUD COMUNIDAD - NANCY HERNANDEZ - CESFAM ISLA.",
+      "monto": 164761,
+      "dias": 1,
+      "cierre": "2026-11-30",
+      "keyword": "COFFEE",
+      "ofertas_actuales": 0,
+      "region": "Región Metropolitana de Santiago",
       "momento": "am",
       "probabilidad": 47
     },
@@ -1558,6 +1623,19 @@
       "probabilidad": 47
     },
     {
+      "codigo": "3718-149-COT26",
+      "org": "I MUNICIPALIDAD DE PUMANQUE",
+      "titulo": "alimentos saludables Programa Mas Salud Comunidad",
+      "monto": 50000,
+      "dias": 1,
+      "cierre": "2026-11-29",
+      "keyword": "SALUDABLE",
+      "ofertas_actuales": 0,
+      "region": "Región del Libertador General Bernardo O´Higgins",
+      "momento": "am",
+      "probabilidad": 47
+    },
+    {
       "codigo": "2048-751-COT26",
       "org": "Hospital de Ancud",
       "titulo": " COFFEE BREACK CAPACITACIÓN//PEM",
@@ -1567,19 +1645,6 @@
       "keyword": "COFFEE",
       "ofertas_actuales": 0,
       "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
-      "codigo": "1402-430-COT26",
-      "org": "Dirección Regional de Gendarmeria - Rancagua",
-      "titulo": "ADQUISICIÓN DE ARTÍCULOS DE COFFEE BREAK PARA EL PROGRAMA 2 C.A.I.S RANCAGUA DE GENDARMERIA DE CHILE REGION DE O´HIGGINS",
-      "monto": 236427,
-      "dias": 0,
-      "cierre": "2026-11-27",
-      "keyword": "COFFEE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
       "momento": "am",
       "probabilidad": 45
     },
@@ -1649,19 +1714,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "1413-609-COT26",
-      "org": "Dirección Regional de Gendarmeria - Puerto Montt",
-      "titulo": "DIRREG LOS LAGOS REQUIERE ADQUIRIR SERVICIO DE COFFE BREAK PARA CEREMONIA DE ANIVERSARIO INSTITUCIONAL.",
-      "monto": 287500,
-      "dias": 0,
-      "cierre": "2026-11-27",
-      "keyword": "COFFE",
-      "ofertas_actuales": 0,
-      "region": "Región de los Lagos ",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "3952-293-COT26",
       "org": "I MUNICIPALIDAD DE PERALILLO",
       "titulo": "SERVICIO DE COFFE BREAK - ESCUELA SARA RAVELLO",
@@ -1727,19 +1779,6 @@
       "probabilidad": 45
     },
     {
-      "codigo": "3718-149-COT26",
-      "org": "I MUNICIPALIDAD DE PUMANQUE",
-      "titulo": "alimentos saludables Programa Mas Salud Comunidad",
-      "monto": 50000,
-      "dias": 0,
-      "cierre": "2026-11-27",
-      "keyword": "SALUDABLE",
-      "ofertas_actuales": 0,
-      "region": "Región del Libertador General Bernardo O´Higgins",
-      "momento": "am",
-      "probabilidad": 45
-    },
-    {
       "codigo": "1591-184-COT26",
       "org": "Servicio Nacional de Turismo",
       "titulo": "COFFE BREAK PARA REUNION DE COORDINACIÓN MESA DE TURISMO INDIGENA, SAN PERDO DE ATACAMA, REGIÓN DE ANTOFAGASTA",
@@ -1757,13 +1796,13 @@
       "org": "UNIVERSIDAD DE ATACAMA",
       "titulo": "Servicio de Coffee break",
       "monto": 400000,
-      "dias": 2,
+      "dias": 1,
       "cierre": "2026-11-29",
-      "keyword": "BREAK",
+      "keyword": "COFFEE",
       "ofertas_actuales": 3,
       "region": "Región de Atacama ",
       "momento": "am",
-      "probabilidad": 44
+      "probabilidad": 42
     },
     {
       "codigo": "1558-396-COT26",
